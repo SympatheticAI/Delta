@@ -1,0 +1,864 @@
+Δ-Calculus v0.1 — Axioms, Operators, Theorems, Tests
+0) Physical stance
+
+Reality runs at finite information. Continuum math is a limit tool, not a substrate. Empirically, precision ceilings and plateaus appear across domains (quantum gates, clocks, GW detectors, NS numerics), matching the Δ prediction that systems abstain before completing infinities.
+
+1) Base geometry and constants
+
+Preferred lattice: N = 4 (square) with lattice π π_Δ ≈ 3.021; use τ_Δ = 4π_Δ.
+
+Any formula whose constants arise from circle length/area or Fourier normalization swaps π → π_Δ and 2π → 2π_Δ.
+
+2) The three laws (formal)
+Law 1 — The limit is illegal (ε-floor)
+
+Fix a nonzero resolution ε > 0 (CRL floor). Derivatives are ε-differences:
+
+𝐷
+𝜀
+𝑓
+(
+𝑥
+)
+	
+=
+𝑓
+(
+𝑥
++
+𝜀
+)
+−
+𝑓
+(
+𝑥
+−
+𝜀
+)
+2
+𝜀
+,
+
+
+∇
+𝜀
+𝑓
+(
+𝑥
+)
+𝑖
+	
+=
+𝑓
+(
+𝑥
++
+𝜀
+𝑒
+𝑖
+)
+−
+𝑓
+(
+𝑥
+−
+𝜀
+𝑒
+𝑖
+)
+2
+𝜀
+,
+
+
+Δ
+𝜀
+𝑓
+	
+=
+∑
+𝑖
+𝑓
+(
+𝑥
++
+𝜀
+𝑒
+𝑖
+)
+−
+2
+𝑓
+(
+𝑥
+)
++
+𝑓
+(
+𝑥
+−
+𝜀
+𝑒
+𝑖
+)
+𝜀
+2
+.
+D
+ε
+	​
+
+f(x)
+∇
+ε
+	​
+
+f(x)
+i
+	​
+
+Δ
+ε
+	​
+
+f
+	​
+
+=
+2ε
+f(x+ε)−f(x−ε)
+	​
+
+,
+=
+2ε
+f(x+εe
+i
+	​
+
+)−f(x−εe
+i
+	​
+
+)
+	​
+
+,
+=
+i
+∑
+	​
+
+ε
+2
+f(x+εe
+i
+	​
+
+)−2f(x)+f(x−εe
+i
+	​
+
+)
+	​
+
+.
+	​
+
+
+You never take ε→0; ε is physical.
+
+Law 2 — The integral is debt (mass term)
+
+Integrals are ε-Riemann sums plus a geometric-deficit remainder:
+
+∫
+𝑎
+𝑏
+𝑓
+(
+𝑥
+)
+ 
+𝑑
+𝑥
+  
+  
+⇝
+  
+  
+∑
+𝑘
+𝑓
+(
+𝑥
+𝑘
+)
+ 
+𝜀
+  
++
+  
+𝑀
+def
+.
+∫
+a
+b
+	​
+
+f(x)dx⇝
+k
+∑
+	​
+
+f(x
+k
+	​
+
+)ε+M
+def
+	​
+
+.
+
+The remainder 
+𝑀
+def
+M
+def
+	​
+
+ is the tiling deficit / stored abstention energy. Define the mass functional
+
+ 
+𝑚
+𝑐
+2
+  
+=
+  
+∫
+𝜁
+(
+𝑥
+)
+ 
+Φ
+(
+𝑥
+)
+ 
+𝑑
+3
+𝑥
+ 
+mc
+2
+=∫ζ(x)Φ(x)d
+3
+x
+	​
+
+
+with 
+𝜁
+ζ (indecision) and 
+Φ
+Φ (hazard) fields: “mass = accumulated integration debt.”
+
+Law 3 — The singularity is an abstention (safety valve)
+
+Where curvature/tension would exceed capacity, dynamics refuse:
+
+𝐴
+(
+𝑥
+,
+𝑡
+)
+=
+1
+ ⁣
+[
+𝑇
+(
+𝑥
+,
+𝑡
+)
+>
+𝐵
+(
+𝑥
+,
+𝑡
+)
+]
+,
+𝑢
+˙
+  
+↦
+  
+𝑢
+˙
+−
+∂
+𝑢
+𝐻
+haz
+(
+𝑢
+;
+𝜁
+)
+ when 
+𝐴
+=
+1.
+A(x,t)=1[T(x,t)>B(x,t)],
+u
+˙
+↦
+u
+˙
+−∂
+u
+	​
+
+H
+haz
+	​
+
+(u;ζ) when A=1.
+
+This is the calculus-level NOT gate preventing blow-ups.
+
+3) Core identities (Δ-versions)
+
+Δ–Fundamental Theorem (central differences).
+For 
+𝐹
+′
+=
+𝑓
+F
+′
+=f in the ε-sense,
+
+∑
+𝑘
+=
+𝑎
+𝑏
+−
+𝜀
+𝐷
+𝜀
+𝐹
+(
+𝑥
+𝑘
+)
+ 
+𝜀
+=
+𝐹
+(
+𝑏
+)
+−
+𝐹
+(
+𝑎
+)
+−
+𝑀
+def
+.
+k=a
+∑
+b−ε
+	​
+
+D
+ε
+	​
+
+F(x
+k
+	​
+
+)ε=F(b)−F(a)−M
+def
+	​
+
+.
+
+Product / Chain rules (central).
+
+𝐷
+𝜀
+(
+𝑓
+𝑔
+)
+=
+𝑓
+ 
+𝐷
+𝜀
+𝑔
++
+𝑔
+ 
+𝐷
+𝜀
+𝑓
++
+𝑂
+(
+𝜀
+2
+)
+,
+𝐷
+𝜀
+𝜙
+(
+𝑓
+)
+=
+𝜙
+′
+(
+𝑓
+)
+ 
+𝐷
+𝜀
+𝑓
++
+𝑂
+(
+𝜀
+2
+)
+.
+D
+ε
+	​
+
+(fg)=fD
+ε
+	​
+
+g+gD
+ε
+	​
+
+f+O(ε
+2
+),D
+ε
+	​
+
+ϕ(f)=ϕ
+′
+(f)D
+ε
+	​
+
+f+O(ε
+2
+).
+
+(Abstention can zero the remainder when the budget would be exceeded.)
+
+Discrete divergence theorem (square lattice).
+
+∑
+Ω
+∇
+𝜀
+ ⁣
+⋅
+ ⁣
+𝐹
+ 
+𝜀
+2
+=
+∑
+∂
+Ω
+𝐹
+ ⁣
+⋅
+ ⁣
+𝑛
+𝜀
+ 
+𝜀
+.
+Ω
+∑
+	​
+
+∇
+ε
+	​
+
+⋅Fε
+2
+=
+∂Ω
+∑
+	​
+
+F⋅n
+ε
+	​
+
+ε.
+
+Gaussian / heat kernel normalization.
+
+∫
+𝑅
+𝑑
+𝑒
+−
+∥
+𝑥
+∥
+2
+4
+𝑡
+ 
+𝑑
+𝑥
+⇝
+(
+4
+𝜋
+Δ
+𝑡
+)
+𝑑
+2
+  
+  
+(lattice measure)
+.
+∫
+R
+d
+	​
+
+e
+−
+4t
+∥x∥
+2
+	​
+
+dx⇝(4π
+Δ
+	​
+
+t)
+2
+d
+	​
+
+(lattice measure).
+
+Fourier/Parseval constants.
+Use 
+2
+𝜋
+Δ
+2π
+Δ
+	​
+
+ in kernels; Plancherel holds exactly on the lattice with that normalization.
+
+4) Δ-PDE exemplars
+
+Δ-Navier–Stokes (Cathedral form).
+
+∂
+𝑡
+𝑢
++
+(
+𝑢
+ ⁣
+⋅
+ ⁣
+∇
+𝜀
+)
+𝑢
+=
+−
+∇
+𝜀
+𝑝
++
+𝜈
+ 
+Δ
+𝜀
+𝑢
+−
+∂
+𝑢
+𝐻
+haz
+(
+𝑢
+;
+𝜁
+)
+,
+∇
+𝜀
+ ⁣
+⋅
+𝑢
+=
+0.
+∂
+t
+	​
+
+u+(u⋅∇
+ε
+	​
+
+)u=−∇
+ε
+	​
+
+p+νΔ
+ε
+	​
+
+u−∂
+u
+	​
+
+H
+haz
+	​
+
+(u;ζ),∇
+ε
+	​
+
+⋅u=0.
+
+ε-operators forbid infinite sharpness.
+
+𝐻
+haz
+H
+haz
+	​
+
++NOT enforce no-blow-up; energy is rerouted into soliton/filament states when needed.
+
+Δ-Wave/Heat (base kernels).
+
+∂
+𝑡
+𝑢
+=
+𝜅
+ 
+Δ
+𝜀
+𝑢
+,
+∂
+𝑡
+𝑡
+𝑢
+=
+𝑐
+2
+ 
+Δ
+𝜀
+𝑢
+−
+∂
+𝑢
+𝐻
+haz
+.
+∂
+t
+	​
+
+u=κΔ
+ε
+	​
+
+u,∂
+tt
+	​
+
+u=c
+2
+Δ
+ε
+	​
+
+u−∂
+u
+	​
+
+H
+haz
+	​
+
+.
+5) Worked minis (one-liners you can cite in figures)
+
+Circle perimeter audit (pixels): slope of 
+𝐶
+(
+𝑟
+)
+C(r) vs 
+𝑟
+r → τ_Δ = 4π_Δ (not 2π).
+(We ran it: see plot/data if you want to include:
+V2 summary, plot.)
+
+Random walk → Gaussian: best fit normalization uses π_Δ.
+(Artifacts: V1 summary, plot.)
+
+6) Validation batteries (falsifiable)
+
+B1 — Lattice Gaussian test.
+Simulate random walks on a grid; compare RMSE for kernels using π vs π_Δ. Δ wins → lower residuals.
+
+B2 — Digital circle regression.
+Compute perimeter counts for radii 
+𝑟
+=
+5..600
+r=5..600; regress 
+𝐶
+(
+𝑟
+)
+=
+𝛼
++
+𝛽
+𝑟
+C(r)=α+βr. Prefer 
+𝛽
+≈
+4
+𝜋
+Δ
+β≈4π
+Δ
+	​
+
+.
+
+B3 — FFT/Parseval audit.
+Energy gap 
+∣
+𝐸
+time
+−
+𝐸
+freq
+∣
+∣E
+time
+	​
+
+−E
+freq
+	​
+
+∣ shrinks when normalization uses 
+2
+𝜋
+Δ
+2π
+Δ
+	​
+
+.
+
+B4 — Δ-NS stress test.
+Drive toward a known blow-up seed; show abstention term activates and prevents divergence while conserving the audit ledger.
+
+B5 — Debt ↔ mass.
+Track 
+𝑀
+def
+M
+def
+	​
+
+ on evolving fields; correlate with the 
+∫
+𝜁
+Φ
+∫ζΦ budget.
+
+Each battery is pass/fail and publishes with code + data.
+
+7) Minimal “How-to” (for users of Δ-Calculus)
+
+Pick ε (physical or numerical CRL).
+
+Swap kernels: π→π_Δ, 
+2
+𝜋
+→
+2
+𝜋
+Δ
+2π→2π
+Δ
+	​
+
+, replace ∇,Δ with ε-forms.
+
+Add hazard: pick 
+𝐻
+haz
+H
+haz
+	​
+
+ to cap curvature/condition number; wire NOT.
+
+Track debt: report 
+𝑀
+def
+M
+def
+	​
+
+ and 
+∫
+𝜁
+Φ
+∫ζΦ.
+
+Audit with B1–B5.

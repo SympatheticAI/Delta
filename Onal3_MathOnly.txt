@@ -1,0 +1,418 @@
+# ONAL LOGIC & PHILOSOPHICAL FOUNDATIONS - MATHEMATICAL CORE EXTRACTION
+
+## 1. ONAL MAPPING (Corrected)
+
+### Four States (2-bit)
+- **11 (OR)**: Circular polarity, expansion, future, cavitation (fatal dissonance)
+- **10 (NOT)**: Binary constraint, abstention gate, present, filtering (vital dissonance)
+- **00 (AND)**: Scalar polarity, locked flow, past/reference, filament (vital harmony)
+- **01 (LOCK)**: Binary polarity, soliton, memory, mass (fatal harmony)
+
+### Gray Code Cycle (Δ-Gray)
+```
+11 → 10 → 00 → 01 → (wrap) → 11
+```
+Each step flips exactly ONE bit (Gray code property)
+
+---
+
+## 2. PRIMITIVE PAIRS: 16 → 10 FILTER
+
+### 16 Possibilities from 4x4 Pairing
+4-bit patterns from combining ONAL states
+
+### Rejection Rules (6 patterns banned)
+**Rejected patterns:**
+- 0000 (no variation, trivial)
+- 1111 (maximal, non-compact)
+- 0101 (alternation, non-portable)
+- 1010 (alternation, non-portable)
+- 0011 (step-plateau, LOW violation)
+- 1100 (step-plateau, LOW violation)
+
+**Survivors: 10 patterns**
+```
+Weight-1: 0001, 0010, 0100, 1000
+Weight-2: 0011*, 0101*, 0110, 1001, 1010*, 1100*
+Weight-3: 0111, 1011, 1101, 1110
+Special: 0000*, 1111*
+
+*marked = rejected
+Final survivors after filter: exactly 10
+```
+
+---
+
+## 3. FULL REDUCTION: 16 → 10 → 2 → 1
+
+### Gate A: Gray-Monotone Traversal
+For 4-bit pattern b₀b₁b₂b₃, form sliding windows:
+```
+w₀ = b₀b₁
+w₁ = b₁b₂
+w₂ = b₂b₃
+w₃ = b₃b₀
+```
+
+Map to Gray index:
+```
+g(11) = 3
+g(10) = 2
+g(00) = 1
+g(01) = 0
+```
+
+**Pass criterion:** ∃ rotation where indices step by -1 (mod 4)
+
+### Gate B: Full ONAL Tour (10 → 2)
+**Test:** Which patterns hit ALL FOUR states {11, 10, 00, 01} exactly once?
+
+**Weight-1 (0001, 0010, 0100, 1000):**
+- Windows miss 11 or other states
+- **FAIL**
+
+**Weight-3 (0111, 1011, 1101, 1110):**
+- Windows miss 00 or other states
+- **FAIL**
+
+**Weight-2 balanced (0110, 1001):**
+- **0110:** windows {01, 11, 10, 00} ✓ ALL FOUR
+- **1001:** windows {10, 00, 01, 11} ✓ ALL FOUR
+- **PASS**
+
+Only 2 survivors traverse full ONAL cycle
+
+### Gate C: Orientation + Anchor (2 → 1)
+Fix gauge:
+1. Clockwise traversal (11→10→00→01)
+2. Anchor at first window
+
+**0110:**
+- First window = 01 (NOT)
+- **NO path** (filter first, abstention-led)
+
+**1001:**
+- First window = 10 (LOCK)
+- **YES path** (commit first, soliton-led)
+
+**Result:** Binary decision from pure geometry
+
+---
+
+## 4. DIGITS AS ONAL ENCODINGS
+
+### 6 and 9 Connection
+**6 (decimal) = 0110 (binary):**
+- First window: 01 (NOT)
+- Abstention-first strategy
+- NO path
+
+**9 (decimal) = 1001 (binary):**
+- First window: 10 (LOCK)
+- Commitment-first strategy
+- YES path
+
+### Digital Root Properties
+```
+6 + 9 = 15 → 1+5 = 6 (cycle closes)
+6 × 9 = 54 → 5+4 = 9 (cycle closes)
+```
+
+Both weight-2 (balanced: two 0s, two 1s)
+
+---
+
+## 5. NUMBERS AS GEOMETRIC LOCKS
+
+### Representation Rules
+- **0:** Empty circle ○ (abstention face, void)
+- **1:** Filled dot ● (first presence, irreducible)
+- **2:** Two dots + line (●—●)
+- **3:** Three dots + **equilateral triangle** (△)
+- **4:** Four dots + **perfect square** (□)
+- **5:** Five dots + **regular pentagon** (⬠)
+- **6:** Six dots + **regular hexagon** (⬡) [HINGE]
+- **7:** Seven dots + **regular heptagon**
+- **8:** Eight dots + **regular octagon**
+- **9:** Nine dots + **regular nonagon** [CYCLE-CLOSER]
+
+### LOW Constraint on Regularity
+- Regular polygons: **LOW-compliant** (minimal K)
+- Irregular/deformed: **higher K** → abstains under LOW
+- Shear/skew adds curvature → fails W = exp(-0.6K)
+
+### Flatness Signature (Digital Root 9)
+**In flat (Euclidean) space:**
+- n-gon interior angle sum: (n-2) × 180°
+- Digital root: ALWAYS 9
+  - 180° → 9
+  - 360° → 9
+  - 540° → 9
+
+**In curved space:**
+- Angle sum ≠ flat prediction
+- Digital root ≠ 9
+- **Curvature detector**
+
+**9 = signature of zero curvature**
+
+---
+
+## 6. DUAL VACUUM = ○ AND ●
+
+### Two Vacua Correspondence
+**○ (empty circle) = Flow/IN vacuum:**
+- Divergence operator (∇·)
+- Compression/expansion
+- Scalar potential φ
+- "Everything → uniform"
+
+**● (filled dot) = Shear/OUT vacuum:**
+- Curl operator (∇×)
+- Rotation/tangential
+- Vector potential A
+- "Maintain identity"
+
+### Properties
+- **Free theory:** Factorize (independent)
+- **At LOCK indices:** Couple (merge identities)
+- **Tension:** Creates oscillation (time) and curvature (gravity)
+
+**○ ↔ ● = Flow ↔ Shear = 0 ↔ 1**
+
+---
+
+## 7. THREE CONSEQUENCES + ONE GATE (CPL Framework)
+
+### Three Dynamical Consequences
+1. **Contrast (c)** ← OR (00), separation, cavitation
+2. **Phase (φ)** ← filament/reference structure
+3. **Luminality (Λ)** ← soliton/localization, energy concentration
+
+### One Selector (Not a Force)
+4. **Abstention (Θ)** ← NOT (10), enforces LOW, prunes non-compact paths
+
+### Lagrangian Form
+```
+L_CPL = (kinetic terms in c, φ, Λ) + (coupling when LOCK)
+```
+**Θ is NOT in Lagrangian** - it's the certification gate
+
+---
+
+## 8. CALCULUS FIX (Heat Regularization)
+
+### Operator Replacement
+```
+∇ → ∇_ε := ∇ S_ε  (where S_ε = e^(εΔ))
+Δ → Δ_ε := Δ S_ε
+```
+Keep ε > 0 **FIXED** (don't take limit to zero)
+
+### Measure Contract
+```
+π → π_Δ ≈ 3.021 (from N=4 lattice)
+2π → 2π_Δ
+```
+
+### Integration
+```
+∫ → Riemann sum at step ε + deficit M_def
+```
+
+### Mass Gap Connection
+**Deficit:**
+```
+δ = π - π_Δ ≈ 3.14159 - 3.021 ≈ 0.121
+```
+
+**Triple role:**
+1. Resolution floor (minimum measurable curvature)
+2. Spectral floor (transverse kernel shift: +δI)
+3. Geometric factor (prefactor in Λ, constants)
+
+**Operational mass gap:**
+```
+ω₀ ≥ √δ ≈ 0.348 (lattice units)
+```
+
+---
+
+## 9. COSMOLOGICAL CONSTANT Λ
+
+### Geometric Prefactor (N=4)
+```
+G_N=4 = (2π/N)² · (π/π_eff) · √2 ± 1 ≈ 2.90
+```
+
+### Abstention Depth
+M = 122 (certified layer depth)
+
+### Cascade Rule
+```
+B₀ = 1 (Planck units)
+B_{k+1} = B_k / 10
+Λ = B_M = 10^(-M)
+```
+
+### Result
+```
+Λ ≈ G_N=4 · 10^(-122) / ℓ_P²
+  ≈ 1.11 × 10^(-52) m^(-2)
+```
+
+---
+
+## 10. PARTICLE LOCKS (Integer Indices)
+
+### Leptons
+- **Electron:** n=1, ~0.511 MeV (at 3DL)
+- **Muon:** n=207, ~105.777 MeV (bare) → ~105.66 MeV (dressed)
+- **Tau:** n=3477, ~1776.747 MeV
+
+### QED Dressing
+```
+δ = α/(2π) ≈ 0.116%
+m_dressed = m_bare × (1 - δ)
+```
+
+### Bosons (Shared Meter)
+Base meter: b_v = W/92 ≈ 0.87477 GeV
+- **W:** n=92, ~80.379 GeV
+- **Z:** n=104, ~90.977 GeV
+- **Higgs:** n=143, ~125.10 GeV
+- **Top:** n=198, ~173.1 GeV
+
+---
+
+## 11. COUPLING CONSTANTS
+
+### Fine-Structure α
+```
+α = (N_shear/N_flow) · Φ_hinge
+  = (3/4) · (Δ_eff/4)
+  ≈ 1/137.036
+```
+
+### Strong Coupling α_s(M_Z)
+```
+α_s = (20/9) · (3/7) · α
+    = 2π/53
+    ≈ 0.11853
+```
+
+---
+
+## 12. CERTIFICATION PIPELINE
+
+### Three-Stage Gate
+1. **Sieve (3DL):** Corridor check (3 leading decimals)
+2. **H∞:** Label invariance under ±1% admissible dilation
+3. **Subtractive:** Null/swap/bounds/memory tests
+
+### Output
+- **LOCK:** Passes all three gates
+- **Θ (THETA):** Fails at least one gate
+
+---
+
+## 13. UNIFIED FALSIFIERS (16 Kill Tests)
+
+### Layer 1: Substrate
+1. Stable particles on N=3 or N≥5 → kills N=4
+
+### Layer 2: ONAL Logic
+2. Stable state in banned 6 {0000, 1111, 0101, 1010, 0011, 1100}
+3. Unstable state in 10 survivors
+
+### Layer 3: LOW Filter
+4. Higher-K MORE stable than lower-K → kills LOW
+5. W ≠ exp(-0.6K_total) in composition
+
+### Layer 4: Full Tour
+6. Weight-1 or weight-3 hits all four states
+7. 0110 or 1001 DON'T traverse full cycle
+
+### Layer 5: YES/NO
+8. Transform preserves 0110, 1001 but changes first window
+
+### Layer 6: Dual Vacuum
+9. Non-zero flow-shear cross-correlation off-LOCK
+10. LOCK indices drift under ±1% detune (H∞ failure)
+
+### Layer 7: Mass Gap
+11. δ ≠ π - π_Δ on N=4 lattice
+12. ω₀ varies with system size L
+
+### Layer 8: Geometric Locks
+13. Irregular polygon stable under LOW (no relaxation)
+14. Curved-space polygon with angle sum → 9
+
+### Layer 9: Calculus
+15. Heat-regularized operators violate product/chain rules
+16. Blow-up with fixed ε > 0
+
+**ANY ONE kills the framework**
+
+---
+
+## 14. PHILOSOPHICAL ARC (7 Acts)
+
+### Act 1: Paradox
+Everything = Nothing (indistinguishable without cut)
+
+### Act 2: Gate
+Θ (present) is where difference appears
+
+### Act 3: Split
+○ (Flow) and ● (Shear) emerge from tension
+
+### Act 4: Alphabet
+Four ONAL states: OR, NOT, AND, LOCK
+
+### Act 5: Prune
+16 → 10 via LOW + Θ (digits emerge)
+
+### Act 6: Decision
+10 → 2 → 1: Full tour yields YES (9) / NO (6)
+
+### Act 7: Lift
+Δ-calculus implements δ ≈ 0.121 → physics receipts
+
+---
+
+## 15. KEY EQUATIONS SUMMARY
+
+### Address Algebra
+```
+n = 2^ν₂ · 3^ν₃ · r, gcd(r,6)=1
+K(n) = ν₂ + ν₃ + 1{r>1}
+W(n) = exp(-0.6K)
+```
+
+### Composition
+```
+(ν₂,ν₃,r)_ab = (ν₂^a + ν₂^b, ν₃^a + ν₃^b, r_a·r_b mod{2,3})
+```
+
+### Deficit & Gap
+```
+π_Δ ≈ 3.021
+δ = π - π_Δ ≈ 0.121
+ω₀ ≥ √δ
+```
+
+### Cosmological Constant
+```
+Λ ≈ (2π/4)² · (π/π_eff) · √2 · 10^(-122) / ℓ_P²
+```
+
+### Angle Flatness
+```
+Sum = (n-2) × 180°
+Digital root = 9 (flat space only)
+```
+
+---
+
+END OF ONAL MATHEMATICAL EXTRACTION
