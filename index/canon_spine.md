@@ -1,0 +1,21 @@
+# Canon Spine (Curated)
+
+Primary reading order for fast alignment.
+
+1. deinfinite_core (23 statements)
+2. oscillation_diagnostic (88 statements)
+3. abstention_crl_bands (149 statements)
+4. shr_and_low (115 statements)
+5. delta_energy_decision_mdl (162 statements)
+6. dyadic_ladder_e0e4 (137 statements)
+7. transport_pins_hats_receipts (219 statements)
+8. delta_pinch_and_hinge (95 statements)
+9. pentad_omega_subtractive_umk (182 statements)
+10. cpl_corridor_hinf (179 statements)
+11. copl_hazard_escalation (139 statements)
+12. bedrock_flow_shear (51 statements)
+13. locks_and_certificates (50 statements)
+14. family_meter_lepton_ledger (55 statements)
+15. baryonic_confinement (56 statements)
+16. why_numbers_are_real (109 statements)
+17. encyclopedia_core_variational_stack (254 statements)

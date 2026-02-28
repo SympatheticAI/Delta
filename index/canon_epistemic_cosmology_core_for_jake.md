@@ -1,0 +1,284 @@
+# Epistemic Cosmology Core (For Jake)
+
+Compressed cosmology-forward subset for fast re-alignment.
+
+## 1. Epistemic Primitive (`deinfinite_core` | selected 12 of 23)
+- S-0001: A problem exists when a bounded frame tries to close over an unbounded reference.
+- S-0002: DeInfinite maps a continuum ideal through a finite contract, then promotes the residual into dynamics.
+- S-0003: N=4 with a fixed 3-decimal reporting contract defines the admissible finite image for core Delta transforms.
+- S-0004: Residuals are not discarded as approximation error; they are treated as physically active parameters.
+- S-0005: In the Yang-Mills Delta workflow, delta equals pi_continuum minus pi_effective under the declared contract.
+- S-0006: A De-Infinite Lift is defined by X_cont, contract C, finite image X_fin, residual Delta_X, and lifted dynamics D_Delta.
+- S-0007: A finite contract C is encoded as N, q, B, A, S, and M for structure, precision, bandwidth, admissible operators, sign constraints, and metering.
+- S-0008: The contract projection Pi_C maps continuum objects into an admissible finite representation class X_C.
+- S-0009: The finite image is X_fin = Pi_C(X_cont).
+- S-0010: The residual is Delta_X = X_cont - X_fin.
+- S-0011: The promotion axiom treats Delta_X as a governing parameter instead of approximation error to eliminate.
+- S-0012: Lifted dynamics are posed as u_dot = F(u; Delta_X, C) or u_{n+1} = Phi_C(u_n; Delta_X).
+
+## 2. Diagnostic Primitive (`oscillation_diagnostic` | selected 12 of 88)
+- S-1142: Oscillation is introduced as a diagnostic layer beyond the base problem definition.
+- S-1143: The chapter claims debates can self-test structural foundations through critique flips.
+- S-1144: Counterexample drilling is used as method to distinguish tasks from true problems.
+- S-1145: Drilling asks repeatedly what makes a case a problem rather than annoyance.
+- S-1146: Drilling recurrently lands on bounded frame failing to close reference.
+- S-1147: A common critique flip is from too abstract to too trivial.
+- S-1148: The two critiques are treated as opposites that cannot both hold simultaneously.
+- S-1149: Oscillation is defined as alternating between incompatible critiques without stable resolution.
+- S-1150: Oscillation is interpreted as structural signature rather than debate failure.
+- S-1151: Oscillation indicates critique space exhaustion with no third stable position.
+- S-1152: Ping-pong between two incomplete closures signals frame non-closure.
+- S-1153: Oscillation is treated as foundation-contact signal.
+
+## 3. Geometric Ontology (`why_numbers_are_real` | selected 12 of 109)
+- S-1033: The question of mathematical effectiveness is reframed as an ontological question about reality structure.
+- S-1034: The hidden assumption that numbers are abstract-first is rejected.
+- S-1035: The corrected claim is that numbers emerge from physical-lock structure with no free degrees of freedom.
+- S-1036: The framework claims two independent derivations converge on the same survivor set.
+- S-1037: Existence requires contrast.
+- S-1038: Contrast requires at least two distinguishable states.
+- S-1039: Two states are the minimum for distinguishability between absence and presence.
+- S-1040: The two primitive states are represented as 0 and 1.
+- S-1041: All binary oppositions are instances of the same underlying two-state distinction.
+- S-1042: From two states, first-order pair combinations are exactly four.
+- S-1043: The four binary pairs are 00, 01, 10, and 11.
+- S-1044: Quaternary logic is treated as first-order self-relation of reality.
+
+## 4. Flow-Shear Ontology (`bedrock_flow_shear` | selected 12 of 51)
+- S-0024: One substrate exists with two conjugate modes: flow and shear.
+- S-0025: Flow is the divergent or irrotational component and represents the circle tendency.
+- S-0026: Shear is the solenoidal or vortical component and represents the square or lattice tendency.
+- S-0027: Flow and shear are Helmholtz factors of one field u and not separate vacua.
+- S-0028: The field decomposition is u = grad(phi) plus grad_perp(psi).
+- S-0029: The flow shear split is operationally computed by bounded-domain Poisson solves with declared boundary conditions.
+- S-0030: The ONAL binary emerges as one thing and its shadow: 1 as knot presence and 0 as abstention constraint.
+- S-0031: A knot is a localized rotating coherence that seeds structure.
+- S-0032: Abstention is the curvature permission structure cast by the knot.
+- S-0033: The ONAL tour is 00 to 01 to 11 to 10 to 00 when tension is nonzero.
+- S-0034: LOCK is committed memory as a constraint that outlives the seed.
+- S-0035: LOW prunes ONAL tours to two live closures: 1001 and 0110.
+
+## 5. Finite-Causal Contract (`abstention_crl_bands` | selected 12 of 149)
+- S-0236: Abstention is selective decoupling from damaging modes while permitting safe couplings.
+- S-0237: Abstention is implemented as a hazard-gated decision over measured detuning, curvature, and brittleness proxies.
+- S-0238: Eligibility bands determine where coupling is permitted versus refused.
+- S-0239: Effective abstention produces monotone energy descent to a floor.
+- S-0240: Effective abstention produces mean hazard quench toward zero.
+- S-0241: Failure of energy descent or hazard quench falsifies abstention effectiveness.
+- S-0242: Abstention outcomes under declared meters are filament family, cavitation, or abstention.
+- S-0243: A reproducible fourth exit under fixed meters falsifies the abstention claim.
+- S-0244: Abstention commit condition is H <= tau_safe.
+- S-0245: Abstention refuse condition is H >= tau_haz.
+- S-0246: Buffer condition between thresholds requires steering or deferral.
+- S-0247: Abstention preserves persistence by refusing hazardous coupling exposure.
+
+## 6. Control + Survival Law (`shr_and_low` | selected 12 of 115)
+- S-0684: Snap-Hold-Release is a strict four-axis control law with precedence Frequency then Phase then Amplitude then Space.
+- S-0685: SHR allows at most one Snap per axis per window.
+- S-0686: SHR requires re-measurement between axes.
+- S-0687: SHR legality ordering is eligibility before timing before harmony before topology.
+- S-0688: SHR forbids phase forcing outside capture.
+- S-0689: SHR is LOW-biased toward lower p+q and lower detune.
+- S-0690: SHR actions are gated by E0-E4 audits.
+- S-0691: SHR is a deterministic controller for landing low-order locks.
+- S-0692: Each axis has explicit Snap, Hold, and Release conditions.
+- S-0693: One-snap discipline prevents hidden work and controller thrashing.
+- S-0694: SHR uses MDL constraints to lower order and detune while raising coherence and stability.
+- S-0695: SHR causal hygiene requires eligibility before phase trim.
+
+## 7. Lyapunov + Selection Law (`delta_energy_decision_mdl` | selected 12 of 162)
+- S-0522: Delta-Energy is a bounded-below Lyapunov candidate on hats.
+- S-0523: Delta-Energy must be non-increasing under lawful actions with eligibility open and audits green.
+- S-0524: Collapse is finite relaxation of Delta-Energy to a 3DL-stable minimum lock.
+- S-0525: If lawful edits cannot reduce Delta-Energy, the system abstains with witness.
+- S-0526: Delta-Energy is computed from motion, LOW order penalty, abstention penalty, coherence penalty, and memory penalty terms.
+- S-0527: Delta-Energy uses pi = partial_t u as window-local momentum surrogate on hats.
+- S-0528: Alpha, gamma, and delta coefficients in Delta-Energy are positive.
+- S-0529: LOW weights lambda_k are fixed and decreasing with order k.
+- S-0530: Projector P(u) is the low-order candidate cover.
+- S-0531: Abstention geometry nu_eff is nonnegative and raises cost of off-manifold forcing.
+- S-0532: All Delta-Energy terms are evaluated after one 3DL quantization pass.
+- S-0533: Delta-Energy is nonnegative on CRL lattice.
+
+## 8. Objectivity Infrastructure (`transport_pins_hats_receipts` | selected 12 of 219)
+- S-1230: Transport Keys certify portability across meters and contexts.
+- S-1231: A Transport Key is a maximal connected region on CRL lattice where certification invariants hold.
+- S-1232: Transport Keys require decision invariance under admissible meter swaps.
+- S-1233: Transport Keys are reported as half-open intervals per axis.
+- S-1234: Transport Keys include uncertainty bands from overlap confidence intervals.
+- S-1235: Key equivalence across contexts requires symmetric difference measure zero.
+- S-1236: Slope-spread <= 0.01 is mandatory for transport validity.
+- S-1237: Slope-spread violations void promotion and route to Theta.
+- S-1238: Transport key object is defined on hats coordinates Ahat, Rhat, Qhat inverse, and phihat.
+- S-1239: Transport key invariants include Receipts, Mirrors, Transport, Detune, Budgets, Subtractions, and Hazard.
+- S-1240: Meter-swap invariance requires through-origin slopes in 1 plus-minus 0.01.
+- S-1241: Meter-swap invariance requires R^2 >= 0.95 per admissible meter.
+
+## 9. Runtime Surface + Portability (`cpl_corridor_hinf` | selected 12 of 179)
+- S-1449: CPL is the runtime state surface on three hat-valued axes: Contrast, Phase, and Luminality.
+- S-1450: CPL is evaluated on the 3DL lattice.
+- S-1451: Fixed bands partition CPL into a Fourfold Exit Map.
+- S-1452: Fourfold exits are Corridor-to-Soliton, Corridor-Only, Cavitation, and Abstention.
+- S-1453: No exits outside the Fourfold map are lawful.
+- S-1454: CPL is enforced by Hazard Gates, LOW, SHR order, and E-audits.
+- S-1455: Each window maps to a single quantized point (C,P,L).
+- S-1456: Bands and walls on CPL are fixed and cannot widen mid-run.
+- S-1457: CPL purpose is to route Snap/Hold/Release and lock-vs-refusal decisions.
+- S-1458: Contrast axis measures normalized post-null structure against background.
+- S-1459: Phase axis measures wrapped phase error relative to low-order relation and hinge corridor.
+- S-1460: Luminality axis measures permission-to-act from eligibility, hazard, and bandwidth budget.
+
+## 10. Convergence Auditor (`delta_pinch_and_hinge` | selected 12 of 95)
+- S-0938: Delta-Pinch is a finite auditor-compactor that runs P0 through P6.
+- S-0939: Delta-Pinch squeezes claims to LOCK@3DL or typed Theta refusal.
+- S-0940: Delta-Pinch never widens bands mid-run.
+- S-0941: Delta-Pinch logs hazards and integrates with Sieve, SHR order, E-audits, and Bands.
+- S-0942: Delta-Pinch is deterministic and finite on admissible candidate windows.
+- S-0943: Delta-Pinch outputs decision at 3DL, hazard timeline, artifact bundle, and provenance hooks.
+- S-0944: Delta-Pinch motivation is bounded auditable squeeze replacing open-ended optimization.
+- S-0945: Delta-Pinch has only two terminal outcomes: LOCK@3DL or Theta.
+- S-0946: Delta-Pinch safety requires hazard gating and monotone commit signatures.
+- S-0947: Delta-Pinch decisions are meter-portable via tolerance signatures.
+- S-0948: Delta-Pinch contract is hats-only with single 3DL quantization.
+- S-0949: Delta-Pinch contract enforces SHR precedence Frequency->Phase->Amplitude->Space.
+
+## 11. Global Sieve + Existence Gate (`pentad_omega_subtractive_umk` | selected 12 of 182)
+- S-1628: Delta-Pentad is a five-receipt redundancy bundle that makes hinge certification honest.
+- S-1629: Delta-Pentad requires all five receipts to concur on CRL.
+- S-1630: Any single Delta-Pentad receipt failure routes claim to Theta.
+- S-1631: Delta-Pentad is required before AND-to-LOCK promotion.
+- S-1632: Delta-Pentad is evaluated on CRL-quantized hats after dyadic aggregation.
+- S-1633: Delta-Pentad decisions must persist under meter swap and window re-banding.
+- S-1634: Delta-Pentad spread reporting uses lattice counts.
+- S-1635: Slope-spread above 0.01 is Delta-Pentad failure.
+- S-1636: Receipt 1 is phase conjugacy with phase cancellation at lock.
+- S-1637: Phase conjugacy includes dual-gap criterion Delta-kappa <= delta.
+- S-1638: Receipt 2 is ratio reciprocity with partner reconciliation.
+- S-1639: Ratio reciprocity requires R-prime times R approximately one.
+
+## 12. Unified Cosmology Core (`encyclopedia_core_variational_stack` | selected 124 of 254)
+- S-1822: RG interface: high-order operators become irrelevant under LOW-induced thinning.
+- S-1825: Delta fundamental field set is {rho, v_i, A_i, S, theta}.
+- S-1826: No additional primitive fields are admitted beyond the five-field set.
+- S-1827: rho is nonnegative vacuum coherence density.
+- S-1828: Cavitation regime corresponds to rho -> 0.
+- S-1829: v_i is vacuum reflow velocity field.
+- S-1830: AFFE interface relation is div v = -alpha S.
+- S-1831: A_i is shear/torsion vector field.
+- S-1832: Shear strength tensor is F_{ij} = d_i A_j - d_j A_i.
+- S-1834: S is nonnegative sediment-memory field and mass analog.
+- S-1835: theta is phase field on R mod 2pi.
+- S-1837: Phase gradient is nabla theta.
+- S-1838: Structural couplings include flow-sediment, density-phase, sediment-phase, shear-phase, and density-hazard.
+- S-1839: Field completeness proposition states all admissible observables are functionals of five fields and finite derivatives.
+- S-1840: Unified action is integral of Lagrangian density over spacetime.
+- S-1841: Unified Lagrangian decomposes into flow, shear, sediment, phase, and hazard sectors.
+- S-1842: Flow sector is 1/2 rho v^2 - U(rho) with convex cavitation potential U.
+- S-1845: Sediment sector includes -lambda(rho-rho0)^2 S^2 + mu S|nabla theta|^2.
+- S-1846: Phase sector includes 1/2 rho(d_t theta)^2 - 1/2 c_theta^2 rho|nabla theta|^2.
+- S-1848: Stationarity principle is delta S = 0 across all five fields with admissibility constraints.
+- S-1849: Euler-Lagrange dictionary maps each field variation to sector equations.
+- S-1850: Variation w.r.t. v_i yields AFFE divergence law div v = -alpha S.
+- S-1852: Variation w.r.t. rho yields vacuum compressibility balance.
+- S-1853: Variation w.r.t. S yields sediment persistence and collapse inhibition equation.
+- S-1854: Variation w.r.t. theta yields phase-time evolution PDE.
+- S-1855: Continuity closure equation is d_t rho + div(rho v)=0.
+- S-1857: Hamiltonian density is defined by Legendre transform H = pi d_t u - L.
+- S-1858: Total Hamiltonian functional is H = integral(H density).
+- S-1862: Hazard gradient terms pinch high-curvature phase-space directions.
+- S-1863: Time-independent Hamiltonian implies dH/dt=0.
+- S-1865: Gauge invariance yields shear-sector charge conservation.
+- S-1866: Canonical quantization maps fields to operators with equal-time commutators.
+- S-1867: Quantum Hamiltonian operator is integral of operator-valued Hamiltonian density.
+- S-1869: Heisenberg equations follow from i/hbar commutator with Hamiltonian.
+- S-1870: Phase operator expands in coherence operator eigenmodes.
+- S-1871: Diagonalized mode Hamiltonian has mode-dependent effective masses.
+- S-1872: High-order modes gain large effective mass and are dynamically suppressed.
+- S-1875: Bounded-energy quantum states have decaying high-order excitations.
+- S-1876: Quantum summary: abstention geometry preserved, collapse dynamical, classicality from locked low-hazard phase coherence.
+- S-1877: AFFE defines gravity as divergence-flow sourced by sediment.
+- S-1878: AFFE core equation is div v = -alpha S.
+- S-1879: AFFE continuity is d_t rho + div(rho v)=0.
+- S-1882: Vacuum equation of state can be polytropic P=k rho^gamma.
+- S-1884: Cavitation condition drives tau toward zero as rho approaches threshold.
+- S-1885: Linearized AFFE yields wave equation for density perturbations.
+- S-1886: AFFE closed summary includes divergence law, continuity, acceleration, and time-rate law.
+- S-1887: Vacuum stress tensor is Theta_ij = P delta_ij - rho v_i v_j.
+- S-1888: Tensor AFFE equation is nabla_j Theta_ij = -alpha S v_i.
+- S-1889: MOND-like enhancement appears for gamma<1 in soft vacuum regime.
+- S-1890: Transition acceleration scale a0 depends on k,gamma,rho_min,and density gradient.
+- S-1891: Circular orbits in MOND-like regime yield asymptotically flat rotation curves.
+- S-1893: Conditional no-dark-matter statement: MOND-like curves emerge from vacuum elasticity for gamma<1.
+- S-1894: Strong-field cavitation uses indicator C = rho-rho_c.
+- S-1895: Horizon manifold is rho=rho_c surface.
+- S-1896: Near-horizon expansion uses rho≈rho_c + kappa_H distance-to-horizon.
+- S-1898: Time halts only below horizon where rho<rho_c.
+- S-1899: Collapsed interior has frozen phase evolution and no propagation.
+- S-1900: Information is retained via sediment accumulation in collapse interior.
+- S-1901: Horizon stability condition links boundary flux balance to stationary horizon.
+- S-1903: Gravitational waves are AFFE density perturbation waves.
+- S-1905: Sediment redistribution acts as source term for wave perturbations.
+- S-1906: Mode decomposition defines AFFE quasinormal modes.
+- S-1907: Ringdown modes satisfy damped oscillator equations.
+- S-1908: Damping rates encode horizon elasticity via effective viscosity integral.
+- S-1909: Cavitation echoes require nonzero horizon reflection coefficient.
+- S-1910: Echo delay is cavity integral over inverse effective speed.
+- S-1911: Echo frequency comb approximates m pi / Delta t_echo.
+- S-1912: Echo amplitudes decay geometrically with reflection coefficient.
+- S-1913: Sediment buildup drives long-time reflection toward zero.
+- S-1914: Cosmological homogeneous ansatz maps v to H(t)x and fields to time-only scalars.
+- S-1916: Sediment-expansion coupling gives 3H = -alpha S.
+- S-1918: Cosmological sediment dynamics are dot S = eta_cos rho - gamma_cos S.
+- S-1919: Coupled cosmology system is closed in (rho,H,S).
+- S-1921: Late-time fixed sediment yields asymptotically constant H.
+- S-1922: Dark-energy-like exponential expansion emerges without cosmological constant.
+- S-1923: Early-time sediment deficit yields transient inflationary regime.
+- S-1924: Inflation ends naturally as sediment accumulates.
+- S-1925: Cosmic acceleration is ddot a/a = dot H + H^2 with sediment terms.
+- S-1926: Expansion is vacuum reflow, not metric stretching, in this framing.
+- S-1927: RG introduces explicit resolution scale ell with coarse-grained fields Psi_ell.
+- S-1929: RG thinning requires fewer admissible modes at coarser scales.
+- S-1932: Hazard RG flow is dH/d ln ell = beta_H(H).
+- S-1934: RG-stable fixed points satisfy stationary coarse fields with nonincreasing hazard flow.
+- S-1936: Brittleness RG flow with positive chi indicates instability.
+- S-1937: Laws are RG-attractive low-hazard fixed points.
+- S-1938: Global configuration space X includes all Delta fields and derived observables.
+- S-1941: Global Lyapunov functional is L_Delta = E + lambda_Omega Omega + lambda_H H + lambda_zeta zeta.
+- S-1943: Equality in Lyapunov descent occurs only on invariant lock manifolds.
+- S-1944: Closure under composition requires combined hazard not exceed additive subsystem hazards.
+- S-1950: Unified field inventory includes flow/shear/sediment/phase/hazard/order/brittleness/CPL variables.
+- S-1951: Unified Delta action includes flow, shear, sediment, phase, LOW, abstention, CPL, COPL, and hazard terms.
+- S-1954: CPL sector includes contrast and phase dynamics weighted by luminality.
+- S-1958: Operator index includes Omega, hazard scalar, hazard gate, DCO, audit, nudge, coarse-grain, phase projector, and global Lyapunov.
+- S-1959: Unified closure theorem asserts unique admissible evolution without external axioms.
+- S-1960: DAL substrate uses discrete lattice sites carrying (phase, sediment, abstention) triples.
+- S-1961: DAL phase sector is Hamiltonian while sediment and abstention are dissipative.
+- S-1962: DAL Hamiltonian includes kinetic, nearest-neighbor phase coupling, abstention potential, and memory potential.
+- S-1963: Effective density increases with sediment.
+- S-1966: Memory potential enforces temporal and spatial sediment coherence.
+- S-1967: Sediment update accumulates from phase-gradient energy with decay.
+- S-1969: DAL cavitation occurs at divergent abstention or vanishing effective density.
+- S-1970: DAL continuum limit maps to unified Delta fields and reproduces AFFE, LOW suppression, and saturation behavior.
+- S-1990: COPL layer set O={O_1,...,O_M} with per-layer phase fields theta_a.
+- S-1991: Pairwise COPL phase differences are Delta_ab = theta_a - theta_b.
+- S-1992: COPL energy term is -1/2 sum kappa_ab cos(Delta_ab).
+- S-1993: Phase-lock condition bounds temporal and spatial derivatives of Delta_ab by epsilon_lock.
+- S-1994: COPL Euler-Lagrange equations couple each layer phase to cross-layer sine terms.
+- S-1995: Lock manifold M_lock is set of constant pairwise phase differences.
+- S-2001: COPL structural role is unification via phase-level alignment rather than variable identity.
+- S-2002: CPL field set includes contrast C, phase phi, and luminality Lambda.
+- S-2003: CPL energy includes kinetic and gradient terms for C and phi weighted by Lambda plus potential V(C,Lambda).
+- S-2012: Lambda to zero gives cavitation/collapse.
+- S-2016: CPL limits include phase-only, contrast-dominant, and locked-COPL reductions.
+- S-2017: CPL structural role: luminality replaces fixed light-cone concept and collapse is exit not divergence.
+- S-2018: Hazard scalar field H is geometric obstruction functional nonnegative on spacetime.
+- S-2021: Detuning hazard penalizes cross-field gradient misalignment.
+- S-2045: Brittleness zeta measures curvature sensitivity to CRL-scale expansion.
+- S-2047: AND collapse invariants require finite curvature, nonincreasing energy, basin width >= epsilon_CRL, and local attractor robustness.
+- S-2052: Persistence functional measures long-horizon basin occupancy fraction.
+- S-2054: Persistent occupancy induces sediment accumulation with erosion term.
+- S-2055: Sediment deepens effective potential basins over time.
+- S-2056: Feedback stability requires nonincreasing basin hazard under sediment feedback.
+- S-2060: Sediment transport couples to AFFE flow advection.
+- S-2063: Persistence structural role converts dynamics into memory and law emergence.
+

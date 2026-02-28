@@ -1,0 +1,1654 @@
+# Epistemic Cosmology Canon (For Jake)
+
+Personal ordering from epistemic foundations to unified cosmology.
+
+## 1. Epistemic Primitive (`deinfinite_core` | 23 statements)
+- S-0001: A problem exists when a bounded frame tries to close over an unbounded reference.
+- S-0002: DeInfinite maps a continuum ideal through a finite contract, then promotes the residual into dynamics.
+- S-0003: N=4 with a fixed 3-decimal reporting contract defines the admissible finite image for core Delta transforms.
+- S-0004: Residuals are not discarded as approximation error; they are treated as physically active parameters.
+- S-0005: In the Yang-Mills Delta workflow, delta equals pi_continuum minus pi_effective under the declared contract.
+- S-0006: A De-Infinite Lift is defined by X_cont, contract C, finite image X_fin, residual Delta_X, and lifted dynamics D_Delta.
+- S-0007: A finite contract C is encoded as N, q, B, A, S, and M for structure, precision, bandwidth, admissible operators, sign constraints, and metering.
+- S-0008: The contract projection Pi_C maps continuum objects into an admissible finite representation class X_C.
+- S-0009: The finite image is X_fin = Pi_C(X_cont).
+- S-0010: The residual is Delta_X = X_cont - X_fin.
+- S-0011: The promotion axiom treats Delta_X as a governing parameter instead of approximation error to eliminate.
+- S-0012: Lifted dynamics are posed as u_dot = F(u; Delta_X, C) or u_{n+1} = Phi_C(u_n; Delta_X).
+- S-0013: A lifted model is accepted only if invariance, stability, scaling, and falsifier gates all pass.
+- S-0014: The canonical pipeline is continuum to contract to finite image to residual to dynamics.
+- S-0015: Heat-semigroup lifting uses S_epsilon = exp(epsilon Delta) with fixed epsilon greater than zero.
+- S-0016: Regularized operators are nabla_epsilon = nabla S_epsilon and Delta_epsilon = Delta S_epsilon.
+- S-0017: Integral and Fourier contracts replace integrals with epsilon-grid sums plus debt term M_def and replace pi with pi_Delta.
+- S-0018: In the Yang-Mills channel, delta is defined as pi minus pi_eff under the declared finite contract.
+- S-0019: In the growth channel, eta is defined as phi minus phi_eff and promoted as a spectral or energy floor.
+- S-0020: In the PDE channel, derivative residuals from finite or regularized operators are promoted into effective transport or dissipation laws.
+- S-0021: In the hinge channel, Delta_R = 1 - R_C is promoted into transition, locking, or decoherence thresholds.
+- S-0022: Finite closure under contract C is achieved without requiring completion of an unbounded reference when projection is well-defined, lifted dynamics are well-posed, and all receipt gates pass.
+- S-0023: De-Infinite converts impossible closure demands into computable closure by contract projection plus residual promotion.
+
+## 2. Diagnostic Primitive (`oscillation_diagnostic` | 88 statements)
+- S-1142: Oscillation is introduced as a diagnostic layer beyond the base problem definition.
+- S-1143: The chapter claims debates can self-test structural foundations through critique flips.
+- S-1144: Counterexample drilling is used as method to distinguish tasks from true problems.
+- S-1145: Drilling asks repeatedly what makes a case a problem rather than annoyance.
+- S-1146: Drilling recurrently lands on bounded frame failing to close reference.
+- S-1147: A common critique flip is from too abstract to too trivial.
+- S-1148: The two critiques are treated as opposites that cannot both hold simultaneously.
+- S-1149: Oscillation is defined as alternating between incompatible critiques without stable resolution.
+- S-1150: Oscillation is interpreted as structural signature rather than debate failure.
+- S-1151: Oscillation indicates critique space exhaustion with no third stable position.
+- S-1152: Ping-pong between two incomplete closures signals frame non-closure.
+- S-1153: Oscillation is treated as foundation-contact signal.
+- S-1154: A->B->A critique flipping is used as indicator of structural limit.
+- S-1155: The chapter claims oscillation appears in both mundane and high-level debates.
+- S-1156: Consciousness debate is presented as canonical oscillation case.
+- S-1157: Objective consciousness theories attract critique that experience is omitted.
+- S-1158: Subjective consciousness theories attract critique that claims are untestable.
+- S-1159: The objective-subjective flip is treated as persistent oscillation loop.
+- S-1160: The loop is explained as single frame over mixed bounded and unbounded references.
+- S-1161: A bounded scientific frame is said unable to close over unbounded first-person reference.
+- S-1162: Oscillation in consciousness is attributed to overloaded terminology.
+- S-1163: The term consciousness is split into multiple hidden targets.
+- S-1164: Consciousness-as-experience is identified as first-person hard target.
+- S-1165: Consciousness-as-access is identified as operationally testable target.
+- S-1166: Consciousness-as-self-model is identified as architecturally testable target.
+- S-1167: Consciousness-as-wakefulness is identified as clinical measurable target.
+- S-1168: Using one word for four targets drives unresolved debate churn.
+- S-1169: Argument participants often switch target senses without noticing.
+- S-1170: Mixing bounded and unbounded senses inside one label prevents closure.
+- S-1171: Oscillation is proposed as scale-invariant across domains.
+- S-1172: Oscillation can appear in editing micro-decisions and centuries-long philosophy.
+- S-1173: The diagnostic move is to detect dual critiques that reciprocally negate.
+- S-1174: When only reciprocal critiques remain, foundation is reached.
+- S-1175: Foundation here means structural boundary, not final answer.
+- S-1176: The chapter recommends not choosing sides inside oscillation by default.
+- S-1177: Resolution move is to identify unbounded reference explicitly.
+- S-1178: Resolution options are cut, bound, or acknowledge structural limit.
+- S-1179: Closure operator must be declared explicitly.
+- S-1180: Statements should separate solvable-under-definition from ungroundable-outside-definition.
+- S-1181: This split is framed as precision rather than dodge.
+- S-1182: Oscillation-aware framing enables testable and falsifiable progress.
+- S-1183: Failure to reframe yields century-scale argument loops.
+- S-1184: The chapter links successful structural resolutions to explicit boundary setting.
+- S-1185: The oscillation diagnostic is applicable to theology, politics, art, and language disputes.
+- S-1186: Oscillation presence suggests hidden multi-reference overload.
+- S-1187: Two-critique alternation is treated as signature of non-closable framing.
+- S-1188: A stable middle position absence is key oscillation criterion.
+- S-1189: Each critique flip is interpreted as tacit failure of prior closure.
+- S-1190: Oscillation is not proof of either side's correctness.
+- S-1191: Oscillation is evidence of frame-reference mismatch.
+- S-1192: The chapter distinguishes skeleton-level structure from costume-level examples.
+- S-1193: Foundation detection precedes answer construction.
+- S-1194: The operational stop condition is explicit closure policy.
+- S-1195: Bounded references should be isolated and solved directly.
+- S-1196: Unbounded references should be bounded or quarantined as limits.
+- S-1197: The chapter positions this as next-step gateway to method chapters.
+- S-1198: Counterexample handling should drill to operator failure, not surface label.
+- S-1199: A flat tire can be task or problem depending on closure space state.
+- S-1200: Resolution-space fracture is treated as trigger of problem status.
+- S-1201: Open-ended consequence cascades are treated as unbounded-reference signal.
+- S-1202: Closure-operator failure is central event in problem emergence.
+- S-1203: Oscillation emerges when interlocutors alternate abstraction and tautology critiques.
+- S-1204: Abstractness critique dominates at concrete-example focus.
+- S-1205: Tautology critique dominates at formal-foundation focus.
+- S-1206: Alternation without absorption indicates unresolved structural decomposition.
+- S-1207: The consciousness case demonstrates oscillation at civilization scale.
+- S-1208: Scientific rigor and phenomenal focus are reciprocal critiques in that debate pattern.
+- S-1209: Neither side absorbs the other when targets are conflated.
+- S-1210: Word splitting is required before empirical closure attempts.
+- S-1211: Experience target may remain structurally ungroundable under third-person frame.
+- S-1212: Access target is explicitly closable with operational criteria.
+- S-1213: Self-model target is closable with architecture and tests.
+- S-1214: Wakefulness target is closable with clinical metrics.
+- S-1215: Debate progress requires declaring which sense is in scope.
+- S-1216: Oscillation is proposed as diagnostic infrastructure.
+- S-1217: Diagnostic output is where to cut, bind, or quarantine reference.
+- S-1218: The chapter frames oscillation as sound of non-closing frame.
+- S-1219: The method seeks to stop oscillation by reframing scope.
+- S-1220: A closure operator should be stated in concrete form.
+- S-1221: The framework favors explicit boundaries over implicit equivocation.
+- S-1222: Structural limits are legitimate outcomes when unbounded targets remain.
+- S-1223: Precision is measured by testability and falsifiability after reframing.
+- S-1224: The chapter claims this avoids wasted effort on unsplittable formulations.
+- S-1225: This module extends prior problem anatomy with dynamic debate signature.
+- S-1226: Oscillation detection is a preconditioner for De-Infinite style workflows.
+- S-1227: In diagnostics, reciprocal critiques with no third option indicate structural bottleneck.
+- S-1228: The chapter treats oscillation as foundation contact alarm.
+- S-1229: The chapter ends by handing off from diagnosis to intervention.
+
+## 3. Geometric Ontology (`why_numbers_are_real` | 109 statements)
+- S-1033: The question of mathematical effectiveness is reframed as an ontological question about reality structure.
+- S-1034: The hidden assumption that numbers are abstract-first is rejected.
+- S-1035: The corrected claim is that numbers emerge from physical-lock structure with no free degrees of freedom.
+- S-1036: The framework claims two independent derivations converge on the same survivor set.
+- S-1037: Existence requires contrast.
+- S-1038: Contrast requires at least two distinguishable states.
+- S-1039: Two states are the minimum for distinguishability between absence and presence.
+- S-1040: The two primitive states are represented as 0 and 1.
+- S-1041: All binary oppositions are instances of the same underlying two-state distinction.
+- S-1042: From two states, first-order pair combinations are exactly four.
+- S-1043: The four binary pairs are 00, 01, 10, and 11.
+- S-1044: Quaternary logic is treated as first-order self-relation of reality.
+- S-1045: Pairwise relation of four primitives yields a 4x4 grid of sixteen positions.
+- S-1046: Base-4 lattice with Manhattan adjacency has unique topological behavior compared to diagonal or triangular alternatives.
+- S-1047: In N=4 cardinal adjacency, top and right neighbors do not touch directly and require corner traversal.
+- S-1048: The minimal closed walk around an interior cell in this geometry has length 8.
+- S-1049: Eight-step minimum loop is a load-bearing property for confinement and locking.
+- S-1050: Four-step enclosure in diagonal N=8 connectivity collapses this protective property.
+- S-1051: Triangular alternatives alter parity and loop structure away from the observed constraint pattern.
+- S-1052: N=4 is claimed as unique for enforcing even cycles with 8-step loop minimum.
+- S-1053: The 3:2 hinge is presented as minimal turn ratio between freedom and constraint in N=4 geometry.
+- S-1054: Corner traversal is structurally required for loop closure in L1 geometry.
+- S-1055: Corners correspond to extreme base-4 states 00, 03, 30, and 33.
+- S-1056: Corners are boundary positions that function as required connectors for closure.
+- S-1057: Zero is identified with address 00 as primordial abstention.
+- S-1058: Zero is treated as structural infrastructure rather than post-hoc counting symbol.
+- S-1059: Survivors depend on abstentions for stability.
+- S-1060: The loop closure requires passing through void positions.
+- S-1061: Six grid positions fail structurally.
+- S-1062: Corner failures are extreme boundary states without sustaining interior contrast.
+- S-1063: Diagonal failures are self-pairing states with no new contrast generation.
+- S-1064: After removing six failures from sixteen positions, ten survivors remain.
+- S-1065: The ten survivors are addresses {1,2,4,6,7,8,9,11,13,14}.
+- S-1066: N=1 yields zero survivors in the listed sweep.
+- S-1067: N=2 yields zero survivors in the listed sweep.
+- S-1068: N=3 yields four survivors in the listed sweep.
+- S-1069: N=4 yields ten survivors in the listed sweep.
+- S-1070: N>4 produces larger survivor counts not used as natural base systems in this argument.
+- S-1071: N=4 is claimed as first generative phase transition with interior bulk.
+- S-1072: A second derivation maps 4x4 positions to 4-bit strings.
+- S-1073: The sixteen lattice positions are equivalent to sixteen 4-bit configurations.
+- S-1074: Computational stability is tested via traversal and shear gates.
+- S-1075: Gate A forbids paradox loops requiring back-jumps in monotone ONAL traversal.
+- S-1076: Gate A rejects alternating strings 0101 and 1010.
+- S-1077: Gate B forbids concentrated shear where full transition occurs at one step.
+- S-1078: Gate B rejects 0011 and 1100.
+- S-1079: Uniform strings 0000 and 1111 are rejected for no contrast.
+- S-1080: The two gates plus uniform rejection remove six configurations.
+- S-1081: Rejected strings map to the same six corner/diagonal addresses as geometric exclusion.
+- S-1082: Independent geometric and computational derivations converge on the same six failures.
+- S-1083: Ten survivors remain under both derivation routes.
+- S-1084: Among survivors, 0110 and 1001 are apex balanced weight-2 configurations.
+- S-1085: 0110 and 1001 are bitwise complements and topological mirrors.
+- S-1086: Their decimal addresses are 6 and 9.
+- S-1087: Six is linked to hexagonal constructibility and planar tessellation stability.
+- S-1088: Nine is linked to nonagon non-constructibility by compass-straightedge in this framing.
+- S-1089: Hexagon and nonagon coexistence in shared-side planar setup leaves a 100-degree gap.
+- S-1090: The 100-degree gap is presented as unfillable by regular polygons.
+- S-1091: Computation and Euclidean constructibility are claimed to mark boundary closure simultaneously at 6/9.
+- S-1092: System continuation after survivor exhaustion requires wrap.
+- S-1093: Wrap notation is represented as 10.
+- S-1094: Ten is interpreted as first survivor beside primordial void at next magnitude cycle.
+- S-1095: Zero is treated as prerequisite infrastructure for positional extension.
+- S-1096: Powers of ten are described as repeated return-to-void structure.
+- S-1097: Digits are interpreted as enumerated survivor ordering rather than direct lattice addresses.
+- S-1098: Digit 3 is claimed to denote third survivor in ordered stable path, not lattice address 3.
+- S-1099: Number line is treated as renormalized traversal through stable bulk with holes skipped.
+- S-1100: Counting advances only across persistent survivors.
+- S-1101: Ten symbols are required to enumerate the ten survivor positions.
+- S-1102: The notation 10 is interpreted as diagrammatic cycle boundary marker.
+- S-1103: 6 and 9 are treated as pre-wrap limit markers in this narrative.
+- S-1104: The closure loop is existence->binary->quaternary->16-grid->6-failure->10-survivor->wrap.
+- S-1105: The framework claims fixed-point self-consistency without external foundations.
+- S-1106: The claim is that no unbounded reference is required in the closed derivation.
+- S-1107: Wigner mystery is reframed as expected effectiveness if math is description of physical locks.
+- S-1108: Arithmetic non-negotiability is attributed to geometric constraints of the lattice.
+- S-1109: Division by zero is interpreted as abstention due to void interior non-addressability.
+- S-1110: Irrational numbers are interpreted as abstention records beyond finite lattice resolution.
+- S-1111: Hexagon prevalence in nature is interpreted as LOW constructible stability attractor.
+- S-1112: Nonagon rarity is interpreted as constructibility boundary effect.
+- S-1113: Zero behavior across operations is attributed to structural primacy of void.
+- S-1114: Mathematics and physics are claimed to be the same lock-structure viewed in two representations.
+- S-1115: Numbers are asserted real as substrate-stability classes.
+- S-1116: Number reality is claimed independent of observer preference.
+- S-1117: Digit-shape correspondence is asserted as low-order stable geometry per survivor count.
+- S-1118: One corresponds to point presence.
+- S-1119: Two corresponds to line relation.
+- S-1120: Three corresponds to triangle as minimal stable three-point form.
+- S-1121: Four corresponds to square in this schema.
+- S-1122: Five corresponds to pentagon in this schema.
+- S-1123: Six corresponds to hexagon as constructible apex in this schema.
+- S-1124: Seven corresponds to first constructibility-break regime in this schema.
+- S-1125: Eight corresponds to octagon in this schema.
+- S-1126: Nine corresponds to nonagon boundary role in this schema.
+- S-1127: Zero corresponds to empty boundary circle and abstention scaffold.
+- S-1128: Survivor addresses are non-contiguous and include abstention holes.
+- S-1129: Enumeration over survivors produces the decimal digit set 0-9.
+- S-1130: The same binary distinction appears at both base and apex levels as complement pairs.
+- S-1131: 0/1 is primitive binary.
+- S-1132: 0110/1001 is apex distributed binary complement.
+- S-1133: The framework closes with claim that mathematics was always already physics.
+- S-1134: The final thesis is that counting was learned by observing what survives under structural constraints.
+- S-1135: Void is asserted as load-bearing mortar of survivor stability.
+- S-1136: From two states arise four combinations.
+- S-1137: From four combinations arise sixteen positions.
+- S-1138: From two independent analyses arise the same six exclusions.
+- S-1139: From six exclusions remain ten survivors.
+- S-1140: From ten survivors and void arises positional counting cycle.
+- S-1141: The loop is presented as self-supporting closure with no external postulates beyond initial contrast premise.
+
+## 4. Flow-Shear Ontology (`bedrock_flow_shear` | 51 statements)
+- S-0024: One substrate exists with two conjugate modes: flow and shear.
+- S-0025: Flow is the divergent or irrotational component and represents the circle tendency.
+- S-0026: Shear is the solenoidal or vortical component and represents the square or lattice tendency.
+- S-0027: Flow and shear are Helmholtz factors of one field u and not separate vacua.
+- S-0028: The field decomposition is u = grad(phi) plus grad_perp(psi).
+- S-0029: The flow shear split is operationally computed by bounded-domain Poisson solves with declared boundary conditions.
+- S-0030: The ONAL binary emerges as one thing and its shadow: 1 as knot presence and 0 as abstention constraint.
+- S-0031: A knot is a localized rotating coherence that seeds structure.
+- S-0032: Abstention is the curvature permission structure cast by the knot.
+- S-0033: The ONAL tour is 00 to 01 to 11 to 10 to 00 when tension is nonzero.
+- S-0034: LOCK is committed memory as a constraint that outlives the seed.
+- S-0035: LOW prunes ONAL tours to two live closures: 1001 and 0110.
+- S-0036: LOW pruning explains closure of decisions and persistence of memory.
+- S-0037: The geometric spectral floor is eta = pi - pi_Delta under fixed N=4 perimeter functional P0.
+- S-0038: With pinned N=4 procedure, eta is approximately 0.121.
+- S-0039: Eta is the minimum curvature or energy per lock for discreteness embedded in continuum.
+- S-0040: The growth hinge is h = 3/2.
+- S-0041: Growth steps pass a 3:2 hinge between stable 3:1 flow-constraint blocks.
+- S-0042: Structure bootstraps through AND self-reference, LOCK first constraint, OR feedback, NOT separation, then AND with memory.
+- S-0043: Repeated hinge cycling adds constraint layers and crystallizes lattice from flow.
+- S-0044: The lattice is grown by iterative locking dynamics and is not an assumed background.
+- S-0045: The Delta engine Hamiltonian is kinetic plus LOW penalty plus abstention term plus coherence term plus memory term.
+- S-0046: The LOW penalty suppresses high-order chatter.
+- S-0047: The abstention term bends the symplectic manifold to remove blow-up trajectories.
+- S-0048: The coherence and memory terms steer trajectories toward stable LOCK tours.
+- S-0049: The flow-shear meter uses equal-area normalization and bounded-domain Helmholtz decomposition with Neumann conditions.
+- S-0050: The flow-shear energies are E_flow = average_D(|u_in|^2) and E_shear = average_D(|u_out|^2).
+- S-0051: The flow-shear gap is eta_FS = (E_shear/E_flow)_square - (E_shear/E_flow)_circle.
+- S-0052: Observed direction is eta_FS > 0 with squares carrying more shear per flow than circles.
+- S-0053: The flow-shear band depends on ensemble choice and is treated as a meter rather than a universal constant.
+- S-0054: The golden-vortex meter uses omega(r) = omega0 / (1 + (r/r0)^alpha) with alpha = phi.
+- S-0055: Shear profile is S(r) = r * partial_r omega.
+- S-0056: Thickness delta is defined as FWHM of S(r).
+- S-0057: Thickness scales linearly with spectral floor as delta/r0 = c0 + c1*eta with high R^2.
+- S-0058: At eta = 0.121 and 3DL, delta/r0 lies in the band 2.98 to 3.08.
+- S-0059: The circle-flow and square-shear correspondence is empirically metered rather than asserted rhetorically.
+- S-0060: Binary persistence is explained by 1 as knot and 0 as cast constraint with LOCK memory.
+- S-0061: Directional growth follows from asymmetry: squares can appear circular by averaging while circles cannot uniquely recover squares.
+- S-0062: LOW preference is explained by higher symplectic cost of high-order tours under abstention.
+- S-0063: Lattice emergence is driven by positive lock-curvature feedback that increases subsequent lock probability.
+- S-0064: Thickness existence is explained by discreteness imposing a spectral floor read by the golden-vortex meter as delta proportional to eta.
+- S-0065: Geometry falsifier: if a 3DL-consistent alternative P0 sends eta to 0 or pi-3, Delta geometry fails.
+- S-0066: LOW falsifier: if stable Delta dynamics prefer high-order tours over {1001, 0110}, LOW fails.
+- S-0067: Flow-shear falsifier: if eta_FS is persistently negative under declared ensemble and normalization, square-to-shear claim fails.
+- S-0068: Golden-vortex falsifier: if delta/r0 is not linear in eta with high R^2 or misses the 3DL eta=0.121 band, width claim fails.
+- S-0069: Abstention falsifier: if gradients increase and blow-up occurs without hazard triggers, abstention-as-geometry fails.
+- S-0070: Reproducibility requires publishing P0 algorithm and normalization.
+- S-0071: Reproducibility requires publishing Helmholtz meter code, seeds, and equal-area protocol.
+- S-0072: Reproducibility requires publishing Delta engine integrator, LOW weights, abstention form, and non-blow-up receipts.
+- S-0073: Reproducibility requires publishing vortex profile protocol, eta sweep, plots, and CSV artifacts.
+- S-0074: The one-sentence closure is that flow-shear bootstrap plus LOW plus spectral floor yields lattice growth one hinge at a time.
+
+## 5. Finite-Causal Contract (`abstention_crl_bands` | 149 statements)
+- S-0236: Abstention is selective decoupling from damaging modes while permitting safe couplings.
+- S-0237: Abstention is implemented as a hazard-gated decision over measured detuning, curvature, and brittleness proxies.
+- S-0238: Eligibility bands determine where coupling is permitted versus refused.
+- S-0239: Effective abstention produces monotone energy descent to a floor.
+- S-0240: Effective abstention produces mean hazard quench toward zero.
+- S-0241: Failure of energy descent or hazard quench falsifies abstention effectiveness.
+- S-0242: Abstention outcomes under declared meters are filament family, cavitation, or abstention.
+- S-0243: A reproducible fourth exit under fixed meters falsifies the abstention claim.
+- S-0244: Abstention commit condition is H <= tau_safe.
+- S-0245: Abstention refuse condition is H >= tau_haz.
+- S-0246: Buffer condition between thresholds requires steering or deferral.
+- S-0247: Abstention preserves persistence by refusing hazardous coupling exposure.
+- S-0248: Abstention operationalizes LOW by refusing couplings that force high-order behavior.
+- S-0249: Minimal exits with fixed meters create crisp falsifiability.
+- S-0250: Abstention sweep starts by computing bandwise metrics on fixed bands.
+- S-0251: Abstention sweep uses aligned windows for meter portability.
+- S-0252: Hazard score H[Psi] is formed from convex penalties of detuning, curvature, and brittleness with eligibility mask.
+- S-0253: Decision policy maps hazard score to commit, abstain, or steer.
+- S-0254: Steer mode applies continuous penalty until safe commit or Theta-cut trigger.
+- S-0255: Abstention verification requires E(t) descending to E_infinity.
+- S-0256: Abstention verification requires mean hazard converging to zero.
+- S-0257: Abstention timeline should show early Theta-bursts then quiescence under effective gating.
+- S-0258: Commit segments must satisfy energy and hazard invariants.
+- S-0259: Band-window misalignment is an admissibility fault that can create spurious decisions.
+- S-0260: Under CPL meters only filament, cavitation, and abstention are admissible exits.
+- S-0261: Abstention evidence includes a decision card from Lambda_mean, Var_phi, and E_final to outcome class.
+- S-0262: Abstention predicts zeta plateau to knee to tilt in capture versus damping under effective gating.
+- S-0263: Treating refusals as first-class successes reduces hazardous search burden.
+- S-0264: Abstention falsifier includes repeatable fourth exit under stated meters.
+- S-0265: Abstention falsifier includes commit segments lacking monotone energy descent.
+- S-0266: Abstention falsifier includes commit segments lacking hazard quench.
+- S-0267: Abstention falsifier includes missing zeta plateau below any knee under proper gate binding.
+- S-0268: Abstention comparisons show selective decoupling is distinct from blanket damping.
+- S-0269: Abstention comparisons show bandwise auditable refusal is distinct from generic OOD rejection.
+- S-0270: Methods must freeze tau_safe and tau_haz thresholds.
+- S-0271: Methods must freeze decision-card cutoffs for family, soliton, cavitation, and abstention.
+- S-0272: Methods must compute all meters on same B x W domain and publish band IDs and windows.
+- S-0273: Methods must run mixed gate with continuous steering in buffer and theta events beyond hazard wall.
+- S-0274: Methods must preserve theta refusal logs.
+- S-0275: Methods must verify signatures on safe segments before activation.
+- S-0276: Methods must monitor zeta-capture plateau, knee stability, and tilt behavior.
+- S-0277: Methods must ship placebo and null audits.
+- S-0278: Methods must ship meter-swap audits.
+- S-0279: Methods must ship off-ratio audits.
+- S-0280: Methods must ship boundary and memory subtraction audits.
+- S-0281: Methods must include seeds and artifact manifests.
+- S-0282: Abstention plain-language rule is to refuse risky modes and prove refusal behavior.
+- S-0283: Abstention is a measurable persistence rule and not a heuristic vibe.
+- S-0284: Bands are fixed meter-portable tolerance windows on 3DL hats.
+- S-0285: Bands decide pass, abstain, or refuse for receipts, mirrors, detune, transport, and hazard.
+- S-0286: Bands are theory constants and not tunable per run.
+- S-0287: Band promotion rule is pass inside, abstain at boundary, refuse beyond.
+- S-0288: Changing any band constant requires theory version revision.
+- S-0289: Receipt band target is residual <= 1e-3 with >= 99 percent in-band pass rate.
+- S-0290: Receipt confidence requirement uses Wilson lower bound >= 0.99.
+- S-0291: Mirror form band requires slope in 1 plus-minus 0.01.
+- S-0292: Mirror form band requires R^2 >= 0.95.
+- S-0293: Mirror form band requires MRE <= 1e-3.
+- S-0294: Mirror confidence intervals must remain inside declared targets.
+- S-0295: Transport stability band requires slope spread <= 0.01.
+- S-0296: Detune lock band requires median Delta_tilde_COPL <= 1e-4 inside keys.
+- S-0297: Detune profiles must rise monotonically off-ratio.
+- S-0298: Hazard gate requires H < H_c at decision.
+- S-0299: Bands make truth finite and portable by fixed pass-fail windows.
+- S-0300: Bands prevent counterfeit wins through subtraction audits.
+- S-0301: Bands enforce hazard primacy and legal abstention before collapse.
+- S-0302: Band algorithm evaluates all checks on co-located hats.
+- S-0303: Pointwise receipts require >= 99 percent in-band across declared residual checks.
+- S-0304: Mirror checks are through-origin fits with bootstrap confidence intervals inside bands.
+- S-0305: Transport check verifies slope-spread <= 0.01 across admissible meters.
+- S-0306: Detune discipline requires lock-band pass and monotone off-ratio rise.
+- S-0307: Subtractions require null and placebo failure behavior plus diagnostic boundary and memory responses.
+- S-0308: Hazard breach at decision forces abstention.
+- S-0309: Certification requires all bundle items green simultaneously.
+- S-0310: Any single miss yields typed refusal witness.
+- S-0311: Band evaluation is valid only after one 3DL quantization pass.
+- S-0312: Sub-CRL wins inside bands are void.
+- S-0313: Field and flow receipts must be co-located by event and band.
+- S-0314: Cross-band pairing is inadmissible.
+- S-0315: Band constants are versioned invariants and changes require full re-certification.
+- S-0316: Band evidence package includes pass matrix with Wilson intervals.
+- S-0317: Band evidence package includes mirror slope, R^2, MRE tables with bootstrap intervals.
+- S-0318: Band evidence package includes per-meter slope bars for transport spread.
+- S-0319: Band evidence package includes detune profiles for lock band and off-ratio ladders.
+- S-0320: Band evidence package includes hazard timeline at decisions.
+- S-0321: Band evidence package includes transport key intervals with overlap CIs.
+- S-0322: Band evidence package includes refusal ledger per failed band and subtraction route.
+- S-0323: Band falsifier includes mirror drift under meter swap with slope spread > 0.01.
+- S-0324: Band falsifier includes non-monotone detune off-ratio behavior.
+- S-0325: Band falsifier includes budget dishonesty where QGamma not approximately one or S plus J not approximately one under otherwise passing bands.
+- S-0326: Band falsifier includes certification issued under hazard breach H >= H_c.
+- S-0327: Band falsifier includes certification issued without null failure.
+- S-0328: Each band falsifier forces demotion and public witness.
+- S-0329: Band methods must declare constants for receipts, mirrors, transport spread, detune lock, and hazard wall.
+- S-0330: Band methods must declare meters and windows with co-location discipline.
+- S-0331: Band methods must run delta-subtractions including null, meter swap, off-ratio, boundary-topology, and memory-brittleness.
+- S-0332: Band methods must require all-green bundle before certification.
+- S-0333: Band methods must otherwise issue abstain with typed witness.
+- S-0334: Band methods must publish pass matrix, mirror tables, transport spread, detune and hazard panels, key intervals, and refusal ledger.
+- S-0335: Band plain-language rule is that missing any line forces abstention with published reason.
+- S-0336: CRL is the finite digit budget gate behind causal admissibility.
+- S-0337: A state is admissible under CRL only if represented by short rational within per-component digit caps.
+- S-0338: CRL operates on 3DL-rounded observables projected into reduced p over q form.
+- S-0339: CRL pass requires dig(p) <= D_max and dig(q) <= D_max.
+- S-0340: CRL fail routes candidate to Theta.
+- S-0341: After CRL pass, LOW applies soft weighting by total order K = p + q.
+- S-0342: LOW soft weight form is proportional to exp(-0.6 K).
+- S-0343: Empirically safe CRL regime is D_max about 4.
+- S-0344: CRL with D_max about 4 keeps addressability finite and limits combinatorial blow-up.
+- S-0345: Worked example 0.511 maps to 511 over 1000 and passes D_max 4.
+- S-0346: LOCK tensor LOCK can still fail if composite overruns CRL or violates 3DL.
+- S-0347: CRL exists because causal substrate cannot carry infinite digits.
+- S-0348: On N=4 substrate, unbounded representation length breaks finite search and certification.
+- S-0349: CRL blocks absurd giant fraction spoofing of same corridor values.
+- S-0350: LOW then prefers compact addresses among CRL-legal candidates.
+- S-0351: CRL claims a meter-portable precision floor near 3DL for causal leverage.
+- S-0352: Algorithm requires quantize-before-branch using round(x,3).
+- S-0353: All predicates and branches must consume CRL-quantized values only.
+- S-0354: Sub-CRL perturbations below 0.0005 must not change outcomes.
+- S-0355: Algorithm then encodes reduced rationals and applies digit-budget caps.
+- S-0356: Any over-budget component yields Theta with witness.
+- S-0357: Because values are pre-rounded, equality uses exact string equality on 3DL values.
+- S-0358: Threshold logic uses clear soft hard bands with hysteresis >= 0.010.
+- S-0359: Hysteresis prevents round-trip oscillation artifacts.
+- S-0360: CRL scope includes stored state and decision-facing derived scalars.
+- S-0361: Intermediate heavy math is allowed only if projected to CRL-quantized decision values before gating.
+- S-0362: Receipt parity invariant requires receipts to contain CRL-quantized values sufficient for verification.
+- S-0363: Unit coherence invariant requires shared CRL lattice across time, energy, abstention, curvature, and intensity channels.
+- S-0364: Gate order invariant requires fixed 3DL then CRL ordering.
+- S-0365: If swapping 3DL and CRL changes decisions, pipeline is invalid.
+- S-0366: Exit minimality under correct meters remains LOCK, ABSTAIN, or Theta with no fourth exit.
+- S-0367: CRL evidence includes precision-infinity audit showing dominant plateau in 3 to 4 significant figures.
+- S-0368: CRL linkage defines hard wall while LOW is soft slope and 3DL is reporting corridor.
+- S-0369: CRL falsifier is beyond-corridor decimal leverage under same meters and lawful hazard gates.
+- S-0370: CRL falsifier is reproducible fourth exit not in LOCK ABSTAIN Theta.
+- S-0371: CRL falsifier is loss of zeta plateau under correct meters and gate binding.
+- S-0372: CRL versus LOW is hard cap versus soft ranking.
+- S-0373: CRL versus 3DL is representation admissibility versus reporting corridor.
+- S-0374: Methods must declare D_max and channel map.
+- S-0375: Methods must 3DL-round all decision inputs before predicates.
+- S-0376: Methods must reject over-budget rationals and log Theta witness.
+- S-0377: Methods must publish K and LOW weights in certificates.
+- S-0378: Methods must use fixed comparisons with hysteresis >= 0.010.
+- S-0379: Methods must publish CER-Delta payload including concentration, hazards, outcomes, transport keys, pass matrices, mirror tables, meter spread, detune profiles, hazard timeline, refusal ledger, and tolerance signature.
+- S-0380: CRL falsifier includes gate non-commutativity under same inputs.
+- S-0381: CRL falsifier includes durable decision dependence on digits beyond 3DL without meter change.
+- S-0382: CRL falsifier includes over-budget composite passing without re-certification.
+- S-0383: CRL plain-language summary is 3DL rounding then short-rational admissibility else Theta refusal.
+- S-0384: CRL keeps causality finite and auditable while blocking high-digit spoofing.
+
+## 6. Control + Survival Law (`shr_and_low` | 115 statements)
+- S-0684: Snap-Hold-Release is a strict four-axis control law with precedence Frequency then Phase then Amplitude then Space.
+- S-0685: SHR allows at most one Snap per axis per window.
+- S-0686: SHR requires re-measurement between axes.
+- S-0687: SHR legality ordering is eligibility before timing before harmony before topology.
+- S-0688: SHR forbids phase forcing outside capture.
+- S-0689: SHR is LOW-biased toward lower p+q and lower detune.
+- S-0690: SHR actions are gated by E0-E4 audits.
+- S-0691: SHR is a deterministic controller for landing low-order locks.
+- S-0692: Each axis has explicit Snap, Hold, and Release conditions.
+- S-0693: One-snap discipline prevents hidden work and controller thrashing.
+- S-0694: SHR uses MDL constraints to lower order and detune while raising coherence and stability.
+- S-0695: SHR causal hygiene requires eligibility before phase trim.
+- S-0696: Phase trim is legal only with epsilon_cap > 0 and |s_f| within the frequency wall.
+- S-0697: Eligibility-first guard prevents precision theater.
+- S-0698: SHR precedence suppresses counterfeit structure from premature amplitude or topology edits.
+- S-0699: SHR is auditable with typed kill-switches.
+- S-0700: Phase actions with |s_f| > 1 void claims.
+- S-0701: Frequency axis signals are epsilon_cap and detune s_f.
+- S-0702: Frequency snap is triggered when |s_f| > 1 or trends upward under phase polish.
+- S-0703: Frequency snaps are tiny retunes with delta_f/f <= 2 percent or bandwidth widening.
+- S-0704: Frequency release condition is |s_f| <= tau_f.
+- S-0705: Default tau_f is 0.2.
+- S-0706: No phase action is legal when epsilon_cap = 0.
+- S-0707: No phase action is legal when |s_f| > 1.
+- S-0708: Phase axis signals are wrapped phase error e_phi and s_phi = sin(e_phi).
+- S-0709: Phase low-gain loop uses delta_omega = -k_l * s_phi.
+- S-0710: Phase snap is one-time 5 to 15 degree trim when |e_phi| exceeds snap threshold or imminent slip.
+- S-0711: Default phase snap threshold is 25 degrees.
+- S-0712: Phase hold condition is |e_phi| <= phi_tol.
+- S-0713: Default phase tolerance is 10 degrees.
+- S-0714: If eligibility degrades during phase control, release back to frequency axis.
+- S-0715: Amplitude axis uses bounded multiplicative-weight updates.
+- S-0716: Amplitude update uses Ci = cos(theta_i - argX) - T with beta in [0,0.05].
+- S-0717: Amplitude-lock stop requires W=3 windows with bounded Ci, bounded L1 amplitude change, and DeltaT <= 1e-3.
+- S-0718: If phase tolerance is lost, revert last amplitude step and return to phase axis.
+- S-0719: Amplitude-only gains must survive the mute test.
+- S-0720: Space axis adds supports only if order and brittleness decrease while stability rises.
+- S-0721: Space axis prunes edges with negative dK/dell or chronic detune.
+- S-0722: Leadership flips in space require E3 causal advantage.
+- S-0723: Landing condition requires |s_f| <= tau_f, |e_phi| <= phi_tol, and amplitude-lock hold for W windows.
+- S-0724: Landing implies low-order manifold with epsilon_cap > 0.
+- S-0725: Landing acceptance is contingent on audits including E3 and E4.
+- S-0726: SHR fixed precedence F->P->A->S is an admissibility invariant.
+- S-0727: Out-of-order SHR actions are illegal and route to Theta witness.
+- S-0728: Eligibility wall invariant forbids phase forcing when epsilon_cap = 0 or |s_f| > 1.
+- S-0729: One snap per axis per window is mandatory.
+- S-0730: LOW+MDL invariant prefers edits that lower p+q, detune, and zeta while raising coherence T.
+- S-0731: Higher-order ties must be pruned.
+- S-0732: E0-E2 gate reporting eligibility.
+- S-0733: E3 micro-nudges must lift K, epsilon_cap, and T versus sham.
+- S-0734: E4 requires integer-thinning under x2 pooling.
+- S-0735: SHR defaults are tau_f=0.2, phi_snap=25 deg, phi_tol=10 deg, W=3, beta in [0,0.05].
+- S-0736: Operational landing theorem says F/P/A conditions imply stable low-order landing with positive capture.
+- S-0737: Survivors should persist under coarse-grain unless brittleness or detune rises.
+- S-0738: SHR kill-switches include off-manifold phase forcing, amplitude-only gains, and RG failure.
+- S-0739: SHR falsifier is accepted eligibility breach with phase action at |s_f|>1 or epsilon_cap=0.
+- S-0740: SHR falsifier is lock claim that skips P or A at stated tolerances under admissible meters.
+- S-0741: SHR falsifier is no integer-thinning under x2 pooling after detune normalization.
+- S-0742: SHR falsifier is mute-test failure for supposed phase-based wins.
+- S-0743: SHR is axis-separated and audit-gated unlike heuristic PID control.
+- S-0744: SHR forbids amplitude or topology edits before eligibility and timing pass.
+- S-0745: SHR reproducibility requires exposing e_phi, s_phi, s_f, K, epsilon_cap, epsilon_stab, zeta, T, and Ci signals.
+- S-0746: SHR reproducibility requires declaring tau_f, phi_snap, phi_tol, W, beta, and low-order roster RL.
+- S-0747: SHR reproducibility requires logging Snap/Hold/Release events with one-snap-per-axis enforcement.
+- S-0748: SHR reproducibility requires audits in-loop with E0-E2, E3 micro-nudges, and E4 pooling.
+- S-0749: SHR reproducibility requires Delta-Report artifacts with lock list, epsilon-zeta maps, thinning, micro-nudge telemetry, and steer plan.
+- S-0750: SHR plain-language rule is do not cheat the capture gate.
+- S-0751: LOW is the survival law with weight W = exp(-zeta*K).
+- S-0752: Operational LOW throttle is zeta about 0.6.
+- S-0753: LOW favors lower-order compact flat configurations.
+- S-0754: HIGH-order or sheared candidates are abstained or halted under hazard.
+- S-0755: Canonical LOW weight is W = exp(-0.6*K).
+- S-0756: LOW complexity K in DV/ONAL is nu2 + nu3 + indicator(r>1).
+- S-0757: Residue outside {2,3} incurs penalty through residue flag.
+- S-0758: LOW acts as universal sieve in UMK sweep.
+- S-0759: LOW classifies outcomes as abstain, lock, or cavitation/Theta by capacity and hazard.
+- S-0760: LOW introduces no free knobs beyond zeta law-layer throttle.
+- S-0761: LOW provides unified existence logic across grid physics, cymatics, and chemistry.
+- S-0762: Cross-domain certificate supports consistent lock behavior under LOW gating.
+- S-0763: Single exponential penalty explains hierarchy dominated by low powers of 2 and 3.
+- S-0764: Zeros under LOW are active deletions not empty nothing.
+- S-0765: UMK sweep pipeline is generate candidate then LOW check then hazard guard then collapse admissibility then lock commit.
+- S-0766: LOW accepts candidate by W=exp(-zeta*K) when compactness invariants hold.
+- S-0767: LOW rejects to abstain when compactness fails.
+- S-0768: Hazard violation emits Theta witness.
+- S-0769: Collapse admissibility requires monotone energy descent and minimum basin width.
+- S-0770: Surviving LOW candidates write persistent geometry and memory.
+- S-0771: DV address n = 2^nu2 * 3^nu3 * r is used for K computation.
+- S-0772: Alternator motifs 0101 and 1010 are quick kills under LOW compactness checks.
+- S-0773: LOW monotone descent invariant uses H_Delta = Phi + D_nu + X_geom with dH_Delta/dt <= 0 in dissipative mode.
+- S-0774: LOW never multiplies forces.
+- S-0775: Collapse invariants require finite curvature, non-increasing energy, minimum basin width >= epsilon_CRL, and local attraction robustness.
+- S-0776: NOT-phase veto triggers on hazard H>=H_c, zeta>=zeta_c, or stability deficit beyond Theta_ST.
+- S-0777: LOW evidence includes canonical ONAL/DV law statement with zeta about 0.6.
+- S-0778: LOW evidence includes formula consequences such as low 2/3 power dominance and residue penalties.
+- S-0779: LOW evidence includes cross-domain lock fractions, high-Q modes, and chemistry ledgers.
+- S-0780: LOW evidence includes variational tests, window contraction, RG pooling, zeta-plateau, and monotone ledger checks.
+- S-0781: UMK public claim is existence digital classifier under LOW, abstention, and hazard.
+- S-0782: LOW failure mode includes non-dissipative fine-tuning or restricted task windows masking predictions.
+- S-0783: LOW kill-switches include persistent high-order dominance, non-shrinking windows with rising order, missing zeta-plateau, and non-monotone ledger.
+- S-0784: CRL/3DL are reporting and admissibility constraints and do not add LOW fit knobs.
+- S-0785: 16-to-10 sieve is corollary of LOW compactness filtering.
+- S-0786: Numbers as locks claim says regular n-gons survive while deformed shapes raise K and are abstained.
+- S-0787: LOW reproducibility requires DV address computation with residue condition r coprime to 6.
+- S-0788: LOW reproducibility requires K = nu2 + nu3 + indicator(r>1).
+- S-0789: LOW reproducibility requires W=exp(-0.6K) and rejection on any NOT-phase predicate.
+- S-0790: LOW reproducibility requires collapse invariants and monotone ledger checks else Theta witness.
+- S-0791: LOW reproducibility requires publishing refusals and CI bands for fits, windows, and plateaus.
+- S-0792: LOW falsifier is stable state among six rejected motifs.
+- S-0793: LOW falsifier is unstable state among ten survivor motifs.
+- S-0794: LOW falsifier is curved-space polygon preserving digital-root-9 angle-sum reduction.
+- S-0795: LOW falsifier is deformed number shape that passes long-run LOW without relaxation or break.
+- S-0796: LOW falsifier is alternator motif remaining compact without external scaffolding.
+- S-0797: LOW plain-language rule is simple beats busy via exponential complexity discount.
+- S-0798: LOW rejects capacity-threatening patterns with abstention or Theta witness.
+
+## 7. Lyapunov + Selection Law (`delta_energy_decision_mdl` | 162 statements)
+- S-0522: Delta-Energy is a bounded-below Lyapunov candidate on hats.
+- S-0523: Delta-Energy must be non-increasing under lawful actions with eligibility open and audits green.
+- S-0524: Collapse is finite relaxation of Delta-Energy to a 3DL-stable minimum lock.
+- S-0525: If lawful edits cannot reduce Delta-Energy, the system abstains with witness.
+- S-0526: Delta-Energy is computed from motion, LOW order penalty, abstention penalty, coherence penalty, and memory penalty terms.
+- S-0527: Delta-Energy uses pi = partial_t u as window-local momentum surrogate on hats.
+- S-0528: Alpha, gamma, and delta coefficients in Delta-Energy are positive.
+- S-0529: LOW weights lambda_k are fixed and decreasing with order k.
+- S-0530: Projector P(u) is the low-order candidate cover.
+- S-0531: Abstention geometry nu_eff is nonnegative and raises cost of off-manifold forcing.
+- S-0532: All Delta-Energy terms are evaluated after one 3DL quantization pass.
+- S-0533: Delta-Energy is nonnegative on CRL lattice.
+- S-0534: Bands restrict where projector updates are admissible.
+- S-0535: Lawful runtime edits must not raise Delta-Energy.
+- S-0536: Illegal knob-twiddling appears as positive Delta-Energy bumps.
+- S-0537: A lock is a local 3DL minimum reached by finite monotone descent steps.
+- S-0538: A lock dossier is a relaxation trace.
+- S-0539: If all admissible edits raise Delta-Energy or eligibility is closed, abstention is required.
+- S-0540: Frequency edits are lawful only when they increase eligibility or decrease detune.
+- S-0541: Lawful frequency edits require Delta-Energy change <= 0.
+- S-0542: Frequency edits should show strict Delta-Energy drop when eligibility increases at fixed hazard.
+- S-0543: Phase action uses one snap toward hinge corridor followed by low-gain polishing.
+- S-0544: Lawful phase action requires coherence residual decrease.
+- S-0545: Lawful phase action requires total Delta-Energy change <= 0.
+- S-0546: Phase and amplitude actions are illegal when eligibility <= 0.
+- S-0547: Amplitude action uses bounded reversible multiplicative updates.
+- S-0548: Lawful amplitude action must increase harmony and reduce coherence residual.
+- S-0549: Lawful amplitude action must not increase abstention term.
+- S-0550: Lawful amplitude action requires Delta-Energy change <= 0 with line-item receipts.
+- S-0551: Space edits are lawful only if they reduce LOW order cost or brittleness and do not increase abstention.
+- S-0552: Space edits require non-positive change in LOW order term.
+- S-0553: Space edits require non-positive total Delta-Energy change.
+- S-0554: Composite lawful window step satisfies DeltaE_F + DeltaE_P + DeltaE_A + DeltaE_S <= 0.
+- S-0555: Composite step should be strictly negative for on-manifold state changes and zero on holds.
+- S-0556: Collapse requires monotone descent across all acted steps.
+- S-0557: Collapse requires at least one strict drop per acted axis.
+- S-0558: Collapse requires 3DL flooring where further lawful actions give zero Delta-Energy change up to tolerance.
+- S-0559: Collapse requires stability under Delta-Subtractive and E4 pooling.
+- S-0560: Collapse requires absence of lower-order alternative with lower Delta-Energy.
+- S-0561: Collapse portability requires H-infinity key stability and no induced-gain wall breach.
+- S-0562: Lock publication requires energy trace receipts.
+- S-0563: Energy receipt R1 is per-window line-item ledger for all term deltas and total Delta-Energy.
+- S-0564: Energy receipt R2 is telescoping proof that cumulative Delta-Energy change is non-positive.
+- S-0565: Energy receipt R3 is monotone staircase plot with snap hold release and eligibility annotations.
+- S-0566: Energy receipt R4 is axis-specific before-after residual audits.
+- S-0567: Energy receipt R5 overlays hazard timeline with eligibility and action points.
+- S-0568: Energy receipt R6 is refusal witness Theta when lawful candidate step raises Delta-Energy or eligibility closes.
+- S-0569: All Delta-Energy receipts are on CRL/3DL counts or three-sig-fig values.
+- S-0570: CRL/3DL-only invariant forbids sub-CRL bump usage in Delta-Energy decisions.
+- S-0571: Eligibility wall forbids phase and amplitude edits when eligibility <= 0.
+- S-0572: LOW discipline requires space edits to reduce order or brittleness or be refused.
+- S-0573: One-snap rule allows at most one phase snap per window with re-measure between axes.
+- S-0574: Audit supremacy means Delta-Energy pass cannot override failing E1-E4 or band audits.
+- S-0575: Delta-Energy falsifier is energy bump on claimed lawful commit.
+- S-0576: Delta-Energy falsifier is mute illusion where phase gain disappears under amplitude mute.
+- S-0577: Delta-Energy falsifier is off-eligibility phase or amplitude edit.
+- S-0578: Delta-Energy falsifier is RG inversion where higher-order cover has lower post-pooling Delta-Energy than accepted low-order lock.
+- S-0579: Delta-Energy falsifier is H-infinity portability break at claimed minimum.
+- S-0580: Any Delta-Energy falsifier routes to Theta with annotated ledger slice.
+- S-0581: Methods must declare alpha, lambda_k, gamma, delta, hinge bands, hazard cap, and eligibility policy.
+- S-0582: Methods must quantize hats at 3DL and initialize projector from MDL roster.
+- S-0583: Methods must run gated SHR sequence Frequency then Phase then Amplitude then Space with one snap per axis.
+- S-0584: Methods must record receipts R1 through R5 each window and early-exit to Theta on violation.
+- S-0585: Methods must finish with Delta-Subtractive and E4 and run H-infinity when locking.
+- S-0586: Methods must publish energy trace with seeds and hashes.
+- S-0587: Delta-Energy plain-language rule is legal moves only decrease fuel gauge; red-light states abstain.
+- S-0588: Collapse is relaxation that is auditable and replayable.
+- S-0589: MDL prior maps directly to Delta-Energy order and brittleness penalties.
+- S-0590: Minimizing MDL under guards is equivalent to descending Delta-Energy.
+- S-0591: Omega-Sieve pruning is contractive under MDL-compliant descent.
+- S-0592: Hazard decreases under MDL-compliant lower-order smoother fields.
+- S-0593: Non-compliant edits raise hazard and must be refused.
+- S-0594: Space edits must satisfy MDL decrease and Delta-Energy non-increase.
+- S-0595: Phase and amplitude edits must reduce brittleness and Delta-Energy.
+- S-0596: If higher MDL cost candidate wins, route to Theta RG/LOW or Lyapunov.
+- S-0597: MDL-energy receipts require non-positive order and brittleness line-item deltas on accepted moves.
+- S-0598: Omega report must show frontier shrinkage or non-expansion after MDL-compliant pruning.
+- S-0599: Hazard overlay must be non-increasing across accepted MDL-compliant edits.
+- S-0600: MDL-energy guard requires one-snap, open eligibility, fixed bands, and 3DL-only values.
+- S-0601: MDL-energy falsifier F1 is accepted higher-order cover despite in-band lower-order alternative.
+- S-0602: MDL-energy falsifier F2 is accepted edit with positive brittleness delta.
+- S-0603: MDL-energy falsifier F3 is non-contractive Omega frontier after claimed MDL step.
+- S-0604: MDL-energy falsifier F4 is hazard cap breach during claimed MDL-improving edit.
+- S-0605: MDL-energy plain-language rule is simple and sturdy equals lawful relaxation.
+- S-0606: Refusal-Abstention Decision Card maps L, sigma_phi^2, and terminal Delta-Energy to one CPL exit.
+- S-0607: Decision card exits are Corridor-to-Soliton lock, Corridor-Only, Cavitation, or Abstention.
+- S-0608: Decision card runs on CRL/3DL hats with bands, hazard gates, timers, and one-snap.
+- S-0609: Luminality L is open iff eligibility is sustained and hazard stays below cap over horizon.
+- S-0610: Luminality L closed means L <= 0.
+- S-0611: Phase variance input is windowed residual variance with threshold sigma_phi^2 <= sigma_max^2.
+- S-0612: Terminal Delta-Energy is E_end - E_start with zero-band tolerance epsilon_E.
+- S-0613: Lawful edited windows require terminal Delta-Energy <= 0.
+- S-0614: Decision card constants are sigma_max^2, epsilon_E, H_c, horizon H, and settle timer W_epsilon.
+- S-0615: Corridor-to-Soliton requires L open, phase variance in-band, Delta-Energy non-positive, and separate commit receipts green.
+- S-0616: If commit receipts are not all green under corridor conditions, route to Corridor-Only.
+- S-0617: Corridor-Only allows transport without commit and keeps transport keys.
+- S-0618: Cavitation triggers when L open and phase variance out-of-band.
+- S-0619: Cavitation triggers when any edit has terminal Delta-Energy > epsilon_E.
+- S-0620: Cavitation triggers on eligibility flip with positive terminal Delta-Energy.
+- S-0621: Cavitation action is demotion, reversible undo, and Theta witness at earliest failing gate.
+- S-0622: Abstention triggers when L closed regardless of other action legality.
+- S-0623: With L closed, phase and amplitude edits are illegal and hold/refuse is required.
+- S-0624: Decision card has no fifth exit.
+- S-0625: Score-pass but guard-fail must route to Theta at earliest gate.
+- S-0626: Decision card template logs inputs, routing, and attached receipts.
+- S-0627: Decision card receipts include timer satisfaction and hazard timeline.
+- S-0628: Decision card receipts include phase variance method and band.
+- S-0629: Decision card receipts include Delta-Energy ledger slice and line items.
+- S-0630: Corridor-to-Soliton decisions must attach commit receipts including slope-1 mirrors, quick subtractions, and pooling.
+- S-0631: Decision card admissibility requires single 3DL quantization pass on inputs.
+- S-0632: Any snap resets W_epsilon and restarts horizon H.
+- S-0633: One-snap rule applies per window.
+- S-0634: Decision card cannot overrule E-audits, Bands, Delta-Subtractive, E4, or H-infinity during promotion.
+- S-0635: Decision card falsifier is ungated phase-amplitude edit with L closed.
+- S-0636: Decision card falsifier is accepted corridor/lock window with terminal Delta-Energy > epsilon_E.
+- S-0637: Decision card falsifier is phase variance out-of-band without cavitation route.
+- S-0638: Decision card falsifier is action before W_epsilon settle or horizon H elapse.
+- S-0639: Decision card falsifier is mid-run drift of sigma_max^2 or epsilon_E without version revision.
+- S-0640: Any decision-card falsifier routes to Theta with snapshot witness.
+- S-0641: Decision-card methods must declare constants and tolerance signature.
+- S-0642: Decision-card methods must quantize hats and compute L, sigma_phi^2, and terminal Delta-Energy per window.
+- S-0643: Decision-card methods must apply routing table and tag exit with timer and hazard overlays.
+- S-0644: Decision-card methods must run commit receipts for corridor-to-soliton and otherwise keep keys or issue Theta witness.
+- S-0645: Decision-card methods must publish card snapshots at decision points with chain-of-custody.
+- S-0646: Decision-card plain-language rule is red light abstain, green-plus-steady relax corridor, guard fail cavitate.
+- S-0647: MDL is the minimum description length bias for low-order low-brittleness structure.
+- S-0648: MDL prefers shorter integer descriptions that raise harmony and reduce brittleness.
+- S-0649: Pairwise order cost is p+q.
+- S-0650: N-way order cost is sum of component magnitudes.
+- S-0651: Lower order means shorter code length.
+- S-0652: MDL quality identity requires negative thinning slope of log|Khat| versus order after detune normalization.
+- S-0653: MDL aggregation weights can use inverse order weighting normalized.
+- S-0654: MDL operationalizes LOW and rejects brittle high-order lookalikes.
+- S-0655: MDL-limited search is finite and beam-safe.
+- S-0656: N-way emergent claims require stronger MDL and causal tests than pairwise covers.
+- S-0657: Candidate generation enumerates integer vectors up to order cap o_max.
+- S-0658: Candidate generation keeps top beam B by MDL rank.
+- S-0659: Per-window ranking uses detune-normalized K then low zeta then low order.
+- S-0660: Acceptance replaces any accepted lock if stronger lower-order cover exists.
+- S-0661: Acceptance rejects candidates without significant synergy.
+- S-0662: Leadership handoff requires hysteresis, MDL_ok, and E3 evidence at higher levels.
+- S-0663: RG persistence requires low-order persistence under x2 pooling and demotion when higher-order outruns lower-order.
+- S-0664: Space bridges are legal only when they reduce order or lower zeta.
+- S-0665: No higher-order addition is legal without MDL gain.
+- S-0666: Emergent composites must beat all pairwise marginals or strictly reduce order while raising H*.
+- S-0667: Otherwise emergent composites are pruned.
+- S-0668: Reports must include order sets, thinning plots, and pooled verdicts.
+- S-0669: MDL evidence includes formal quality identity tests and explicit overfit failure mode.
+- S-0670: Pseudocode evidence includes MDL ranking, lower-order replacement, and RG persistence enforcement.
+- S-0671: Objective aggregation S* includes MDL-weighted |K| alongside Z, chi2, and D_KL terms.
+- S-0672: MDL falsifier is no thinning after detune normalization.
+- S-0673: MDL falsifier is composite inversion where composite survives but lower-order subset dies post-pooling.
+- S-0674: MDL falsifier is higher-order tie not pruned under E3/E4 parity.
+- S-0675: Raw K maximization can reward brittle high-order illusions.
+- S-0676: MDL aligns selection with LOW and RG persistence by penalizing order and brittleness.
+- S-0677: MDL policy constants are canonical and explicit, avoiding hidden knobs.
+- S-0678: Methods must declare o_max, beam B, and weight law.
+- S-0679: Methods must rank and cut by detune-normalized K, low zeta, low order.
+- S-0680: Methods must enforce synergy and lower-order cover replacement.
+- S-0681: Methods must enforce leadership handoff guard with MDL_ok, hysteresis, and E3 if level>=L3.
+- S-0682: Methods must publish thinning plots, x2 pooling verdicts, and survivor order sets.
+- S-0683: MDL plain-language rule is shorter stable story wins; fancy composite must beat simpler cover or be cut.
+
+## 8. Objectivity Infrastructure (`transport_pins_hats_receipts` | 219 statements)
+- S-1230: Transport Keys certify portability across meters and contexts.
+- S-1231: A Transport Key is a maximal connected region on CRL lattice where certification invariants hold.
+- S-1232: Transport Keys require decision invariance under admissible meter swaps.
+- S-1233: Transport Keys are reported as half-open intervals per axis.
+- S-1234: Transport Keys include uncertainty bands from overlap confidence intervals.
+- S-1235: Key equivalence across contexts requires symmetric difference measure zero.
+- S-1236: Slope-spread <= 0.01 is mandatory for transport validity.
+- S-1237: Slope-spread violations void promotion and route to Theta.
+- S-1238: Transport key object is defined on hats coordinates Ahat, Rhat, Qhat inverse, and phihat.
+- S-1239: Transport key invariants include Receipts, Mirrors, Transport, Detune, Budgets, Subtractions, and Hazard.
+- S-1240: Meter-swap invariance requires through-origin slopes in 1 plus-minus 0.01.
+- S-1241: Meter-swap invariance requires R^2 >= 0.95 per admissible meter.
+- S-1242: Meter-swap invariance requires identical pass-Theta decisions across admissible meters.
+- S-1243: Key mismatch across contexts implies meter or subtraction fault and suspends certification.
+- S-1244: Transport Keys operationalize portable truth.
+- S-1245: Transport Keys bundle all invariants into single audit shield.
+- S-1246: Transport certification uses GML sequence.
+- S-1247: Gate phase quantizes hats once at 3DL and fixes tolerance signature.
+- S-1248: Gate phase requires eligibility open and hazard below cap at decision times.
+- S-1249: Merge phase fits slope-1 through origin per admissible meter.
+- S-1250: Merge phase checks beta in [0.99,1.01] and R^2 >= 0.95 per meter.
+- S-1251: Merge phase checks mirror fit consistency.
+- S-1252: Merge phase computes slope-spread across meters and requires <= 0.01.
+- S-1253: Merge phase requires decision parity across meters.
+- S-1254: Merge phase runs detune discipline with median Delta_tilde_COPL <= 1e-4.
+- S-1255: Merge phase requires monotone off-ratio ladder behavior.
+- S-1256: Merge phase verifies budget honesty Qhat*Gammahat approx 1 inside bands.
+- S-1257: Merge phase verifies budget honesty Shat+Jhat approx 1 inside bands.
+- S-1258: Lock phase builds maximal connected certified key set.
+- S-1259: Lock phase publishes intervals per axis with overlap confidence intervals.
+- S-1260: Lock phase runs key equivalence test via symmetric-difference measure.
+- S-1261: Lock phase attaches subtraction battery and hazard timeline.
+- S-1262: Transport key invariant is CRL locality with single 3DL quantization.
+- S-1263: Sub-CRL deltas are inadmissible for key decisions.
+- S-1264: Swap supremacy rule voids transport if slope-spread exceeds 0.01.
+- S-1265: Local passes cannot rescue swap-supremacy failure.
+- S-1266: Hazard primacy bars certification when hazard cap breached.
+- S-1267: Closed eligibility bars certification and key formation.
+- S-1268: Refusals bound keys from outside.
+- S-1269: Keys are version-bound to tolerance signature.
+- S-1270: Changing constants revs theory version and invalidates prior key equivalence claims.
+- S-1271: Transport evidence must include hinge panel per meter with slope, R^2, MRE, and CIs.
+- S-1272: Transport evidence must include mirror fits per meter.
+- S-1273: Transport evidence must include slope-spread bar and decision parity record.
+- S-1274: Transport evidence must include detune profile with lock band and off-ratio trend.
+- S-1275: Transport evidence must include budget panel for multiplicative and additive budget checks.
+- S-1276: Transport evidence must include key intervals and overlap plots.
+- S-1277: Transport evidence must include symmetric-difference summary across contexts.
+- S-1278: Transport evidence must include hazard timeline at decisions.
+- S-1279: Transport evidence must include tolerance signature string.
+- S-1280: Dossier without full transport evidence is non-transportable.
+- S-1281: Transport falsifier is meter dependence with slope-spread > 0.01.
+- S-1282: Transport falsifier is decision flip under admissible meter swap.
+- S-1283: Transport falsifier is non-monotone off-ratio ladder.
+- S-1284: Transport falsifier is median Delta_tilde_COPL > 1e-4 in claimed region.
+- S-1285: Transport falsifier is budget dishonesty with Qhat*Gammahat not approx 1.
+- S-1286: Transport falsifier is budget dishonesty with Shat+Jhat not approx 1.
+- S-1287: Transport falsifier is key mismatch with positive symmetric difference absent declared fault.
+- S-1288: Transport falsifier is hazard breach anywhere in key timeline.
+- S-1289: Any transport falsifier routes to Theta with earliest-fail type.
+- S-1290: On failure, keys retract to largest connected safe component.
+- S-1291: Methods must declare admissible meters and tolerance signature.
+- S-1292: Methods must quantize hats at 3DL before evaluations.
+- S-1293: Methods must run slope and mirror checks per meter.
+- S-1294: Methods must compute slope-spread and confirm decision parity.
+- S-1295: Methods must execute subtraction battery with early exit and Theta logging.
+- S-1296: Methods must assemble maximal connected key set and publish overlap CIs.
+- S-1297: Methods must publish symmetric-difference summary across contexts.
+- S-1298: Methods must ship pass matrix, mirror tables, spread bars, detune profiles, budget panel, hazard timeline, and refusal ledger.
+- S-1299: Transport key plain-language rule is same where across admissible meters.
+- S-1300: Delta Pins are three Boolean causal checks: Phase, Topology, Closure.
+- S-1301: Delta Pins must pass in fixed order during Merge.
+- S-1302: Delta Pins run on CRL hats.
+- S-1303: Pin failures route to Theta with typed witnesses.
+- S-1304: Hazard is orthogonal to pin order and cannot overrule causal order.
+- S-1305: Phase pin checks dual-gap cadence match before other pins.
+- S-1306: Phase pin failure routes to Theta<phase-pin>.
+- S-1307: Topology pin enforces boundary legality, packing, and winding conservation.
+- S-1308: Topology failure routes to Theta<topology>.
+- S-1309: Topology failure cannot be rescued by energy diagnostics.
+- S-1310: Closure pin enforces overtone and cumulative closure caps.
+- S-1311: Closure failure routes to Theta<closure>.
+- S-1312: Pin order is causal: phase then topology then closure.
+- S-1313: Skipping or reordering pins is unlawful.
+- S-1314: Pins make Merge deterministic into lawful corridor or lawful refusal.
+- S-1315: Topology-first safety blocks brittle shortcuts.
+- S-1316: Pins on CRL hats guarantee sub-CRL inertness and meter objectivity.
+- S-1317: Pin sweep begins with phase check inside envelope.
+- S-1318: Phase sweep predicate uses Delta_kappa <= delta at windows.
+- S-1319: Topology sweep checks boundary legality and winding conservation.
+- S-1320: Closure sweep checks C <= C_max and C_tot <= C_max_tot.
+- S-1321: After pin pass, dyadic roll-up and hinge checks are executed.
+- S-1322: Any dyadic level fail routes to Theta<hinge,level>.
+- S-1323: Publish-or-refuse step uses overlap/mirror and optional H-infinity for lock progression.
+- S-1324: Pin routing table requires specific witness fields per failure type.
+- S-1325: Order invariant requires phase precede topology precede closure.
+- S-1326: Out-of-sequence attempts must yield Theta<out-of-sequence>.
+- S-1327: Hazard primacy includes fast veto at Gate and slow shaping in Merge.
+- S-1328: Hazard cap breach retroactively demotes to Theta.
+- S-1329: Walls are applied after quantization to maintain meter invariance.
+- S-1330: Evidence supports topology-first discipline and lawful funnels.
+- S-1331: Evidence includes subtractive collapse and coarse-to-fine gains.
+- S-1332: OSCS binds pin receipts and order into dossier.
+- S-1333: Independent labs reproduce pin decisions on CRL.
+- S-1334: Pin falsifier is topology rescued by energy diagnostics.
+- S-1335: Pin falsifier is successful lock while skipping earlier pin.
+- S-1336: Pin falsifier is meter-dependent pin verdict post-CRL for same seed and bands.
+- S-1337: Pins are Boolean legality checks, not score rankings.
+- S-1338: Adding samples cannot overturn pin failure at same run-card.
+- S-1339: Ranking systems can order only within pin-legal set.
+- S-1340: Methods must quantize observables on 3DL hats and declare bands/windows.
+- S-1341: Methods must run pins in order and log typed witness fields on fail.
+- S-1342: Methods must enforce hazard gate H<Hc with fast and slow components.
+- S-1343: Methods must run dyadic and hinge checks with slope and R^2 requirements under swap.
+- S-1344: Methods must include pin receipts, envelope snapshots, roll-ups, hazard timeline, overlap/mirror, and optional H-infinity dossier.
+- S-1345: Pin falsifier includes pin flip under admissible meter swap after CRL.
+- S-1346: Pin falsifier includes closure budget overrun that still passes lock.
+- S-1347: Pin falsifier includes typed witness inconsistency on fail records.
+- S-1348: Pin plain-language rule is beat-match then legal-container then note-budget.
+- S-1349: Delta Hats are dimensionless co-located variables on three-decimal lattice.
+- S-1350: All decisions are made on quantized hats.
+- S-1351: Hat conversion is raw observable divided by fixed baseline for window.
+- S-1352: Ratios and deviations are computed on hats.
+- S-1353: CRL lattice applies Q_1e-3 quantization to every decision-facing value.
+- S-1354: Receipts store quantized values and lattice/grid metadata.
+- S-1355: Walls are evaluated after quantization on hats.
+- S-1356: CRL distance is absolute difference between quantized hat values.
+- S-1357: Hats guarantee meter-swap invariance via co-location contract.
+- S-1358: If admissible meters co-locate hats, quantized outputs and decisions match.
+- S-1359: Sub-CRL perturbations below one lattice step are idempotent.
+- S-1360: Sub-CRL tweaks cannot change decisions.
+- S-1361: Hats-first plus quantization yields finite reproducible search.
+- S-1362: CRL on hats links precision to causal cost per actionable digit.
+- S-1363: Protocol step one is hats-first conversion with declared window.
+- S-1364: Protocol step two is single-round quantization at expression root.
+- S-1365: Protocol step three is walls enforcement after quantization.
+- S-1366: Proposals with sub-CRL deltas route to NOT/abstain.
+- S-1367: Decisions and receipts are executed strictly on quantized hats.
+- S-1368: Tie-break at half-ULP must use predeclared deterministic rule.
+- S-1369: When subsystem grids differ, coarsest agreed grid is promoted.
+- S-1370: Streaming data should be smoothed before single quantization pass.
+- S-1371: Tolerance reporting uses lattice counts on hats, not raw float deltas.
+- S-1372: No sub-CRL side-effects are admissible in automaton branches.
+- S-1373: Co-location contract requires meter kernels/sampling preserve lattice decisions.
+- S-1374: Hats evidence includes protocol requiring HAT then CRL_QUANTIZE before guards.
+- S-1375: Hats theorems include meter-swap invariance and sub-CRL idempotence.
+- S-1376: Delta-Subtractive and refusal schema are defined on hats/CRL.
+- S-1377: Hats falsifier is meter-dependent decision flip after proper co-location.
+- S-1378: Hats falsifier is reproducible sub-CRL leverage changing decision.
+- S-1379: Hats falsifier is runtime tolerance dependence replacing lattice counts.
+- S-1380: Hats are not generic normalized features but legal decision arena.
+- S-1381: Single-round root quantization avoids staircase bias and preserves CRL semantics.
+- S-1382: Extra decimals without lattice change are inert and non-causal.
+- S-1383: Methods must declare baselines per channel and compute hats.
+- S-1384: Methods must quantize once at decision root and persist grid in receipts.
+- S-1385: Methods must enforce walls on CRL and route sub-CRL proposals to NOT with witness.
+- S-1386: Methods must run LOW, pins, and hinge strictly on hats.
+- S-1387: Methods must report spreads and band tests as lattice counts.
+- S-1388: Methods must publish receipts with grid, quantized values, tie-break policy, and heterogeneous-grid policy.
+- S-1389: Hats plain-language rule is if not on hats, not real.
+- S-1390: Hats lattice cheatsheet catalogs core variables for coherence, eligibility, phase, detune, order, transport, and Delta-Energy terms.
+- S-1391: Core coherence hats include Khat, Gammahat, Qhat and budget pair constraints.
+- S-1392: Eligibility hat is epsilonhat = [2piKhat - Gammahat]_+.
+- S-1393: Hazard hat Hhat is compared to cap Hc.
+- S-1394: Phase hats include wrapped phase error and phase variance.
+- S-1395: Detune hat metric includes Delta_tilde_detune with lock band semantics.
+- S-1396: CPL hats include contrast C, phase band P, and luminality L from epsilonhat and Hhat.
+- S-1397: Order and brittleness are computed on hats.
+- S-1398: Transport hats include through-origin beta, R^2, slope-spread, key intervals, and off-ratio index.
+- S-1399: Delta-Energy line items are represented on hats.
+- S-1400: All decisions use single 3DL quantization then frozen values.
+- S-1401: Never re-round mid-pipeline or mix pre/post quantized values.
+- S-1402: Quantization rule is round-half-to-even at three significant digits.
+- S-1403: Band endpoints are expressed at 3 sig figs before comparison.
+- S-1404: Receipts store value@3DL and band@3DL.
+- S-1405: Default slope band is beta in [0.99,1.01] with R^2>=0.95.
+- S-1406: Transport band requires slope-spread <=0.01.
+- S-1407: Detune lock band requires median Delta_tilde_detune <=1e-4 with monotone off-ratio rise.
+- S-1408: Hazard band requires Hhat<Hc at reads and edits.
+- S-1409: Phase variance band requires sigma_phi^2 <= sigma_max^2.
+- S-1410: Delta-Energy terminal band requires DeltaE_term <= epsilon_E.
+- S-1411: Local bands must be declared and versioned in run-card.
+- S-1412: Do compute and compare after 3DL quantization only.
+- S-1413: Do record band outcomes as lattice pass-fail counts.
+- S-1414: Do not claim effects visible only pre-quantization.
+- S-1415: Do not rescue failures with extra digits or off-lattice re-fits.
+- S-1416: Do not move band endpoints mid-run.
+- S-1417: Do not mix meters unless transport band passes on same 3DL grid.
+- S-1418: Eligibility quick formula uses quantized hats.
+- S-1419: CPL luminality formula requires sustained epsilonhat>0 and Hhat<Hc over horizon.
+- S-1420: Slope-1 receipt formula is through-origin linear relation on hats.
+- S-1421: Lawful Delta-Energy edits require DeltaE<=0.
+- S-1422: Minimal methods report includes hats snapshot, quantization mode, tolerance signature, core/hazard/phase/detune/slope/CPL/timers/Delta-Energy and decision.
+- S-1423: Common pitfalls include pre-lattice leaks, band drift, meter drift, off-eligibility edits, and accepted energy bumps.
+- S-1424: Publish checklist includes one-time quantization, transport-key agreement, non-increasing Delta-Energy, and Theta on first failing gate.
+- S-1425: Receipts-per-season table explicitly maps Winter->Gate, Spring->Merge, Summer->Lock.
+- S-1426: Winter allows permission measurements and forbids phase-amplitude edits.
+- S-1427: Winter must log eligibility panel, hazard timeline, hats snapshot, and CPL read.
+- S-1428: Winter requires CRL/3DL and E0 calibration.
+- S-1429: Winter timers require W_epsilon settled and horizon started.
+- S-1430: Winter artifacts include PCO hashes, meter list, declared bands, and optional Omega frontier.
+- S-1431: Winter typical Theta is calibration/CRL or eligibility/hazard.
+- S-1432: Spring allows lawful alignment under SHR precedence with one-snap discipline.
+- S-1433: Spring must log E1 mute, E2 symmetry, phase corridor trace, amplitude ledger, Delta-Energy staircase, and CPL trace.
+- S-1434: Spring requires phase and hazard bands with E1/E2 green around edits.
+- S-1435: Spring timers require sustained horizon and reset on snap.
+- S-1436: Spring artifacts include action ledger, refusal cards, hinge previews, Omega updates, and transport spot checks.
+- S-1437: Spring typical Theta includes mute, symmetry, phase-band, eligibility/hazard, and Lyapunov failures.
+- S-1438: Summer handles commit-or-refuse and transport-only fallback.
+- S-1439: Summer requires hinge panel slope/R^2/mirror checks.
+- S-1440: Summer requires transport spread <=0.01 and key interval equivalence.
+- S-1441: Summer requires full Delta-Subtractive battery and E4 pooling with thinning/down-set.
+- S-1442: Summer requires final Delta-Energy trace without bumps.
+- S-1443: Summer includes optional H-infinity dossier for family identity claims.
+- S-1444: Summer requires commit timer elapsed with overlays green.
+- S-1445: Summer artifacts include certificate or Theta witness, pooling plots, detune profiles, key overlaps, and PCO signatures.
+- S-1446: Summer typical Theta includes band miss, swap/transport, off-ratio, boundary/topology, memory/brittleness, RG/LOW, Lyapunov, or H-infinity failures.
+- S-1447: Receipts-per-season legend enforces hats/3DL single quantization and fixed guards/timers.
+- S-1448: Theta refusals are append-only and absorbing at same tolerance signature.
+
+## 9. Runtime Surface + Portability (`cpl_corridor_hinf` | 179 statements)
+- S-1449: CPL is the runtime state surface on three hat-valued axes: Contrast, Phase, and Luminality.
+- S-1450: CPL is evaluated on the 3DL lattice.
+- S-1451: Fixed bands partition CPL into a Fourfold Exit Map.
+- S-1452: Fourfold exits are Corridor-to-Soliton, Corridor-Only, Cavitation, and Abstention.
+- S-1453: No exits outside the Fourfold map are lawful.
+- S-1454: CPL is enforced by Hazard Gates, LOW, SHR order, and E-audits.
+- S-1455: Each window maps to a single quantized point (C,P,L).
+- S-1456: Bands and walls on CPL are fixed and cannot widen mid-run.
+- S-1457: CPL purpose is to route Snap/Hold/Release and lock-vs-refusal decisions.
+- S-1458: Contrast axis measures normalized post-null structure against background.
+- S-1459: Phase axis measures wrapped phase error relative to low-order relation and hinge corridor.
+- S-1460: Luminality axis measures permission-to-act from eligibility, hazard, and bandwidth budget.
+- S-1461: CPL combines eligibility legality, phase legality, hazard budget, and null-robust contrast on one canvas.
+- S-1462: CPL enforces finite reproducible exits under fixed CRL/3DL bands.
+- S-1463: Off-eligibility phase forcing is geometrically illegal in CPL.
+- S-1464: Amplitude-only contrast illusions are illegal CPL regions.
+- S-1465: CPL inputs include coherence K, bandwidth Gamma, capture gap epsilon, phase error e_phi, contrast statistic C, and hazard H.
+- S-1466: Capture gap epsilon is [2piK-Gamma]_+.
+- S-1467: C axis is reported as binned post-null effect with confidence intervals.
+- S-1468: P axis is distance to phase corridor including hinge status.
+- S-1469: L axis is monotone in epsilon and decreasing in hazard.
+- S-1470: L>0 iff eligibility is open and hazard is below cap.
+- S-1471: C/P/L thresholds are theory constants declared in run-card.
+- S-1472: Fourfold routing requires SHR precedence Frequency->Phase->Amplitude->Space.
+- S-1473: Corridor-to-Soliton requires C in commit band, P in phase band, and L>0.
+- S-1474: Corridor-to-Soliton requires hinge passes.
+- S-1475: Corridor-to-Soliton allows legal one phase snap if needed.
+- S-1476: Corridor-to-Soliton allows bounded amplitude reweighting.
+- S-1477: Corridor-to-Soliton allows optional space edits only if order and brittleness decrease.
+- S-1478: Corridor-to-Soliton requires Delta-Subtractive, audits, and optional H-infinity before lock publication.
+- S-1479: Corridor-Only requires P in band and L>0 with C below commit band.
+- S-1480: Corridor-Only allows transport without commit.
+- S-1481: Corridor-Only retains transport keys and continues merge.
+- S-1482: Corridor-Only amplitude edits must remain reversible.
+- S-1483: Corridor-Only space edits allowed only with order/brittleness reduction.
+- S-1484: Cavitation triggers with high C and bad P.
+- S-1485: Cavitation triggers with L<=0 during destabilized high-contrast state.
+- S-1486: Cavitation triggers immediate demotion to Theta with typed witness.
+- S-1487: Cavitation requires undo of provisional amplitude edits.
+- S-1488: Cavitation freezes space edits.
+- S-1489: Abstention triggers when L<=0.
+- S-1490: Abstention also applies when C below detect and P not in band.
+- S-1491: Abstention allows measurement only.
+- S-1492: Micro-nudges under abstention must be inert.
+- S-1493: Score-with-failed-gates is an invalid region.
+- S-1494: CPL invariant requires single 3DL quantization before all axis/band evaluations.
+- S-1495: Sub-CRL flips are inert and inadmissible in CPL routing.
+- S-1496: Eligibility wall forbids phase/amplitude edits when L<=0.
+- S-1497: Phase honesty requires mute-survival; amplitude cannot fabricate phase evidence.
+- S-1498: LOW corridor invariant requires exits #1 and #2 to survive pooling with thinning/down-set.
+- S-1499: One-snap invariant allows at most one phase snap per window.
+- S-1500: Audit supremacy means E-audits and Delta-Subtractive outrank S* scores.
+- S-1501: CPL evidence includes C-P-L trajectories with region shading and per-window labels.
+- S-1502: CPL evidence includes explicit band contracts with confidence bars.
+- S-1503: CPL evidence includes action ledger aligned to CPL movement.
+- S-1504: CPL evidence includes hinge/mirror receipts at corridor-to-soliton boundary.
+- S-1505: CPL evidence includes subtractive and audit outcomes attached to #1 exits.
+- S-1506: CPL evidence includes hazard timeline showing L>0 only at lawful actions.
+- S-1507: CPL evidence includes typed refusal witnesses for #3 and #4 exits.
+- S-1508: CPL falsifier is ungated accepted phase/amplitude edit with L<=0.
+- S-1509: CPL falsifier is corridor-to-soliton claim failing mute-survival.
+- S-1510: CPL falsifier is no pooling survival for #1/#2 exits.
+- S-1511: CPL falsifier is exit-class flip under admissible meter swap with co-located hats.
+- S-1512: CPL falsifier is sub-CRL-only leverage for exit existence.
+- S-1513: CPL methods must declare definitions of C,P,L and report as lattice counts.
+- S-1514: CPL methods must bind to SHR and gates with frequency opening L>0 before phase.
+- S-1515: CPL methods must enforce phase-in-band before amplitude.
+- S-1516: CPL methods must enforce one snap per window.
+- S-1517: CPL methods must publish shaded four-region exit map with inequalities.
+- S-1518: CPL methods must log each window exit tag and action ledger.
+- S-1519: CPL methods must run subtractive and E-audits on #1 exits before promotion.
+- S-1520: CPL methods must attach pooling/thinning plots before promotion.
+- S-1521: CPL methods must optionally attach H-infinity dossier for locks.
+- S-1522: CPL methods must publish refusal ledger for #3/#4 as binding constraints.
+- S-1523: Corridor is a maximal connected CPL set with P in band and L>0.
+- S-1524: Corridor may have contrast below commit band.
+- S-1525: Corridor corresponds to Exit #2 or pre-commit segment of Exit #1.
+- S-1526: Corridor is constrained to LOW routes and hazard-safe regions.
+- S-1527: Corridor is certified by transport keys rather than lock certificate.
+- S-1528: Filament is piecewise-dyadic concatenation of adjacent corridors.
+- S-1529: Filament must survive x2/x4 pooling with integer thinning.
+- S-1530: Filament requires bounded order and brittleness across concatenation.
+- S-1531: Filament requires eligibility-open handoff points.
+- S-1532: Filament Family is H-infinity equivalence class of filaments.
+- S-1533: Family equivalence requires transport-key symmetric difference approximately zero.
+- S-1534: Family equivalence requires receipt invariants in-band across portability sweep.
+- S-1535: A lock may lie on a filament.
+- S-1536: Filaments can exist without any commit lock.
+- S-1537: Locks carry certificates; corridors/filaments carry transport key dossiers.
+- S-1538: Filament points can elevate to lock when C enters commit band and all guards pass.
+- S-1539: Corridor/filament model captures lawful structure beyond immediate commits.
+- S-1540: Planners use filaments for hazard-safe low-order routing.
+- S-1541: Outside filaments correct action is abstention.
+- S-1542: Corridor detection computes CPL state on hats at 3DL.
+- S-1543: Corridor condition requires phase in band and L>0 with LOW corridor respect.
+- S-1544: Corridor transport checks require slope-1, mirror pass, and meter spread <=0.01.
+- S-1545: Corridor checks require detune discipline with lock band and monotone off-ratio.
+- S-1546: Corridor checks require hazard below cap and epsilon>0 at phase/amplitude actions.
+- S-1547: Corridor checks enforce one-snap rule.
+- S-1548: Filament assembly concatenates adjacent corridor windows with overlapping transport keys.
+- S-1549: Filament assembly requires green eligibility handoffs.
+- S-1550: Filament assembly runs x2 pooling and prunes LOW inversions.
+- S-1551: Filament assembly across contexts requires decision parity and spread band preservation.
+- S-1552: Family certification runs H-infinity portability sweeps.
+- S-1553: Family pass requires key identity preservation under admissible perturbations.
+- S-1554: Family pass requires no hazard breaches and no leadership flips.
+- S-1555: Family label includes order/support signature, key hash, and RG/H∞ receipts.
+- S-1556: Corridor evidence includes CPL card with bands and eligibility-hazard traces.
+- S-1557: Corridor evidence includes hinge/mirror and meter-spread panels.
+- S-1558: Key evidence includes per-axis intervals with overlap confidence intervals.
+- S-1559: RG evidence includes thinning slopes and down-set survivor plots.
+- S-1560: Handoff evidence logs eligible concatenation windows and one-snap compliance.
+- S-1561: H∞ family evidence shows identity preservation under admissible sweeps.
+- S-1562: Representative windows require null and meter-swap subtractive spot-checks.
+- S-1563: Corridor/filament invariants require CRL/3DL-only values after single quantization.
+- S-1564: Eligibility wall forbids phase/amplitude edits when L<=0 or epsilon<=0.
+- S-1565: Audit supremacy brackets edits with E1/E2 and requires E4 for filament status.
+- S-1566: LOW corridor invariant prunes high-order detours lacking thinning.
+- S-1567: One-snap invariant remains active per window.
+- S-1568: No band drift is allowed within run-card; changes require version rev and recertification.
+- S-1569: Lock decision is binary commit; corridor/filament decision is transport reality.
+- S-1570: Lock artifacts are certificate-centric; filament artifacts are key/dossier-centric.
+- S-1571: Filament failure can shrink keys or escalate to Theta when guards break.
+- S-1572: Locks instantiate objects; filaments route lawful motion and predict safe commit zones.
+- S-1573: Corridor/filament falsifier is meter dependence with spread >0.01 or hinge miss.
+- S-1574: Corridor/filament falsifier is RG inversion after pooling.
+- S-1575: Corridor/filament falsifier is off-eligibility concatenation or snap.
+- S-1576: Corridor/filament falsifier is H-infinity identity break under admissible sweep.
+- S-1577: Corridor/filament falsifier is non-collapsing off-ratio ladder near boundaries.
+- S-1578: Corridor/filament falsifier is mid-run band drift.
+- S-1579: Any corridor/filament falsifier causes demotion, pruning, break, or Theta.
+- S-1580: Methods must declare run-card bands, meters, windows, and order caps.
+- S-1581: Methods must detect corridors via CPL+hinge/mirror+swap+detune with eligibility-hazard logs.
+- S-1582: Methods must assemble filaments by key overlap and verify handoffs.
+- S-1583: Methods must run x2 pooling and publish thinning/down-set geometry.
+- S-1584: Methods must certify family via H-infinity sweeps and key equivalence.
+- S-1585: Methods must ship corridor cards, key intervals, RG/H∞ panels, and refusal ledger.
+- S-1586: Promotion rule elevates corridor point to lock only after subtractive+audits pass.
+- S-1587: H-infinity is post-lock portability and stability harness.
+- S-1588: H-infinity proves lock survives admissible perturbations on CRL hats.
+- S-1589: H-infinity requires bounded worst-case disturbance-to-output gain.
+- S-1590: Default H-infinity wall is gamma_star = 1.
+- S-1591: H-infinity gains and thresholds are reported as lattice counts on hats.
+- S-1592: H-infinity runs after GML and does not create locks.
+- S-1593: H-infinity certifies transportability across meters/scales within declared uncertainty.
+- S-1594: H-infinity prevents lab-only lock illusions.
+- S-1595: H-infinity ties stability to CRL objectivity and blocks sub-CRL games.
+- S-1596: H-infinity completes stack after LOW, pins, and hinges.
+- S-1597: H-infinity sweep starts from published locked key and receipts.
+- S-1598: Perturbation set w includes meter swap, band/window shuffle, dyadic shifts, null/placebo, and bounded load jitter.
+- S-1599: Outcome set z includes hinge spread, mirror-overlap deltas, hazard surplus, and closure drift.
+- S-1600: For each perturbation compute ||z||2/||w||2 on CRL lattice.
+- S-1601: H-infinity decision uses worst-case sup gain across admissible perturbations.
+- S-1602: H-infinity passes when sup gain <=1 and key identity is unchanged.
+- S-1603: H-infinity failure yields Theta<H∞> with typed witness.
+- S-1604: Hats-first CRL-only invariant applies to both w and z.
+- S-1605: Sub-CRL differences are causally inert in H∞.
+- S-1606: H∞ pass requires no key drift in labels or overlap/mirror tables.
+- S-1607: Any hazard push above Hc causes immediate Theta regardless of gain.
+- S-1608: H∞ failure is absorbing; reassessment requires new receipts.
+- S-1609: H∞ evidence includes declared harness definition and typed failure witnesses.
+- S-1610: H∞ leverages meter-swap invariance theorem for portability testing.
+- S-1611: H∞ falsifier is admissible perturbation producing gain >1.
+- S-1612: H∞ falsifier is unbounded growth of decision-facing z under admissible w.
+- S-1613: H∞ falsifier is key identity drift under meter swap or band shuffle at constant CRL.
+- S-1614: H∞ falsifier is hazard spike during sweep.
+- S-1615: H∞ answers stability-under-nudge, not fit prettiness.
+- S-1616: More data cannot rescue H∞ fail without new lock receipts.
+- S-1617: H∞ is structured by declared perturbation set, CRL metrics, and typed witnesses.
+- S-1618: H∞ introduces no new knobs beyond existing walls.
+- S-1619: Methods must pin hats/CRL baselines and grids.
+- S-1620: Methods must declare perturbation set and hazard wall.
+- S-1621: Methods must choose decision-facing z signals.
+- S-1622: Methods must run induced-gain sweep and report worst-case gain with key parity.
+- S-1623: Methods must publish H∞ dossier with pass matrix, gain plots, and typed failures.
+- S-1624: H∞ cheap falsifier is co-located hats under swap with changed key labels/overlaps.
+- S-1625: H∞ cheap falsifier is admissible band/window shuffle with gain >1 on hinge or hazard outputs.
+- S-1626: H∞ cheap falsifier is null locking or real key unlocking under null.
+- S-1627: H∞ plain-language rule is shake-the-table with bounded wobble and invariant key identity.
+
+## 10. Convergence Auditor (`delta_pinch_and_hinge` | 95 statements)
+- S-0938: Delta-Pinch is a finite auditor-compactor that runs P0 through P6.
+- S-0939: Delta-Pinch squeezes claims to LOCK@3DL or typed Theta refusal.
+- S-0940: Delta-Pinch never widens bands mid-run.
+- S-0941: Delta-Pinch logs hazards and integrates with Sieve, SHR order, E-audits, and Bands.
+- S-0942: Delta-Pinch is deterministic and finite on admissible candidate windows.
+- S-0943: Delta-Pinch outputs decision at 3DL, hazard timeline, artifact bundle, and provenance hooks.
+- S-0944: Delta-Pinch motivation is bounded auditable squeeze replacing open-ended optimization.
+- S-0945: Delta-Pinch has only two terminal outcomes: LOCK@3DL or Theta.
+- S-0946: Delta-Pinch safety requires hazard gating and monotone commit signatures.
+- S-0947: Delta-Pinch decisions are meter-portable via tolerance signatures.
+- S-0948: Delta-Pinch contract is hats-only with single 3DL quantization.
+- S-0949: Delta-Pinch contract enforces SHR precedence Frequency->Phase->Amplitude->Space.
+- S-0950: Delta-Pinch contract enforces Bands and hazard supremacy.
+- S-0951: P0 establishes calibrated windows, meters, initial bands, and hazard ceilings.
+- S-0952: P0 refuses sub-CRL evidence.
+- S-0953: P1 performs LOW compaction with MDL beam and eligibility gating.
+- S-0954: P1 forbids off-eligibility phase actions.
+- S-0955: P2 requires hinge through-origin slope in 1 plus-minus 0.01 and R^2 >= 0.95.
+- S-0956: P2 requires meter-swap consistency spread <= 0.01.
+- S-0957: P2 failure routes to Theta signature witness.
+- S-0958: P3 performs spectral-variational tightening within fixed bands without widening.
+- S-0959: P3 must preserve energy descent and hazard quench in commit segments.
+- S-0960: P4 runs hazard timeline and abstention checks.
+- S-0961: P4 reverts and routes to Theta on any phase-amplitude action with epsilon<=0 or outside detune corridors.
+- S-0962: P5 runs Delta-Subtractive five-battery with early exit on first fail.
+- S-0963: P5 battery order is Null-Placebo, Meter Swap, Off-Ratio Dyadic Ladder, Boundary-Topology, Memory-Brittleness.
+- S-0964: P6 aggregates E-audits and issues LOCK@3DL or Theta with refusal route.
+- S-0965: P6 requires E0-E2 and includes E3-E4 when enabled.
+- S-0966: Delta-Pinch framing is explicit squeeze-to-lock-or-refuse in Delta-Quantum plan.
+- S-0967: Delta-Pinch invariant is CRL/3DL-only with one quantization pass and inert sub-3DL tweaks.
+- S-0968: Delta-Pinch eligibility wall forbids phase-amplitude when epsilon_cap<=0 or |s_f|>tau_f.
+- S-0969: Delta-Pinch one-snap invariant allows at most one phase snap per window.
+- S-0970: Delta-Pinch audit supremacy means gates outrank scores.
+- S-0971: S* can summarize but cannot promote against closed gate.
+- S-0972: Delta-Pinch evidence includes P0-P6 event log with thresholds and earliest fail gate.
+- S-0973: Delta-Pinch evidence includes hazard timeline H(t) with cap and abstention intervals.
+- S-0974: Delta-Pinch evidence includes hinge-mirror receipts, meter spread, band matrix, and subtractive reports.
+- S-0975: Delta-Pinch evidence includes run cards with seeds, hashes, and rebuild scripts.
+- S-0976: Delta-Pinch falsifier is ungated accepted phase-amplitude snap.
+- S-0977: Delta-Pinch falsifier is commit segment without energy monotonicity or hazard quench.
+- S-0978: Delta-Pinch falsifier is meter-dependent decision flip or spread > 0.01 under admissible swap.
+- S-0979: Delta-Pinch falsifier is band drift or mid-run tolerance widening.
+- S-0980: Delta-Pinch methods must declare exact P0-P6 thresholds, bands, hazard cap, and SHR precedence.
+- S-0981: Delta-Pinch methods must quantize once, fix windows-meters, and publish tolerance signature.
+- S-0982: Delta-Pinch methods must enforce LOW-MDL roster and forbid off-eligibility actions.
+- S-0983: Delta-Pinch methods must run receipts then subtractions with early exit and Theta witness.
+- S-0984: Delta-Pinch methods must run E-audits plus RG and publish thinning plus hazard saturation.
+- S-0985: Delta-Pinch plain-language rule is finite squeeze with no band-fiddling.
+- S-0986: Hinge is the linear co-location law for paired observables on CRL hats.
+- S-0987: Hinge requires through-origin slope in 1 plus-minus 0.01 and R^2 >= 0.95.
+- S-0988: Hinge requires meter-swap slope spread <= 0.010.
+- S-0989: Hinge includes partner reciprocity check with partner ratio regressed against reciprocal relation.
+- S-0990: Partner inconsistency routes to typed refusal.
+- S-0991: Hinge walls require ratio deviations inside [delta,1/delta].
+- S-0992: Sub-CRL tweaks are causally inert and cannot rescue failing hinge.
+- S-0993: Hinges enforce objectivity across meters and expose hidden high order.
+- S-0994: Hinge meter-collapse after swap indicates LOW violation and routes to NOT.
+- S-0995: Hinge uses over-determination via Pentad redundancy and any single fail yields Theta.
+- S-0996: Dyadic promotion requires hinge receipts at each level.
+- S-0997: No level may emit children without finer-level hinge passes.
+- S-0998: Hinge sweep declares at least two independent partner pairs.
+- S-0999: Hinge sweep quantizes to 3DL/CRL hats once.
+- S-1000: Hinge sweep aggregates dyadically and computes roll-up stats.
+- S-1001: Hinge sweep runs through-origin regression and records slope, R^2, and MRE.
+- S-1002: Hinge sweep checks meter-swap spread <= 0.010.
+- S-1003: Hinge sweep checks partner reciprocity slope near one.
+- S-1004: Hinge sweep applies walls and issues receipt or Theta witness.
+- S-1005: Hinge invariants require slope and R^2 bands at each dyadic level.
+- S-1006: Hinge spread above 0.01 is fail.
+- S-1007: Hinge meter-swap invariance is required under CRL-equivalent meters.
+- S-1008: Hinge LOW compatibility rejects high-order cascades via quadratic remainder inflation.
+- S-1009: AND-to-LOCK promotion requires hinge plus pins plus hazard plus dyadic receipts.
+- S-1010: Hinge evidence includes corridor pass and cavitation fail worked micro-examples.
+- S-1011: Hinge evidence includes pass matrix, mirror tables, meter-spread bars, detune profiles, and hazard timelines.
+- S-1012: Placebo and null must not lock under hinge evidence package.
+- S-1013: Five Subtractions plus hinge sufficiency can issue key; failure of any subtraction issues durable refusal.
+- S-1014: Hinge falsifier is reproducible slope outside [0.99,1.01] at 3DL under admissible meters.
+- S-1015: Hinge falsifier is ratio law nonlinearity or wall breach.
+- S-1016: Hinge falsifier is bias flip or custody drift for same seed and CRL across admissible meters.
+- S-1017: Hinge falsifier is stable 3:1 accretion that never visits 3:2.
+- S-1018: Hinge comparison note: hinge is not just good R^2 fit but CRL-quantized, partner-checked, meter-stable, and wall-bounded.
+- S-1019: Hinge introduces no new knobs beyond inherited LOW and CRL.
+- S-1020: Hinge methods must pin P0 and hinge corridor declarations where applicable.
+- S-1021: Hinge methods must run dyadic regressions with slope, R^2, and spread thresholds.
+- S-1022: Hinge methods must run meter swap and reciprocity checks.
+- S-1023: Hinge methods must run walls and Delta-Pentad subtractions.
+- S-1024: Hinge methods must ship receipts dossier including rollups, histograms, closure panel, hazard timelines, mirror-overlap tables, spread bars, and refusal ledger.
+- S-1025: Hinge cheap falsifier is partner pass on one meter with fail after admissible swap.
+- S-1026: Hinge cheap falsifier is reproducible third full-tour ONAL hinge beyond {0110,1001}.
+- S-1027: Hinge cheap falsifier is durable out-of-order promotion without immediate finer-level hinge receipts.
+- S-1028: Hinge plain-language rule is co-location proof by slope-one reciprocity under swap-stable meters.
+- S-1029: ONAL logic sidebar states only two 4-bit rings make full lap: 0110 and 1001.
+- S-1030: ONAL pair 0110 and 1001 are canonical NO-YES dual pair.
+- S-1031: ONAL pair are mirror-rotation duals and digital-root complements 6 and 9.
+- S-1032: ONAL 6/9 hinge pins binary decisions to hinge concept without adding axioms.
+
+## 11. Global Sieve + Existence Gate (`pentad_omega_subtractive_umk` | 182 statements)
+- S-1628: Delta-Pentad is a five-receipt redundancy bundle that makes hinge certification honest.
+- S-1629: Delta-Pentad requires all five receipts to concur on CRL.
+- S-1630: Any single Delta-Pentad receipt failure routes claim to Theta.
+- S-1631: Delta-Pentad is required before AND-to-LOCK promotion.
+- S-1632: Delta-Pentad is evaluated on CRL-quantized hats after dyadic aggregation.
+- S-1633: Delta-Pentad decisions must persist under meter swap and window re-banding.
+- S-1634: Delta-Pentad spread reporting uses lattice counts.
+- S-1635: Slope-spread above 0.01 is Delta-Pentad failure.
+- S-1636: Receipt 1 is phase conjugacy with phase cancellation at lock.
+- S-1637: Phase conjugacy includes dual-gap criterion Delta-kappa <= delta.
+- S-1638: Receipt 2 is ratio reciprocity with partner reconciliation.
+- S-1639: Ratio reciprocity requires R-prime times R approximately one.
+- S-1640: Ratio reciprocity requires partner regression slope approximately one.
+- S-1641: Receipt 3 is BQ product requiring QGamma approximately omega0 across regimes.
+- S-1642: Receipt 4 is entropy budget with bounded on-ratio entropy and off-ratio rise.
+- S-1643: Entropy anomalies flag hazard under Delta-Pentad.
+- S-1644: Receipt 5 is mirror overlap agreement across meters and dyadic rollups.
+- S-1645: Delta-Pentad motivation is over-determination against fabricated fits.
+- S-1646: Delta-Pentad enforces objectivity across meters and scales.
+- S-1647: Each failed receipt emits a typed refusal witness.
+- S-1648: Pentad sweep begins with CRL quantization and dyadic aggregation.
+- S-1649: Pentad phase check requires Delta-kappa<=delta and phase cancellation at lock windows.
+- S-1650: Pentad reciprocity check requires partner map slope and reciprocal product constraints within walls.
+- S-1651: Pentad BQ check verifies QGamma≈omega0 on/near/off-ratio with detune-aware linewidth behavior.
+- S-1652: Pentad entropy check requires bounded on-ratio entropy and monotone off-ratio rise without anomalous dips.
+- S-1653: Pentad mirror check requires overlap/mirror agreement after meter swap and fine-to-coarse rollup.
+- S-1654: Pentad decision requires all five plus hinge pass to proceed.
+- S-1655: Any Pentad failure returns Theta<receipt-type>.
+- S-1656: Pentad invariants require CRL walls and meter-swap survival for all five receipts.
+- S-1657: Pin precedence phase-topology-closure gates merge stage used by Pentad.
+- S-1658: Topology illegality voids closure and BQ claims.
+- S-1659: Hazard veto can reject claim even if subset of receipts pass.
+- S-1660: Pentad evidence is formalized in Hinge Objectivity axioms with Subtractive Sufficiency.
+- S-1661: BQ reciprocity regimes provide predictive transitions for on-ratio and off-ratio behavior.
+- S-1662: Dossier parity requires overlap/mirror tables, hinge spreads, and hazard timeline.
+- S-1663: Pentad falsifier is single-receipt reproducible failure while others pass.
+- S-1664: Pentad falsifier is meter-swap pass/fail flip under unchanged hinge conditions.
+- S-1665: Pentad falsifier is topology-illegal case with apparent closure/BQ pass.
+- S-1666: Pentad is stronger than standalone R^2 hinge fit.
+- S-1667: Pentad adds redundancy not new tuning parameters.
+- S-1668: Pentad methods must declare partner maps, walls, phase-gap delta, and reciprocity tolerances.
+- S-1669: Pentad methods must run sweep at each dyadic level and log lattice spreads.
+- S-1670: Pentad methods must attach typed fail witnesses.
+- S-1671: Pentad methods must include overlap/mirror tables, hazard timeline, hinge panels, and tolerance signature.
+- S-1672: Pentad methods must run Five Subtractions after Pentad+hinge pass for key certification.
+- S-1673: Pentad cheap falsifier is BQ anomaly on-ratio with pins satisfied.
+- S-1674: Pentad cheap falsifier is reciprocity inconsistency between product and partner slope claims.
+- S-1675: Pentad cheap falsifier is mirror non-agreement after meter swap or rollup.
+- S-1676: Pentad plain-language rule is five angle-check concurrence on same 3DL lattice.
+- S-1677: Omega-Sieve is global forbidden-set pruning before transport.
+- S-1678: Omega-Sieve applies local DeltaQ tests then propagates constraints to fixed point.
+- S-1679: Omega-Sieve outputs forced corridor, ambiguous residual, or collapse-to-Theta.
+- S-1680: Omega-Sieve is CRL/3DL lawful and hazard primed.
+- S-1681: Omega-Sieve produces auditable receipts.
+- S-1682: Omega-Sieve inputs are winter seed hats, codex maps, and candidate graph G(V,E).
+- S-1683: Omega-Sieve uses thresholds epsilon_theta, epsilon_pi, Hc, k_star, and C_max with budgets.
+- S-1684: Local DeltaQ computes vector of phase, reciprocity, order, closure, eligibility, and hazard deltas per vertex.
+- S-1685: DeltaQ eliminates vertices exceeding tolerances.
+- S-1686: DeltaQ is idempotent and cannot be overruled.
+- S-1687: Omega propagation tightens neighbors via reciprocity, budget deduction, scale inheritance, and topology conservation.
+- S-1688: Propagation removes newly violating vertices and iterates until stable fixed point.
+- S-1689: Forced corridor outcome is one connected component with consistent pin order.
+- S-1690: Ambiguous residual outcome is multiple components with identical Boolean path requiring ranking only.
+- S-1691: Collapse outcome is empty frontier and Theta with sieve witness.
+- S-1692: Omega motivation is turning search into routing by deleting forbidden futures first.
+- S-1693: Hazard primacy means H>=Hc anywhere implies immediate elimination.
+- S-1694: Slow drift cannot rescue prior hazard veto.
+- S-1695: Omega runtime is bounded with elimination/propagation sweeps over graph structure.
+- S-1696: Contractive tolerances converge in finite sweeps.
+- S-1697: Negative instances collapse early.
+- S-1698: Omega OP-0 loads seeds/codex and builds graph.
+- S-1699: Omega OP-1 computes Delta vectors.
+- S-1700: Omega OP-2 applies first-order elimination rules including polarity, LOW, closure, eligibility, hazard, and H∞ pre-check.
+- S-1701: If frontier empty after OP-2 route to Theta<sieve-collapse>.
+- S-1702: Omega OP-3 propagates constraints with recompute+re-eliminate until fixed point or empty frontier.
+- S-1703: Omega OP-4 decides frontier class by component count and Boolean-path parity.
+- S-1704: Omega receipts include survivor set with delta ranges.
+- S-1705: Omega receipts include elimination log with rule, vertex, and delta witness.
+- S-1706: Omega receipts include propagation log and frontier map.
+- S-1707: Omega receipts include minimal cut sets for collapse cases.
+- S-1708: Sieve Theta is absorbing at same run-card.
+- S-1709: Re-entry after sieve Theta requires new winter receipts or codex revision.
+- S-1710: Omega invariant requires CRL/3DL single quantization for all deltas and decisions.
+- S-1711: Omega invariant enforces hazard cap at gate and along timeline.
+- S-1712: Omega LOW/topology walls reject order creep and winding illegality.
+- S-1713: Dyadic monotonicity forbids coarse promotion without finer hinge pass.
+- S-1714: Omega hands Spring/OSCS a minimal actionable frontier.
+- S-1715: Omega pre-check with H∞ avoids investing in negative drift ladders.
+- S-1716: CPL reachable regions are constrained by Omega frontier.
+- S-1717: Omega falsifier is hazard bypass survivor with H>=Hc.
+- S-1718: Omega falsifier is topology leak where winding/holonomy breaks but frontier persists.
+- S-1719: Omega falsifier is scale-law breach with promotion lacking finer hinge pass.
+- S-1720: Omega falsifier is non-convergent propagation under contractive rules.
+- S-1721: Omega falsifier is absorbing-Theta break at same tolerance signature.
+- S-1722: Omega methods must declare run-card thresholds, budgets, and ladder level.
+- S-1723: Omega methods must run DeltaQ and publish histograms and violation tables.
+- S-1724: Omega methods must propagate to fixed point with full update/cull logs.
+- S-1725: Omega methods must report frontier components and alternates log.
+- S-1726: Omega methods must ship sieve receipt, elimination/propagation logs, frontier map, and minimal cuts.
+- S-1727: Omega plain-language rule is global bouncer yielding corridor, equivalent corridors, or signed abstention.
+- S-1728: Delta-Subtractive Principle is five-removal sufficiency shell for claims.
+- S-1729: Claim certification is sufficient iff all Five Subtractions survive after hinge receipts on CRL/3DL.
+- S-1730: Any subtraction failure yields typed Theta witness.
+- S-1731: Five Subtractions are Null/Placebo, Meter Swap, Off-Ratio Dyadic Ladder, Boundary/Topology, and Memory/Brittleness.
+- S-1732: Subtractive shell is fixed and front-loaded.
+- S-1733: No bespoke rescue tests may be inserted at same budget/thresholds.
+- S-1734: Subtractive block sits in dossier with hinge receipts and hazard timeline.
+- S-1735: Subtractive principle defeats disjoint fabrication classes.
+- S-1736: Passing shell enforces meter invariance and RG realism.
+- S-1737: Typed witness refusals bind future runs at same settings.
+- S-1738: Subtractive precondition is hinge+Pentad pass on hats with 3DL bands.
+- S-1739: Execution order is fixed cheap-failure-first with early exit.
+- S-1740: Null/Placebo subtraction requires collapse under matched-stats null.
+- S-1741: Meter-swap subtraction requires unchanged decisions and slope-spread<=0.01 on co-located hats.
+- S-1742: Off-ratio subtraction requires collapse within one dyadic level as detune increases.
+- S-1743: Boundary/topology subtraction requires legal BC packing and integral winding conservation.
+- S-1744: Memory/brittleness subtraction applies shuffles/time-skips/CRL-preserving perturbations with reciprocity and hazard stability requirements.
+- S-1745: Fast hazard gate runs before each subtraction and slow drift is logged within subtraction timelines.
+- S-1746: Subtractive invariants require CRL/3DL-only computations and lattice thresholds.
+- S-1747: LOW discipline forbids temporary promotion beyond k-star during subtractions.
+- S-1748: Swap tests require admissible meters and consistent catalogs.
+- S-1749: Theta witnesses are append-only and immutable at same settings.
+- S-1750: Subtractive evidence must include five reports with pass criteria and lattice deltas.
+- S-1751: Delta-report must include hinge fits, hazard timeline, and all subtraction artifacts with CIs.
+- S-1752: Subtractive falsifier is surrogate pass under null/placebo.
+- S-1753: Subtractive falsifier is decision flip or spread>0.01 under admissible swap.
+- S-1754: Subtractive falsifier is no off-ratio collapse beyond one dyadic level.
+- S-1755: Subtractive falsifier is boundary/topology invariant break.
+- S-1756: Subtractive falsifier is brittle dependence under shuffles or perturbations.
+- S-1757: Methods must preregister hinge and band corridors on CRL.
+- S-1758: Methods must run fixed-order shell with early exits and hazard logs.
+- S-1759: Methods must publish artifact panels for each subtraction class.
+- S-1760: Methods must emit and bind witnesses on fail.
+- S-1761: Methods must assert shell completeness or transport claims are invalid.
+- S-1762: Subtractive plain-language rule is five removals convert pretty fits into certified keys or clean Theta.
+- S-1763: UMK is universal gatekeeping protocol for auditable existence decisions.
+- S-1764: UMK outcomes are LOCK, ABSTAIN, or REFUSAL Theta.
+- S-1765: UMK has no fourth outcome.
+- S-1766: UMK applies LOW + abstention + hazard classifier across substrates.
+- S-1767: UMK walks survivors through custody ledger for portability and falsifiability.
+- S-1768: Abstain corresponds to high complexity without stability.
+- S-1769: Lock corresponds to stable low-order survivor.
+- S-1770: Theta corresponds to capacity/hard-hazard breach with witnessed stop.
+- S-1771: UMK lock map is sparse and treats zero as active deletion by vacuum.
+- S-1772: UMK tracks micro-decision u=(A,B,AΛ,BΛ;zeta,Phi,S,LOCK).
+- S-1773: Lawful commits require descending tension E_Delta = zeta*Phi.
+- S-1774: Cross-Domain Integrity Certificate claims same logic across vacuum locks, cymatics, and chemistry.
+- S-1775: UMK motivation is eliminating parameter drift via certified lock addresses.
+- S-1776: Particles/constants are represented as certified addresses rather than tunable reals.
+- S-1777: Any uncertified candidate is Theta.
+- S-1778: UMK provides cheap specific falsification via tick/guard failure witnesses.
+- S-1779: Empirical backbone examples include grid lock fraction, cymatic high-Q lock rate, and chemistry lock set.
+- S-1780: UMK sweep is meter-swap invariant and CRL/3DL quantized.
+- S-1781: UMK LOW check rejects jagged high-order proposals to Abstain.
+- S-1782: UMK stability check accepts compact efficient geometries to Lock.
+- S-1783: UMK hazard/capacity check routes breach to Theta witness.
+- S-1784: UMK logs all decisions with no out-of-order commits.
+- S-1785: UMK landscape metaphor includes abstention plains, lock zone, and cavitation cliffs.
+- S-1786: Custody Ledger ensures survivors remain meter-portable during composition.
+- S-1787: Custody certificate form is Cert(n) = {rational form, audit flags, meters}.
+- S-1788: Survivor construction enumerates n and applies LOW descent, micro-stability, and CRL/3DL rational sieve.
+- S-1789: Survivor table is S={n:PASS}.
+- S-1790: UMK invariant: zero means successful vacuum smoothing while matter is non-deleted residue.
+- S-1791: UMK invariant: lawful commits require monotone descent of E_Delta.
+- S-1792: Anticipatory fields may influence but cannot bypass guards.
+- S-1793: Capacity/phase-debt overrun triggers Theta fail-safe.
+- S-1794: Minimal exits under declared meters are lock families, cavitation, and abstention only.
+- S-1795: UMK evidence includes cross-domain certificate with isomorphic failure signatures.
+- S-1796: UMK evidence includes explicit lock-map semantics for 1 versus 0.
+- S-1797: UMK evidence frames barriers as hazard-band and measurement-tick quality constraints.
+- S-1798: UMK falsifier is reproducible fourth exit under declared meter.
+- S-1799: UMK falsifier is corridor-law or quantum-limit recovery break.
+- S-1800: UMK methods must declare CRL/3DL corridors, hazard bands, zeta, and budgets.
+- S-1801: UMK methods must run sweep classification per coordinate and log Theta witnesses.
+- S-1802: UMK methods must attach Cert(n) with rational, LOW/detune receipts, meter bands, and audit flags.
+- S-1803: UMK methods must publish cross-domain certificate payload.
+- S-1804: UMK methods must ship refusal classes and fixes without silent drops.
+- S-1805: UMK cheap falsifier is witness-less Theta or lock without Cert(n).
+- S-1806: UMK cheap falsifier is cross-domain mismatch under same guard logic.
+- S-1807: UMK plain-language rule is front-door triage with active zeros and rare survivors.
+- S-1808: UMK appendix examples include chemistry 12/12 locks, grid 6/64 baseline, cymatics high-Q lock ratio.
+- S-1809: Make-a-lock card includes K, LOW weight e^{-0.6K}, meter, 3DL sieve, H∞ label, and subtractive receipts.
+
+## 12. Unified Cosmology Core (`encyclopedia_core_variational_stack` | 254 statements)
+- S-1810: LOW order functional is Omega[u] = sum_{n>=1} alpha_n ||nabla^n u||_{L2}^2.
+- S-1811: LOW coefficients satisfy strict increase alpha_1 << alpha_2 << alpha_3 << ... .
+- S-1812: Abstention penalty is H[u] = f(Omega[u]) with f' > 0 and f'' > 0.
+- S-1813: Convex abstention enforces superlinear cost growth with order.
+- S-1814: Total action is S[u] = S0[u] + eta H[u] with eta>0.
+- S-1815: Euler-Lagrange equation includes high-order operators weighted by alpha_n and f'(Omega[u]).
+- S-1816: LOW persistence theorem assumes unbounded increasing alpha_n, convex monotone f, and bounded baseline derivative.
+- S-1817: LOW persistence theorem concludes high-order derivative norms vanish in minimizing/stationary sequences.
+- S-1818: LOW persistence theorem implies finitely many low-order modes persist with nonzero amplitude.
+- S-1819: Corollary: Fourier-space high-k modes are super-polynomially damped at stationary points.
+- S-1820: Corollary: admissible solutions lie in finite Sobolev class determined by alpha_n and eta.
+- S-1821: Corollary: equal-baseline configurations are selected by lower maximal derivative order.
+- S-1822: RG interface: high-order operators become irrelevant under LOW-induced thinning.
+- S-1823: LOW defines variational spectral cutoff without hard truncation.
+- S-1824: LOW suppression reduces brittleness growth from high-order retained modes.
+- S-1825: Delta fundamental field set is {rho, v_i, A_i, S, theta}.
+- S-1826: No additional primitive fields are admitted beyond the five-field set.
+- S-1827: rho is nonnegative vacuum coherence density.
+- S-1828: Cavitation regime corresponds to rho -> 0.
+- S-1829: v_i is vacuum reflow velocity field.
+- S-1830: AFFE interface relation is div v = -alpha S.
+- S-1831: A_i is shear/torsion vector field.
+- S-1832: Shear strength tensor is F_{ij} = d_i A_j - d_j A_i.
+- S-1833: Shear sector has gauge freedom A_i -> A_i + d_i chi.
+- S-1834: S is nonnegative sediment-memory field and mass analog.
+- S-1835: theta is phase field on R mod 2pi.
+- S-1836: Local frequency is omega = d_t theta.
+- S-1837: Phase gradient is nabla theta.
+- S-1838: Structural couplings include flow-sediment, density-phase, sediment-phase, shear-phase, and density-hazard.
+- S-1839: Field completeness proposition states all admissible observables are functionals of five fields and finite derivatives.
+- S-1840: Unified action is integral of Lagrangian density over spacetime.
+- S-1841: Unified Lagrangian decomposes into flow, shear, sediment, phase, and hazard sectors.
+- S-1842: Flow sector is 1/2 rho v^2 - U(rho) with convex cavitation potential U.
+- S-1843: Typical flow potential is U(rho)=k rho^gamma with positive k,gamma.
+- S-1844: Shear sector is -1/4 F_{ij}F^{ij}.
+- S-1845: Sediment sector includes -lambda(rho-rho0)^2 S^2 + mu S|nabla theta|^2.
+- S-1846: Phase sector includes 1/2 rho(d_t theta)^2 - 1/2 c_theta^2 rho|nabla theta|^2.
+- S-1847: Hazard sector H(rho,S,F_{ij}) is nonnegative.
+- S-1848: Stationarity principle is delta S = 0 across all five fields with admissibility constraints.
+- S-1849: Euler-Lagrange dictionary maps each field variation to sector equations.
+- S-1850: Variation w.r.t. v_i yields AFFE divergence law div v = -alpha S.
+- S-1851: Variation w.r.t. A_i yields Maxwell-like equation d_j F^{ji} = J_eff^i.
+- S-1852: Variation w.r.t. rho yields vacuum compressibility balance.
+- S-1853: Variation w.r.t. S yields sediment persistence and collapse inhibition equation.
+- S-1854: Variation w.r.t. theta yields phase-time evolution PDE.
+- S-1855: Continuity closure equation is d_t rho + div(rho v)=0.
+- S-1856: Canonical variables are u:=theta and pi:=dL/d(d_t theta)=rho d_t theta.
+- S-1857: Hamiltonian density is defined by Legendre transform H = pi d_t u - L.
+- S-1858: Total Hamiltonian functional is H = integral(H density).
+- S-1859: Canonical Poisson brackets are {u,u}=0, {pi,pi}=0, {u,pi}=delta.
+- S-1860: Hamilton equations are d_t u = dH/dpi and d_t pi = -dH/du.
+- S-1861: Abstention-dependent hazard deforms effective symplectic geometry.
+- S-1862: Hazard gradient terms pinch high-curvature phase-space directions.
+- S-1863: Time-independent Hamiltonian implies dH/dt=0.
+- S-1864: Spatial translation invariance yields momentum conservation.
+- S-1865: Gauge invariance yields shear-sector charge conservation.
+- S-1866: Canonical quantization maps fields to operators with equal-time commutators.
+- S-1867: Quantum Hamiltonian operator is integral of operator-valued Hamiltonian density.
+- S-1868: LOW fixes operator ordering by suppressing high-derivative operators.
+- S-1869: Heisenberg equations follow from i/hbar commutator with Hamiltonian.
+- S-1870: Phase operator expands in coherence operator eigenmodes.
+- S-1871: Diagonalized mode Hamiltonian has mode-dependent effective masses.
+- S-1872: High-order modes gain large effective mass and are dynamically suppressed.
+- S-1873: Abstention operator eigenvalues grow superlinearly with mode order.
+- S-1874: Memory coupling induces non-Markovian temporal kernel.
+- S-1875: Bounded-energy quantum states have decaying high-order excitations.
+- S-1876: Quantum summary: abstention geometry preserved, collapse dynamical, classicality from locked low-hazard phase coherence.
+- S-1877: AFFE defines gravity as divergence-flow sourced by sediment.
+- S-1878: AFFE core equation is div v = -alpha S.
+- S-1879: AFFE continuity is d_t rho + div(rho v)=0.
+- S-1880: Material acceleration is a = d_t v + (v·nabla)v.
+- S-1881: Acceleration law is a = -(1/rho) nabla P(rho).
+- S-1882: Vacuum equation of state can be polytropic P=k rho^gamma.
+- S-1883: Local clock rate scales as tau ~ sqrt(rho).
+- S-1884: Cavitation condition drives tau toward zero as rho approaches threshold.
+- S-1885: Linearized AFFE yields wave equation for density perturbations.
+- S-1886: AFFE closed summary includes divergence law, continuity, acceleration, and time-rate law.
+- S-1887: Vacuum stress tensor is Theta_ij = P delta_ij - rho v_i v_j.
+- S-1888: Tensor AFFE equation is nabla_j Theta_ij = -alpha S v_i.
+- S-1889: MOND-like enhancement appears for gamma<1 in soft vacuum regime.
+- S-1890: Transition acceleration scale a0 depends on k,gamma,rho_min,and density gradient.
+- S-1891: Circular orbits in MOND-like regime yield asymptotically flat rotation curves.
+- S-1892: Effective Poisson form uses dielectric-like mu(rho) factor.
+- S-1893: Conditional no-dark-matter statement: MOND-like curves emerge from vacuum elasticity for gamma<1.
+- S-1894: Strong-field cavitation uses indicator C = rho-rho_c.
+- S-1895: Horizon manifold is rho=rho_c surface.
+- S-1896: Near-horizon expansion uses rho≈rho_c + kappa_H distance-to-horizon.
+- S-1897: Maximum acceleration remains finite under saturation assumptions.
+- S-1898: Time halts only below horizon where rho<rho_c.
+- S-1899: Collapsed interior has frozen phase evolution and no propagation.
+- S-1900: Information is retained via sediment accumulation in collapse interior.
+- S-1901: Horizon stability condition links boundary flux balance to stationary horizon.
+- S-1902: Black holes are modeled as memory reservoirs not singularities.
+- S-1903: Gravitational waves are AFFE density perturbation waves.
+- S-1904: Local wave speed is c_eff^2 = dP/drho = k gamma rho^{gamma-1}.
+- S-1905: Sediment redistribution acts as source term for wave perturbations.
+- S-1906: Mode decomposition defines AFFE quasinormal modes.
+- S-1907: Ringdown modes satisfy damped oscillator equations.
+- S-1908: Damping rates encode horizon elasticity via effective viscosity integral.
+- S-1909: Cavitation echoes require nonzero horizon reflection coefficient.
+- S-1910: Echo delay is cavity integral over inverse effective speed.
+- S-1911: Echo frequency comb approximates m pi / Delta t_echo.
+- S-1912: Echo amplitudes decay geometrically with reflection coefficient.
+- S-1913: Sediment buildup drives long-time reflection toward zero.
+- S-1914: Cosmological homogeneous ansatz maps v to H(t)x and fields to time-only scalars.
+- S-1915: Cosmic continuity equation is dot rho + 3H rho = 0.
+- S-1916: Sediment-expansion coupling gives 3H = -alpha S.
+- S-1917: Hence H = -(alpha/3) S.
+- S-1918: Cosmological sediment dynamics are dot S = eta_cos rho - gamma_cos S.
+- S-1919: Coupled cosmology system is closed in (rho,H,S).
+- S-1920: Scale factor obeys H = dot a / a.
+- S-1921: Late-time fixed sediment yields asymptotically constant H.
+- S-1922: Dark-energy-like exponential expansion emerges without cosmological constant.
+- S-1923: Early-time sediment deficit yields transient inflationary regime.
+- S-1924: Inflation ends naturally as sediment accumulates.
+- S-1925: Cosmic acceleration is ddot a/a = dot H + H^2 with sediment terms.
+- S-1926: Expansion is vacuum reflow, not metric stretching, in this framing.
+- S-1927: RG introduces explicit resolution scale ell with coarse-grained fields Psi_ell.
+- S-1928: Coarse-graining operator is convolution with smoothing kernel G_ell.
+- S-1929: RG thinning requires fewer admissible modes at coarser scales.
+- S-1930: LOW penalties scale as alpha_n(ell)~ell^{2n-d}.
+- S-1931: Scale-dependent abstention thickens at lower resolution.
+- S-1932: Hazard RG flow is dH/d ln ell = beta_H(H).
+- S-1933: Positive beta_H for incoherent states drives IR hazard growth.
+- S-1934: RG-stable fixed points satisfy stationary coarse fields with nonincreasing hazard flow.
+- S-1935: Operational scale ell* minimizes hazard-order tradeoff objective.
+- S-1936: Brittleness RG flow with positive chi indicates instability.
+- S-1937: Laws are RG-attractive low-hazard fixed points.
+- S-1938: Global configuration space X includes all Delta fields and derived observables.
+- S-1939: Admissible subspace X_adm requires finite hazard, finite order functional, and finite brittleness.
+- S-1940: Global well-posedness requires unique trajectories remaining in X_adm for all t>=0.
+- S-1941: Global Lyapunov functional is L_Delta = E + lambda_Omega Omega + lambda_H H + lambda_zeta zeta.
+- S-1942: Monotonic descent law is dL_Delta/dt <= 0.
+- S-1943: Equality in Lyapunov descent occurs only on invariant lock manifolds.
+- S-1944: Closure under composition requires combined hazard not exceed additive subsystem hazards.
+- S-1945: Self-audit operator composes audit, coarse-grain, and nudge operators.
+- S-1946: Validity requires self-audit PASS across scales and perturbations.
+- S-1947: No-contradiction claim relies on hazard saturation, LOW suppression, abstention halting, and audit vetoes.
+- S-1948: Internal completeness claim states every observable behavior has Delta-mechanism realization.
+- S-1949: Minimality claim: removing any stack term violates at least one core property class.
+- S-1950: Unified field inventory includes flow/shear/sediment/phase/hazard/order/brittleness/CPL variables.
+- S-1951: Unified Delta action includes flow, shear, sediment, phase, LOW, abstention, CPL, COPL, and hazard terms.
+- S-1952: LOW sector in unified action is quadratic penalty over derivative orders.
+- S-1953: Abstention sector uses nu_eff = nu0 + f(Omega) with convex monotone f.
+- S-1954: CPL sector includes contrast and phase dynamics weighted by luminality.
+- S-1955: COPL sector includes cross-layer cosine coupling.
+- S-1956: Universal hazard gate maps couplings by exp(-H/H_c).
+- S-1957: Master Euler-Lagrange equation includes hazard variation penalty term.
+- S-1958: Operator index includes Omega, hazard scalar, hazard gate, DCO, audit, nudge, coarse-grain, phase projector, and global Lyapunov.
+- S-1959: Unified closure theorem asserts unique admissible evolution without external axioms.
+- S-1960: DAL substrate uses discrete lattice sites carrying (phase, sediment, abstention) triples.
+- S-1961: DAL phase sector is Hamiltonian while sediment and abstention are dissipative.
+- S-1962: DAL Hamiltonian includes kinetic, nearest-neighbor phase coupling, abstention potential, and memory potential.
+- S-1963: Effective density increases with sediment.
+- S-1964: Effective propagation speed decreases with abstention.
+- S-1965: Abstention potential includes quartic gradient term for saturation.
+- S-1966: Memory potential enforces temporal and spatial sediment coherence.
+- S-1967: Sediment update accumulates from phase-gradient energy with decay.
+- S-1968: Abstention update grows with local incoherence gradients.
+- S-1969: DAL cavitation occurs at divergent abstention or vanishing effective density.
+- S-1970: DAL continuum limit maps to unified Delta fields and reproduces AFFE, LOW suppression, and saturation behavior.
+- S-1971: Search space is finite-resolution cell partition with cell diameter <= epsilon_CRL.
+- S-1972: Sympathy tiling graph connects admissible adjacent cells.
+- S-1973: Sympathy weights decay with centroid and gradient differences.
+- S-1974: Corridors are connected subgraphs above minimum sympathy threshold.
+- S-1975: Corridor width is minimum edge sympathy in corridor.
+- S-1976: Corridor capacity is summed sympathy over corridor edges.
+- S-1977: Discrete search transitions are Markovian over admissible corridor edges.
+- S-1978: Local abstention removes cells whose hazard exceeds threshold.
+- S-1979: Corridor collapse below critical width triggers reseeding at minimum-hazard cell.
+- S-1980: Prediction functional chooses maximal-capacity minimal-hazard corridor.
+- S-1981: Binary outcomes are corridor selections between y in {0,1}.
+- S-1982: Binary prediction minimizes hazard-adjusted traversal cost over competing corridors.
+- S-1983: Bridge state is corridor intersection region between alternatives.
+- S-1984: Bridge residual is absolute hazard-integral gap between outcome corridors.
+- S-1985: Prediction confidence requires bridge residual above minimum.
+- S-1986: Abstention inequality forbids prediction when minimum corridor hazard exceeds commit threshold.
+- S-1987: Soft prediction weight can take hazard-biased logistic form.
+- S-1988: Error bound decays exponentially with bridge residual over hazard scale.
+- S-1989: Prediction interpretation: confidence from hazard asymmetry and mandatory abstention under weak separation.
+- S-1990: COPL layer set O={O_1,...,O_M} with per-layer phase fields theta_a.
+- S-1991: Pairwise COPL phase differences are Delta_ab = theta_a - theta_b.
+- S-1992: COPL energy term is -1/2 sum kappa_ab cos(Delta_ab).
+- S-1993: Phase-lock condition bounds temporal and spatial derivatives of Delta_ab by epsilon_lock.
+- S-1994: COPL Euler-Lagrange equations couple each layer phase to cross-layer sine terms.
+- S-1995: Lock manifold M_lock is set of constant pairwise phase differences.
+- S-1996: Linearized lock stability gives harmonic equations with omega_ab^2 = kappa_ab/rho_eff.
+- S-1997: Lock stability requires kappa_ab above threshold.
+- S-1998: Hazard-weighted COPL attenuates couplings by exp(-H_ab/H_c).
+- S-1999: COPL coherence invariant is sum cos(Delta_ab).
+- S-2000: Persistent lock requires nonnegative derivative of COPL coherence invariant.
+- S-2001: COPL structural role is unification via phase-level alignment rather than variable identity.
+- S-2002: CPL field set includes contrast C, phase phi, and luminality Lambda.
+- S-2003: CPL energy includes kinetic and gradient terms for C and phi weighted by Lambda plus potential V(C,Lambda).
+- S-2004: Luminality potential includes alpha_C C^2 + beta C^2/Lambda + gamma(Lambda-Lambda0)^2.
+- S-2005: High contrast can reduce luminality and increase resistance.
+- S-2006: CPL Euler-Lagrange equations govern C,phi,Lambda coupled dynamics.
+- S-2007: CPL corridor admissibility is Lambda_min <= Lambda <= Lambda_max.
+- S-2008: Exit discriminant Xi = C^2/Lambda + |nabla phi|^2 classifies propagation regime.
+- S-2009: Xi small gives stable propagation.
+- S-2010: Increasing Xi with positive Lambda gives soliton formation tendency.
+- S-2011: Lambda to Lambda_min gives filamentation regime.
+- S-2012: Lambda to zero gives cavitation/collapse.
+- S-2013: Lambda negative is forbidden by hazard veto.
+- S-2014: Effective propagation speed is c_eff^2 = c^2 Lambda.
+- S-2015: Hazard contribution penalizes approach below Lambda_min.
+- S-2016: CPL limits include phase-only, contrast-dominant, and locked-COPL reductions.
+- S-2017: CPL structural role: luminality replaces fixed light-cone concept and collapse is exit not divergence.
+- S-2018: Hazard scalar field H is geometric obstruction functional nonnegative on spacetime.
+- S-2019: Hazard decomposes into curvature, detuning, and fragility components.
+- S-2020: Curvature hazard penalizes steep basin geometry via second-derivative magnitude.
+- S-2021: Detuning hazard penalizes cross-field gradient misalignment.
+- S-2022: Fragility hazard scales perturbation sensitivity by CRL support.
+- S-2023: Path-integrated hazard action governs collapse admissibility along trajectories.
+- S-2024: Soft hazard gate is exp(-H/H_c) coupling attenuation.
+- S-2025: Hazard-modified dynamics add repulsive hazard-gradient term.
+- S-2026: Hazard saturation H->infinity drives time evolution toward halt.
+- S-2027: No forbidden states, only dynamically unreachable ones under hazard geometry.
+- S-2028: Binary hazard gate outputs 1 for H<H_c and 0 otherwise.
+- S-2029: Soft hazard gate provides continuous attenuation.
+- S-2030: Safe coupling law multiplies kernels by soft hazard gate.
+- S-2031: Collapse admissibility requires path-integrated hazard below A_max.
+- S-2032: DCO sore-thumb operator combines gradient outlier and hazard outlier ratios versus basin means.
+- S-2033: Sore-thumb criterion triggers when D_ST exceeds threshold.
+- S-2034: DCO response redirects flow opposite sore-thumb gradient.
+- S-2035: DCO complements LOW and abstention by detecting cross-scale asymmetry.
+- S-2036: DCO structural role blocks locally attractive globally destructive basins.
+- S-2037: Audit operator maps configurations to PASS/FAIL/DEFER as partial map.
+- S-2038: Audit is undefined when admissibility constraints are violated.
+- S-2039: Candidate manifold is CRL-width neighborhood around centroid.
+- S-2040: ONAL state set includes OR, NOT, AND, LOCK, and Theta.
+- S-2041: Guarded ONAL transition function maps state and candidate manifold to next state.
+- S-2042: NOT->AND requires hazard and brittleness below caps.
+- S-2043: AND->LOCK requires collapse invariants.
+- S-2044: Any veto routes to Theta.
+- S-2045: Brittleness zeta measures curvature sensitivity to CRL-scale expansion.
+- S-2046: NOT veto fires on hazard cap breach, brittleness cap breach, or DCO threshold breach.
+- S-2047: AND collapse invariants require finite curvature, nonincreasing energy, basin width >= epsilon_CRL, and local attractor robustness.
+- S-2048: Nudge operator perturbs within epsilon_CRL and tests attractor stability.
+- S-2049: LOCK persistence uses occupancy and MDL reduction criteria.
+- S-2050: Promotion requires occupancy above minimum and positive MDL reduction.
+- S-2051: Equivalence classes split outcomes into Law, Primitive, and Noise.
+- S-2052: Persistence functional measures long-horizon basin occupancy fraction.
+- S-2053: Persistence criterion is liminf occupancy above threshold P_c.
+- S-2054: Persistent occupancy induces sediment accumulation with erosion term.
+- S-2055: Sediment deepens effective potential basins over time.
+- S-2056: Feedback stability requires nonincreasing basin hazard under sediment feedback.
+- S-2057: Promotion functional multiplies persistence and MDL reduction.
+- S-2058: Promotion requires promotion functional above threshold.
+- S-2059: Scale-persistent basins must persist under coarse-grain operator across scale band.
+- S-2060: Sediment transport couples to AFFE flow advection.
+- S-2061: LOCK reinforcement requires decreasing brittleness and decreasing hazard.
+- S-2062: Failure of reinforcement conditions demotes basin.
+- S-2063: Persistence structural role converts dynamics into memory and law emergence.
+
