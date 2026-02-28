@@ -1,0 +1,14 @@
+{
+  "gates": {
+    "S1_theorem_statement_complete": true,
+    "S2_dependencies_explicit": true,
+    "S3_os_reflection_positivity_proof_complete": true,
+    "S4_gauge_invariant_mass_gap_proof_complete": true,
+    "S5_continuum_limit_proof_complete": true,
+    "S6_numeric_labeled_support_only": true,
+    "S7_hostile_reread_passed": true
+  },
+  "passed": 7,
+  "total": 7,
+  "submission_ready": true
+}

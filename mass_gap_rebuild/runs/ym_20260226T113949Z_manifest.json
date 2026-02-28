@@ -1,0 +1,8 @@
+{
+  "run_id": "ym_20260226T113949Z",
+  "utc_started": "2026-02-26T11:39:49.586654+00:00",
+  "mode": "one_shot_ym_autopilot",
+  "prompt": "Solve Yang-Mills mass gap with Delta method, run full pipeline, output final bundle.",
+  "root": "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild",
+  "log_file": "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/runs/ym_20260226T113949Z.log"
+}

@@ -1,0 +1,48 @@
+
+$ bash /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/run_all_audits.sh
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/gauge_invariance_audit_report.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/gauge_invariance_audit_report.md
+G2_floor: PASS - Transverse floor remains strictly positive across tested dressing.
+G3_proxy: PASS - Gauge-invariant proxy relations hold in current artifact set.
+G5_scaling_identity: PASS - Current scaling identities are internally exact.
+G4_orbit_invariance: BLOCKED - No raw gauge-link configuration snapshots found in data/; cannot execute random local gauge-orbit invariance test yet.
+ARTIFACT_DUPLICATE_CHECK: INFO - L5_glueball_spectrum.csv is byte-identical to delta_wilson_creutz_proxy.csv.
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g4_orbit_invariance_ledger.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g4_orbit_invariance_summary.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g4_orbit_invariance_summary.md
+Status: PASS
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g3_glueball_correlator_curves.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g3_glueball_mass_fits.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g3_glueball_correlator_summary.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/g3_glueball_correlator_summary.md
+Status: PASS
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_ensemble_observables.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_gauge_orbit_receipt.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_glueball_correlator.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_pipeline_summary.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_pipeline_summary.md
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan.csv
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan_summary.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan_summary.md
+Status: PASS
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md
+All audits complete. See: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md
+
+[exit=0]
+
+$ python3 /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/check_submission_ready.py
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.md
+
+[exit=0]
+
+$ python3 /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/summarize_audits.py
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.json
+Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md
+
+[exit=0]
+
+$ python3 -c from pathlib import Path; root=Path(r'/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild'); out=root/'docs'/'MASTER_ALL_IN_ONE.md'; assert out.exists(), 'MASTER_ALL_IN_ONE.md missing'
+
+[exit=0]

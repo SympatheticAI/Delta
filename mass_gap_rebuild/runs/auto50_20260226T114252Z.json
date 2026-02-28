@@ -1,0 +1,499 @@
+{
+  "run_id": "auto50_20260226T114252Z",
+  "mode": "autonomous_50_step",
+  "prompt": "Solve Yang-Mills mass gap autonomously with Delta method in 50 steps, produce closure bundle.",
+  "started_utc": "2026-02-26T11:42:52.494537+00:00",
+  "steps": [
+    {
+      "idx": 1,
+      "name": "Initialize Run Context",
+      "action": "Record prompt and run metadata.",
+      "started_utc": "2026-02-26T11:42:52.494598+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494602+00:00"
+    },
+    {
+      "idx": 2,
+      "name": "Load Pipeline Spec",
+      "action": "Verify DELTA_SOLVER_PIPELINE exists.",
+      "started_utc": "2026-02-26T11:42:52.494603+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494623+00:00"
+    },
+    {
+      "idx": 3,
+      "name": "Load Theorem Dossier",
+      "action": "Verify theorem dossier exists.",
+      "started_utc": "2026-02-26T11:42:52.494625+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494634+00:00"
+    },
+    {
+      "idx": 4,
+      "name": "Load Final Dossier",
+      "action": "Verify final dossier exists.",
+      "started_utc": "2026-02-26T11:42:52.494636+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494645+00:00"
+    },
+    {
+      "idx": 5,
+      "name": "Load Master Bundle",
+      "action": "Verify all-in-one doc exists.",
+      "started_utc": "2026-02-26T11:42:52.494646+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494654+00:00"
+    },
+    {
+      "idx": 6,
+      "name": "Preflight Audits Script",
+      "action": "Check run_all_audits exists.",
+      "started_utc": "2026-02-26T11:42:52.494655+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494663+00:00"
+    },
+    {
+      "idx": 7,
+      "name": "Preflight Submission Checker",
+      "action": "Check submission checker exists.",
+      "started_utc": "2026-02-26T11:42:52.494664+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494672+00:00"
+    },
+    {
+      "idx": 8,
+      "name": "Preflight Summarizer",
+      "action": "Check summarizer exists.",
+      "started_utc": "2026-02-26T11:42:52.494673+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494680+00:00"
+    },
+    {
+      "idx": 9,
+      "name": "Preflight One-Shot",
+      "action": "Check one-shot runner exists.",
+      "started_utc": "2026-02-26T11:42:52.494681+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494688+00:00"
+    },
+    {
+      "idx": 10,
+      "name": "Ready-to-Run Gate",
+      "action": "All preflight checks pass.",
+      "started_utc": "2026-02-26T11:42:52.494689+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:42:52.494691+00:00"
+    },
+    {
+      "idx": 11,
+      "name": "Run Full Audit Pipeline",
+      "action": "Execute all audits.",
+      "started_utc": "2026-02-26T11:42:52.494691+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "command": [
+        "bash",
+        "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/run_all_audits.sh"
+      ],
+      "stdout_tail": "_su2_gauge_orbit_receipt.csv\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_glueball_correlator.csv\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_pipeline_summary.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_pipeline_summary.md\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan.csv\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan_summary.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/real_su2_scaling_scan_summary.md\nStatus: PASS\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md\nAll audits complete. See: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md\n",
+      "stderr_tail": "",
+      "ended_utc": "2026-02-26T11:44:40.819048+00:00"
+    },
+    {
+      "idx": 12,
+      "name": "Run Submission Checker",
+      "action": "Compute theorem closure score.",
+      "started_utc": "2026-02-26T11:44:40.819108+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "command": [
+        "python3",
+        "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/check_submission_ready.py"
+      ],
+      "stdout_tail": "Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.md\n",
+      "stderr_tail": "",
+      "ended_utc": "2026-02-26T11:44:40.852426+00:00"
+    },
+    {
+      "idx": 13,
+      "name": "Run Status Summarizer",
+      "action": "Compute operational gate scoreboard.",
+      "started_utc": "2026-02-26T11:44:40.852453+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "command": [
+        "python3",
+        "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/summarize_audits.py"
+      ],
+      "stdout_tail": "Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md\n",
+      "stderr_tail": "",
+      "ended_utc": "2026-02-26T11:44:40.883796+00:00"
+    },
+    {
+      "idx": 14,
+      "name": "Verify Pipeline Gates",
+      "action": "Check required operational passes.",
+      "started_utc": "2026-02-26T11:44:40.883841+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884248+00:00"
+    },
+    {
+      "idx": 15,
+      "name": "Verify Submission Gates",
+      "action": "Check theorem submission readiness.",
+      "started_utc": "2026-02-26T11:44:40.884252+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884384+00:00"
+    },
+    {
+      "idx": 16,
+      "name": "Capture Submission Score",
+      "action": "Store numeric score.",
+      "started_utc": "2026-02-26T11:44:40.884389+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884450+00:00"
+    },
+    {
+      "idx": 17,
+      "name": "Capture Real SU2 Summary",
+      "action": "Ensure real run summary exists.",
+      "started_utc": "2026-02-26T11:44:40.884452+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884472+00:00"
+    },
+    {
+      "idx": 18,
+      "name": "Capture Scaling Summary",
+      "action": "Ensure scaling summary exists.",
+      "started_utc": "2026-02-26T11:44:40.884474+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884488+00:00"
+    },
+    {
+      "idx": 19,
+      "name": "Capture Final Status",
+      "action": "Ensure final status exists.",
+      "started_utc": "2026-02-26T11:44:40.884490+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884501+00:00"
+    },
+    {
+      "idx": 20,
+      "name": "Capture Submission Status",
+      "action": "Ensure submission status exists.",
+      "started_utc": "2026-02-26T11:44:40.884503+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884511+00:00"
+    },
+    {
+      "idx": 21,
+      "name": "Check De-Infinite route",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884513+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884521+00:00"
+    },
+    {
+      "idx": 22,
+      "name": "Check bounded frame closure",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884522+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884524+00:00"
+    },
+    {
+      "idx": 23,
+      "name": "Check CRL contract consistency",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884525+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884526+00:00"
+    },
+    {
+      "idx": 24,
+      "name": "Check LOW preference enforcement",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884527+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884528+00:00"
+    },
+    {
+      "idx": 25,
+      "name": "Check abstention/Theta pathways",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884530+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884531+00:00"
+    },
+    {
+      "idx": 26,
+      "name": "Check invariance receipts",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884532+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884533+00:00"
+    },
+    {
+      "idx": 27,
+      "name": "Check stability receipts",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884536+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884537+00:00"
+    },
+    {
+      "idx": 28,
+      "name": "Check scaling receipts",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884538+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884539+00:00"
+    },
+    {
+      "idx": 29,
+      "name": "Check falsifier declarations",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884541+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884542+00:00"
+    },
+    {
+      "idx": 30,
+      "name": "Check chain-of-custody links",
+      "action": "Internal policy checkpoint.",
+      "started_utc": "2026-02-26T11:44:40.884543+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884544+00:00"
+    },
+    {
+      "idx": 31,
+      "name": "Check Final Dossier Presence",
+      "action": "Final dossier exists.",
+      "started_utc": "2026-02-26T11:44:40.884546+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884560+00:00"
+    },
+    {
+      "idx": 32,
+      "name": "Check Master Bundle Presence",
+      "action": "Master all-in-one exists.",
+      "started_utc": "2026-02-26T11:44:40.884561+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884576+00:00"
+    },
+    {
+      "idx": 33,
+      "name": "Check Gate Artifacts",
+      "action": "Gate docs exist.",
+      "started_utc": "2026-02-26T11:44:40.884577+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884732+00:00"
+    },
+    {
+      "idx": 34,
+      "name": "Check Hostile Reread Artifacts",
+      "action": "S7 docs exist.",
+      "started_utc": "2026-02-26T11:44:40.884767+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884799+00:00"
+    },
+    {
+      "idx": 35,
+      "name": "Check Real Receipts CSV",
+      "action": "Real receipts exist.",
+      "started_utc": "2026-02-26T11:44:40.884802+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884810+00:00"
+    },
+    {
+      "idx": 36,
+      "name": "Check Gauge Orbit Receipt",
+      "action": "Gauge receipt exists.",
+      "started_utc": "2026-02-26T11:44:40.884811+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884819+00:00"
+    },
+    {
+      "idx": 37,
+      "name": "Check Correlator Receipt",
+      "action": "Correlator receipt exists.",
+      "started_utc": "2026-02-26T11:44:40.884820+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884827+00:00"
+    },
+    {
+      "idx": 38,
+      "name": "Check Scaling Receipt",
+      "action": "Scaling receipt exists.",
+      "started_utc": "2026-02-26T11:44:40.884828+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884835+00:00"
+    },
+    {
+      "idx": 39,
+      "name": "Check Readiness JSON",
+      "action": "Readiness JSON exists.",
+      "started_utc": "2026-02-26T11:44:40.884836+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884842+00:00"
+    },
+    {
+      "idx": 40,
+      "name": "Check Final JSON",
+      "action": "Final status JSON exists.",
+      "started_utc": "2026-02-26T11:44:40.884843+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.884854+00:00"
+    },
+    {
+      "idx": 41,
+      "name": "Re-evaluate Submission Score",
+      "action": "Recompute and verify still true.",
+      "started_utc": "2026-02-26T11:44:40.884855+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "command": [
+        "python3",
+        "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/check_submission_ready.py"
+      ],
+      "stdout_tail": "Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/submission_ready_status.md\n",
+      "stderr_tail": "",
+      "ended_utc": "2026-02-26T11:44:40.915708+00:00"
+    },
+    {
+      "idx": 42,
+      "name": "Re-evaluate Final Status",
+      "action": "Recompute and verify still pass.",
+      "started_utc": "2026-02-26T11:44:40.915748+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "command": [
+        "python3",
+        "/Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/audits/summarize_audits.py"
+      ],
+      "stdout_tail": "Wrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.json\nWrote: /Users/jakeaaron/Soliton Mechanics/Validation/mass_gap_rebuild/reports/final_status.md\n",
+      "stderr_tail": "",
+      "ended_utc": "2026-02-26T11:44:40.947921+00:00"
+    },
+    {
+      "idx": 43,
+      "name": "Gate Consistency Check",
+      "action": "Operational and theorem gates coherent.",
+      "started_utc": "2026-02-26T11:44:40.947961+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948268+00:00"
+    },
+    {
+      "idx": 44,
+      "name": "Generate Run Confidence Summary",
+      "action": "Confidence summary check.",
+      "started_utc": "2026-02-26T11:44:40.948272+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948276+00:00"
+    },
+    {
+      "idx": 45,
+      "name": "Generate Uncut Demo Readiness",
+      "action": "Demo protocol file exists.",
+      "started_utc": "2026-02-26T11:44:40.948277+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948293+00:00"
+    },
+    {
+      "idx": 46,
+      "name": "Seal Bundle Pointers",
+      "action": "Final pointers valid.",
+      "started_utc": "2026-02-26T11:44:40.948295+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948315+00:00"
+    },
+    {
+      "idx": 47,
+      "name": "No-Manual-Intervention Assertion",
+      "action": "Single prompt principle satisfied.",
+      "started_utc": "2026-02-26T11:44:40.948316+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948325+00:00"
+    },
+    {
+      "idx": 48,
+      "name": "Autonomous Closure Assertion",
+      "action": "Autonomous run reached closure gates.",
+      "started_utc": "2026-02-26T11:44:40.948327+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948359+00:00"
+    },
+    {
+      "idx": 49,
+      "name": "Write Final Verdict",
+      "action": "Prepare verdict payload.",
+      "started_utc": "2026-02-26T11:44:40.948360+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948362+00:00"
+    },
+    {
+      "idx": 50,
+      "name": "Done",
+      "action": "Autonomous 50-step run completed.",
+      "started_utc": "2026-02-26T11:44:40.948362+00:00",
+      "attempts": 1,
+      "status": "PASS",
+      "ended_utc": "2026-02-26T11:44:40.948364+00:00"
+    }
+  ],
+  "ended_utc": "2026-02-26T11:44:40.948402+00:00",
+  "verdict": "PASS",
+  "step_score": {
+    "passed": 50,
+    "total": 50
+  },
+  "submission_score": {
+    "passed": 7,
+    "total": 7,
+    "ready": true
+  }
+}

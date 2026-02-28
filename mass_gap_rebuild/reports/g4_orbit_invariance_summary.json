@@ -1,0 +1,10 @@
+{
+  "test": "G4_orbit_invariance_demo",
+  "cases": 12,
+  "tolerance": 1e-10,
+  "max_abs_diff_plaquette": 3.469446951953614e-18,
+  "max_abs_diff_w22": 6.938893903907228e-18,
+  "max_abs_diff_w33": 6.938893903907228e-18,
+  "status": "PASS",
+  "note": "Synthetic from-scratch SU(2) gauge-orbit invariance check. This validates the invariance test harness logic."
+}

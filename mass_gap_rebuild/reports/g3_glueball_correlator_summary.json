@@ -1,0 +1,13 @@
+{
+  "test": "G3_glueball_correlator_demo",
+  "cases": 12,
+  "max_abs_err_fit": 0.10521558905209927,
+  "max_rel_err_fit_pct": 37.19498601761057,
+  "max_abs_err_cosh": 1.1102230246251565e-16,
+  "max_rel_err_cosh_pct": 3.9213098368725655e-14,
+  "min_fitted_mass": 0.177639405117854,
+  "min_cosh_mass": 0.28284271247461895,
+  "max_size_spread": 0.0,
+  "status": "PASS",
+  "note": "Deterministic from-scratch correlator extraction harness. Used to validate G3 fit logic and reporting pipeline."
+}
