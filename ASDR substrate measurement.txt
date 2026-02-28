@@ -1,0 +1,280 @@
+
+# Δ-ADSR Breakdown by Measurement Style
+
+Think of this as:
+**same four phases, different observables, different failure modes.**
+
+---
+
+## 1. Frequency ADSR — *Locking in time*
+
+| Phase       | What it means physically | Core measurements                       | What it tells you                          |
+| ----------- | ------------------------ | --------------------------------------- | ------------------------------------------ |
+| **Attack**  | Pull-in toward resonance | Pull-in time (T_A^f), capture bandwidth | Basin accessibility, initial compatibility |
+| **Decay**   | Snap-to-lock             | Snap time (T_D^f), ζ spike, τ           | Gate presence (GATE-CURVE / GATE-SADDLE)   |
+| **Sustain** | Held lock                | Drift σ_S^f, phase noise                | Basin stability, LOW proximity             |
+| **Release** | Detune / relax           | Relax time (T_R^f), chirp response      | Memory + reversibility                     |
+
+**Failure signatures**
+
+* Long pull-in → high-order basin
+* Snap stalls → saddle instability
+* Drift grows → impending cavitation
+
+---
+
+## 2. Amplitude ADSR — *Energy accommodation*
+
+| Phase       | What it means physically | Core measurements            | What it tells you           |
+| ----------- | ------------------------ | ---------------------------- | --------------------------- |
+| **Attack**  | Energy injection         | Rise time (T_A^A), overshoot | Elastic vs brittle response |
+| **Decay**   | Compression into plateau | Settle time (T_D^A)          | Internal damping structure  |
+| **Sustain** | Steady amplitude         | Variance σ_S^A               | Robustness to perturbation  |
+| **Release** | Ring-down                | (T_R^A), decay constants     | Stored energy / memory mass |
+
+**Extra nonlinear metrics**
+
+* (dA/dF) (amplitude–frequency coupling)
+* Hysteresis area **H**
+
+**Failure signatures**
+
+* Overshoot → brittle basin
+* Asymmetric ring-down → memory scars
+
+---
+
+## 3. Phase ADSR — *Coherence and synchronization*
+
+| Phase       | What it means physically | Core measurements       | What it tells you       |
+| ----------- | ------------------------ | ----------------------- | ----------------------- |
+| **Attack**  | Phase capture            | Capture time (T_A^\phi) | Synchronizability       |
+| **Decay**   | Slip → lock              | Lock time (T_D^\phi)    | Basin smoothness        |
+| **Sustain** | Phase coherence          | Jitter σ_S^\phi         | Fine-scale stability    |
+| **Release** | Dephasing                | (T_R^\phi), slip rate   | Fragility under release |
+
+**Key derived metrics**
+
+* Phase lag (\phi_{lag})
+* Lock range
+* Cycle-slip probability
+
+**Failure signatures**
+
+* Phase breaks before amplitude → early hazard signal
+* Repeated slips → GATE-SADDLE proximity
+
+---
+
+## 4. Energy / Lyapunov ADSR — *Δ core ledger*
+
+| Phase       | Physical meaning | Core measurements   | Why it matters    |
+| ----------- | ---------------- | ------------------- | ----------------- |
+| **Attack**  | Energy injection | (dV/dt > 0) slope   | Cost of entry     |
+| **Decay**   | Relaxation       | Curvature of (V(t)) | Basin depth       |
+| **Sustain** | Metastable hold  | (\dot V \approx 0)  | Lock health       |
+| **Release** | Natural descent  | ( \dot V \le 0 )    | Validity of basin |
+
+**Critical rule**
+Release **must** show monotone or bounded descent for the basin to be real.
+
+**Failure signatures**
+
+* ( \dot V > 0 ) during Release → forbidden / unstable configuration
+
+---
+
+## 5. Geometry / Topology ADSR — *Shape persistence*
+
+| Phase       | Meaning           | Measurements                  | Insight             |
+| ----------- | ----------------- | ----------------------------- | ------------------- |
+| **Attack**  | Pattern formation | Time to recognizable geometry | Basin accessibility |
+| **Decay**   | Shape refinement  | Symmetry stabilization        | Internal ordering   |
+| **Sustain** | Shape persistence | Variance of geometry          | LOW vs high-order   |
+| **Release** | Shape dissolution | Residual geometry             | Memory imprint      |
+
+**Associated fields**
+
+* Cymatic tag
+* Chirality χ
+* Confinement κ
+* Holonomy (360° vs 720°)
+
+---
+
+## 6. Memory / Nonlinear ADSR — *History dependence*
+
+| Phase       | Meaning              | Measurements       | Insight                |
+| ----------- | -------------------- | ------------------ | ---------------------- |
+| **Attack**  | First imprint        | Initial hysteresis | Write sensitivity      |
+| **Decay**   | Memory consolidation | Loop tightening    | Basin learning         |
+| **Sustain** | Stored memory        | Hysteresis area H  | Memory mass            |
+| **Release** | Recall / erasure     | Residual offsets   | Plasticity vs scarring |
+
+---
+
+## How these fit together (important)
+
+* **All ADSRs run simultaneously**
+  You never have “just frequency ADSR.” You have a *bundle*.
+
+* **Hazard gates live at phase boundaries**
+  Especially:
+
+  * A→D (entry)
+  * D→S (capture)
+  * S→R (exit)
+
+* **Phase ADSR usually fails first**
+  Then frequency
+  Then amplitude
+  Then geometry
+  That ordering itself is a diagnostic.
+
+---
+
+# Extended Δ-ADSR Substrates (Encyclopedia Draft)
+
+## 0. Canonical Reminder (important framing)
+
+* **ADSR is universal**
+* **Metrics are substrate-specific**
+* **Hazard gates live at transitions**
+* **Release is the only phase that must obey Lyapunov descent**
+
+Everything below respects that.
+
+---
+
+## 7. Contrast / Order-Parameter ADSR
+
+*(c(t), order, coherence, participation)*
+
+| Phase   | Meaning             | Core metrics            | Diagnostic value           |
+| ------- | ------------------- | ----------------------- | -------------------------- |
+| Attack  | Order formation     | Rise in contrast Δc/Δt  | Accessibility of structure |
+| Decay   | Ordering refinement | Time to stable contrast | Basin smoothness           |
+| Sustain | Ordered state       | Variance σ_S^c          | Robustness                 |
+| Release | Disorder return     | Relaxation time         | Memory vs plasticity       |
+
+**Failure modes**
+
+* Contrast rises before phase locks → false coherence
+* Release stalls → trapped disorder (pathology)
+
+---
+
+## 8. Luminality / Transport ADSR
+
+*(Λ(t), flow, routing, corridors)*
+
+| Phase   | Meaning           | Metrics             | Insight                  |
+| ------- | ----------------- | ------------------- | ------------------------ |
+| Attack  | Channel opening   | Time to throughput  | Corridor eligibility     |
+| Decay   | Path optimization | ΔT improvement rate | Geodesic settling        |
+| Sustain | Stable routing    | Throughput variance | Transport robustness     |
+| Release | Channel collapse  | Fade symmetry       | Residual bias / scarring |
+
+**Key flags**
+
+* Fast attack + unstable sustain → filament overload
+* Asymmetric release → directional memory
+
+---
+
+## 9. Hazard / Abstention ADSR
+
+*(ζ(t), Θ-gates, veto pressure)*
+
+| Phase   | Meaning             | Metrics       | Why it matters   |
+| ------- | ------------------- | ------------- | ---------------- |
+| Attack  | Hazard accumulation | dζ/dt         | Entry cost       |
+| Decay   | Gate resolution     | ζ peak → fall | Safety margin    |
+| Sustain | Guarded operation   | ζ baseline    | Stable viability |
+| Release | Hazard dissipation  | Relax slope   | Recovery health  |
+
+**This ADSR is meta**
+It often **leads** the others — rising before phase/frequency failure.
+
+---
+
+## 10. Geometry / Shape ADSR
+
+*(pattern fields, cymatic forms)*
+
+| Phase   | Meaning             | Metrics            | Insight            |
+| ------- | ------------------- | ------------------ | ------------------ |
+| Attack  | Shape nucleation    | Time to tag        | Basin reachability |
+| Decay   | Symmetry refinement | Error → ideal      | Internal order     |
+| Sustain | Shape persistence   | Geometric variance | LOW compliance     |
+| Release | Shape dissolution   | Residual geometry  | Memory imprint     |
+
+**Important**
+
+* Geometry ADSR is discrete-continuous hybrid
+* Release residues are often your **best memory signal**
+
+---
+
+## 11. Topology / Symmetry ADSR
+
+*(chirality, holonomy, confinement)*
+
+| Phase   | Meaning               | Metrics         | Interpretation           |
+| ------- | --------------------- | --------------- | ------------------------ |
+| Attack  | Topological capture   | Lock time       | Structural admissibility |
+| Decay   | Constraint tightening | Sector pruning  | Basin enforcement        |
+| Sustain | Topological stability | χ, κ stability  | Identity strength        |
+| Release | Constraint release    | Sector survival | Confinement class        |
+
+**Key tests**
+
+* 360° vs 720° loop divergence
+* Lone sector vs triad survival
+
+---
+
+## 12. Memory / History ADSR
+
+*(hysteresis, learning, sediment)*
+
+| Phase   | Meaning          | Metrics          | Insight       |
+| ------- | ---------------- | ---------------- | ------------- |
+| Attack  | First write      | Loop area growth | Sensitivity   |
+| Decay   | Consolidation    | Loop tightening  | Learning rate |
+| Sustain | Stored memory    | H plateau        | Memory mass   |
+| Release | Recall / erasure | Residual offset  | Plasticity    |
+
+This ADSR often **lags** others — that lag is informative.
+
+---
+
+## 13. LOW / Ratio-Space ADSR
+
+*(distance to low-order locks)*
+
+| Phase   | Meaning         | Metrics             | Insight            |
+| ------- | --------------- | ------------------- | ------------------ |
+| Attack  | Ratio approach  | ΔL/Δt               | Lock accessibility |
+| Decay   | Ratio snap      | Time to nearest LOW | Basin depth        |
+| Sustain | Ratio stability | L variance          | LOW dominance      |
+| Release | Ratio drift     | Exit symmetry       | Structural bias    |
+
+**This one is subtle but powerful**
+It’s how you watch **RG thinning in time**, not just statically.
+
+---
+
+## 14. Material / Coupling ADSR *(optional, when available)*
+
+| Phase   | Meaning             | Metrics             | Use              |
+| ------- | ------------------- | ------------------- | ---------------- |
+| Attack  | Coupling activation | LO–TO response      | Entry cost       |
+| Decay   | Mode separation     | Split stabilization | Internal routing |
+| Sustain | Material lock       | Parameter drift     | Suitability      |
+| Release | Relaxation          | Recovery symmetry   | Fatigue          |
+
+Only log this when you *have* the data — it’s not mandatory.
+
+---
+
